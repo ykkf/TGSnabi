@@ -127,10 +127,10 @@
     "location": {
       "hall": 7,
       "boothNumber": "07-C03",
-      "mapX": 226.5,
-      "mapY": 65.0,
+      "mapX": 180.6,
+      "mapY": 234.7,
       "mapWidth": 38.6,
-      "mapHeight": 35.6
+      "mapHeight": 4.9
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 韓国)",
     "themeColor": "#e11d48",
@@ -228,10 +228,10 @@
     "location": {
       "hall": 4,
       "boothNumber": "04-C04",
-      "mapX": 520.8,
-      "mapY": 90.3,
-      "mapWidth": 28.0,
-      "mapHeight": 27.8
+      "mapX": 527.1,
+      "mapY": 83.0,
+      "mapWidth": 21.6,
+      "mapHeight": 7.3
     },
     "description": "アニプレックスブースでは、『MELTY BLOOD: TWI-LUMINA』、『鬼滅の刃 ヒノカミ血風譚2』のゲーム試遊を予定しております。続報をお楽しみに！",
     "themeColor": "#e11d48",
@@ -369,10 +369,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z09",
-      "mapX": 893.6,
-      "mapY": 75.0,
-      "mapWidth": 14.7,
-      "mapHeight": 20.0
+      "mapX": 872.5,
+      "mapY": 131.8,
+      "mapWidth": 16.6,
+      "mapHeight": 7.3
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -551,6 +551,14 @@
         "description": "【インティクリエイツ】うちわ",
         "iconType": "poster",
         "imageUrl": "./images/novelties/nov_131_ad7185b9eee1.jpg"
+      },
+      {
+        "id": "nov-notion-4-34523c",
+        "name": "うちわ（配布）",
+        "description": "【ブース配布 / 条件達成】うちわ（配布）",
+        "condition": "ブース配布 / 条件達成",
+        "iconType": "poster",
+        "imageUrl": "./images/novelties/nov_ad7185b9eee1.jpeg"
       }
     ],
     "shopItems": [],
@@ -566,12 +574,12 @@
     "category": "general",
     "categoryLabel": "一般展示",
     "location": {
-      "hall": 1,
+      "hall": 3,
       "boothNumber": "BT-52",
-      "mapX": 877.2,
-      "mapY": 75.0,
-      "mapWidth": 6.0,
-      "mapHeight": 11.9
+      "mapX": 610.0,
+      "mapY": 165.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "株式会社viviONは「ユーザーとクリエイターが楽しみながら幸せに生きていける社会」を目指し、総合二次元コンテンツサービスを展開しています。\nグループの利用ユーザーアカウント数は1,800万を突破（2026年3月）。グループ会社が運営するダウンロード販売サービス『DLsite』を基盤に、電子コミック『comipo』、PCゲームをスマホで遊べる『viviON GAMES』、二次元コラボ商品を扱う『viviON BLUE』などを運営。\n加えてVTuberプロダクション『あおぎり高校』、ボイスドラマレーベル『GIRLSMANIAX』、ASMR作品制作、出版『viviON THOTH』、アナログゲーム『ADICE』、インディーゲームレーベル『viviON Lab』を有し、IP企画から音響・出版・グッズ・ゲームまでを社内で一貫して手がけられる点が強みです。\nTGS2026では、IP・コンテンツの共創、グッズ／デザイン／音響制作のパートナー、ライセンスの供与・取得に関するご相談を幅広くお待ちしております。\n一般展示エリア：BT-52\nビジネスミーティングエリア：02-N08",
     "themeColor": "#e11d48",
@@ -616,10 +624,10 @@
     "location": {
       "hall": 4,
       "boothNumber": "04-C08",
-      "mapX": 515.3,
-      "mapY": 65.0,
-      "mapWidth": 33.5,
-      "mapHeight": 18.1
+      "mapX": 487.1,
+      "mapY": 225.6,
+      "mapWidth": 21.0,
+      "mapHeight": 12.2
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: オーストラリア)",
     "themeColor": "#e11d48",
@@ -676,7 +684,7 @@
     "category": "general",
     "categoryLabel": "一般展示",
     "location": {
-      "hall": 5,
+      "hall": 6,
       "boothNumber": "06-N03",
       "mapX": 365.6,
       "mapY": 126.0,
@@ -820,9 +828,9 @@
     "location": {
       "hall": 2,
       "boothNumber": "02-S08",
-      "mapX": 804.0,
+      "mapX": 766.7,
       "mapY": 31.8,
-      "mapWidth": 55.0,
+      "mapWidth": 44.8,
       "mapHeight": 23.7
     },
     "description": "出展コーナー: 物販コーナー (出展国/地域: 日本)",
@@ -836,7 +844,8 @@
         "conditionType": "play",
         "isLimited": true,
         "description": "【NHN】LINE：ディズニー ツムツム：ステッカー",
-        "iconType": "sticker"
+        "iconType": "sticker",
+        "imageUrl": "./images/novelties/nov_ec0f232d98c5.jpg"
       },
       {
         "id": "booth-549-notion-85",
@@ -845,7 +854,8 @@
         "conditionType": "play",
         "isLimited": true,
         "description": "【NHN】カードセット（試遊など条件）",
-        "iconType": "card"
+        "iconType": "card",
+        "imageUrl": "./images/novelties/nov_51e0cbf8f5a4.jpeg"
       },
       {
         "id": "booth-549-notion-196",
@@ -926,10 +936,10 @@
     "location": {
       "hall": 8,
       "boothNumber": "08-C03",
-      "mapX": 118.5,
-      "mapY": 97.1,
-      "mapWidth": 15.1,
-      "mapHeight": 6.8
+      "mapX": 154.6,
+      "mapY": 94.7,
+      "mapWidth": 13.9,
+      "mapHeight": 11.9
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -950,10 +960,10 @@
     "location": {
       "hall": 8,
       "boothNumber": "08-N18",
-      "mapX": 91.2,
-      "mapY": 113.6,
-      "mapWidth": 12.7,
-      "mapHeight": 16.1
+      "mapX": 97.8,
+      "mapY": 217.8,
+      "mapWidth": 36.7,
+      "mapHeight": 4.4
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 台湾)",
     "themeColor": "#fee2e2",
@@ -975,9 +985,9 @@
       "hall": 4,
       "boothNumber": "04-C05",
       "mapX": 495.1,
-      "mapY": 83.0,
-      "mapWidth": 20.2,
-      "mapHeight": 11.5
+      "mapY": 94.4,
+      "mapWidth": 25.6,
+      "mapHeight": 23.7
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -1132,10 +1142,10 @@
     "location": {
       "hall": 6,
       "boothNumber": "06-C02",
-      "mapX": 342.2,
-      "mapY": 64.9,
-      "mapWidth": 17.3,
-      "mapHeight": 11.2
+      "mapX": 322.8,
+      "mapY": 195.4,
+      "mapWidth": 33.9,
+      "mapHeight": 14.5
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 台湾)",
     "themeColor": "#e11d48",
@@ -1697,11 +1707,11 @@
     "category": "general",
     "categoryLabel": "一般展示",
     "location": {
-      "hall": 8,
+      "hall": 7,
       "boothNumber": "07-N08",
-      "mapX": 140.0,
+      "mapX": 158.8,
       "mapY": 126.0,
-      "mapWidth": 52.0,
+      "mapWidth": 42.8,
       "mapHeight": 22.1
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
@@ -1734,10 +1744,10 @@
     "location": {
       "hall": 7,
       "boothNumber": "07-C05",
-      "mapX": 181.7,
-      "mapY": 64.9,
-      "mapWidth": 17.0,
-      "mapHeight": 9.4
+      "mapX": 223.8,
+      "mapY": 213.5,
+      "mapWidth": 15.3,
+      "mapHeight": 4.5
     },
     "description": "GRAPHTは、「好きを語れる人を増やす」をミッションに、ゲームやカルチャーを日常で楽しめるプロダクトやサービスを展開するブランドです。\n物販ブースでは、人気ゲームタイトルやインフルエンサーとのコラボレーションアイテムを展開。「ストリートファイター 6」や「ダンガンロンパ」シリーズ、「三人称」のドンピシャさんとの新作コラボアイテムをはじめ、アパレル、デスク周りの雑貨、刺繍ステッカーなど、自分らしく身の回りを彩り、セルフカスタマイズを楽しめるアイテムを多数販売予定です。\n詳細はXアカウント（@GRAPHTSTORE）にて随時お知らせします。今年もGRAPHTにぜひご期待ください！",
     "themeColor": "#e11d48",
@@ -1803,12 +1813,12 @@
     "category": "general",
     "categoryLabel": "一般展示",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z39",
-      "mapX": 773.0,
-      "mapY": 75.0,
-      "mapWidth": 11.9,
-      "mapHeight": 11.9
+      "mapX": 891.7,
+      "mapY": 161.6,
+      "mapWidth": 43.3,
+      "mapHeight": 15.1
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -1827,12 +1837,12 @@
     "category": "general",
     "categoryLabel": "一般展示",
     "location": {
-      "hall": 8,
-      "boothNumber": "08-C04",
-      "mapX": 133.6,
-      "mapY": 97.1,
-      "mapWidth": 8.2,
-      "mapHeight": 6.8
+      "hall": 10,
+      "boothNumber": "10-E13",
+      "mapX": 158.1,
+      "mapY": 520.0,
+      "mapWidth": 16.0,
+      "mapHeight": 14.0
     },
     "description": "フジテレビONEの大人気長寿番組「ゲームセンターCX」は、今年で放送開始23年目！\n新作の番組オリジナルグッズをたっぷりご用意し、スタッフが直接ブースでみなさまをお迎えします。\nぜひお気軽にお立ち寄りいただき、お買い物をお楽しみください。\nスタッフ一同、みなさまのご来場を心よりお待ちしております！",
     "themeColor": "#e11d48",
@@ -1925,10 +1935,10 @@
     "location": {
       "hall": 2,
       "boothNumber": "02-N02",
-      "mapX": 743.0,
-      "mapY": 126.0,
-      "mapWidth": 60.0,
-      "mapHeight": 22.1
+      "mapX": 812.8,
+      "mapY": 135.7,
+      "mapWidth": 17.9,
+      "mapHeight": 9.9
     },
     "description": "当社は香港を拠点とし、アジアにおけるコンソールゲームの主要パブリッシャーおよび流通会社として事業を展開しております。",
     "themeColor": "#e11d48",
@@ -2259,7 +2269,7 @@
     "location": {
       "hall": 2,
       "boothNumber": "02-C10",
-      "mapX": 772.5,
+      "mapX": 786.5,
       "mapY": 74.0,
       "mapWidth": 14.0,
       "mapHeight": 5.8
@@ -2388,9 +2398,9 @@
     "location": {
       "hall": 3,
       "boothNumber": "03-N07",
-      "mapX": 625.7,
+      "mapX": 626.0,
       "mapY": 126.0,
-      "mapWidth": 55.0,
+      "mapWidth": 51.1,
       "mapHeight": 22.1
     },
     "description": "コーエーテクモゲームス物販ブースでは、「アトリエ」シリーズ、「BLUE REFLECTION」シリーズ、「DEAD OR ALIVE」シリーズ、『真・三國無双 ORIGINS』などの人気タイトルから新作グッズを多数ご用意しております。\nさらに『カリアのアトリエ』や『Wo Long 2: Wings of Ember』の新作グッズもいち早く登場です。皆さまのご来場をお待ちしています！",
@@ -2603,7 +2613,8 @@
         "conditionType": "play",
         "isLimited": true,
         "description": "【コーエーテクモ】信長の野望・飛翔：うちわ",
-        "iconType": "poster"
+        "iconType": "poster",
+        "imageUrl": "./images/novelties/nov_2b2ddb0eabcd.jpeg"
       },
       {
         "id": "booth-555-notion-177",
@@ -2646,12 +2657,12 @@
     "category": "general",
     "categoryLabel": "一般展示",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z50",
-      "mapX": 643.2,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 903.5,
+      "mapY": 162.3,
+      "mapWidth": 24.0,
+      "mapHeight": 10.1
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -3187,10 +3198,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z53",
-      "mapX": 889.1,
-      "mapY": 62.0,
-      "mapWidth": 13.8,
-      "mapHeight": 7.5
+      "mapX": 828.1,
+      "mapY": 195.4,
+      "mapWidth": 12.6,
+      "mapHeight": 14.5
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -3307,10 +3318,10 @@
     "location": {
       "hall": 8,
       "boothNumber": "08-C07",
-      "mapX": 161.2,
-      "mapY": 75.8,
-      "mapWidth": 14.4,
-      "mapHeight": 9.4
+      "mapX": 38.7,
+      "mapY": 196.8,
+      "mapWidth": 18.7,
+      "mapHeight": 31.1
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 中国)",
     "themeColor": "#e11d48",
@@ -3411,7 +3422,8 @@
         "conditionType": "play",
         "isLimited": true,
         "description": "【サンリオ】サンリオ　パーティーランド：缶バッジ",
-        "iconType": "badge"
+        "iconType": "badge",
+        "imageUrl": "./images/novelties/nov_fa960ca86c8d.jpeg"
       },
       {
         "id": "booth-583-notion-82",
@@ -3420,7 +3432,8 @@
         "conditionType": "play",
         "isLimited": true,
         "description": "【サンリオ】サンリオ　Kawaii Me Live!：缶バッジ",
-        "iconType": "badge"
+        "iconType": "badge",
+        "imageUrl": "./images/novelties/nov_eb7e1c9c70ae.jpeg"
       },
       {
         "id": "booth-583-notion-83",
@@ -3429,7 +3442,8 @@
         "conditionType": "play",
         "isLimited": true,
         "description": "【サンリオ】各タイトル試遊：ネックストラップ",
-        "iconType": "badge"
+        "iconType": "badge",
+        "imageUrl": "./images/novelties/nov_ae80cb036c9b.jpeg"
       },
       {
         "id": "booth-583-notion-208",
@@ -3456,9 +3470,9 @@
     "location": {
       "hall": 1,
       "boothNumber": "01-C13",
-      "mapX": 877.4,
+      "mapX": 898.2,
       "mapY": 81.8,
-      "mapWidth": 17.3,
+      "mapWidth": 8.2,
       "mapHeight": 10.0
     },
     "description": "新ブランドCrowxisについて\n「玄人志向」は2001年の展開開始以来、自作PCユーザーを中心に25年にわたり製品を提供してまいりました。\n\n今回のリブランディングでは、玄人志向が長年に渡り大切にしてきた「合理性、信頼性、実用性」を受け継ぎながらブランドの魅力を再定義し、現代のユーザーにとって理解・共感しやすい形へと翻訳してお伝えしていくことを目指しました。\n\n東京ゲームショウ2026では、玄人志向がユーザーの皆様と歩んできた歴史とともに、新ブランドのコンセプトや今後の新製品情報などゲスト共にお届けします。ぜひブースにお立ち寄りください。",
@@ -3491,10 +3505,10 @@
     "location": {
       "hall": 2,
       "boothNumber": "02-C09",
-      "mapX": 786.5,
-      "mapY": 74.0,
-      "mapWidth": 14.0,
-      "mapHeight": 5.8
+      "mapX": 808.4,
+      "mapY": 71.3,
+      "mapWidth": 13.9,
+      "mapHeight": 11.9
     },
     "description": "ゲームアート会社SHEER（本社：中国成都）は、2026年9月現在1200人のスタッフが正社員として在籍しており、2005年に設立して以来、中国、日本、海外のトップゲームメーカーと提携し、AAAのコンソールゲーム、モバイルゲームなど幅広い分野において、1000以上の案件に参加した実績があります。\n\n弊社の強み\n・⼤規模の1,000名のアーティストが正社員として在籍\n・セキュリティを強化した個室18室で合計400⼈を収容可能\n・日本案件専用IPアドレスを構築\n\n業務範囲\n共同開発、アートパイプライン制作、アートサービス",
     "themeColor": "#e11d48",
@@ -3575,9 +3589,9 @@
       "hall": 2,
       "boothNumber": "02-C04",
       "mapX": 772.5,
-      "mapY": 103.4,
-      "mapWidth": 11.9,
-      "mapHeight": 5.8
+      "mapY": 109.3,
+      "mapWidth": 14.0,
+      "mapHeight": 9.0
     },
     "description": "様々なタイトルの試遊台をご用意して皆様のご来場をお待ちしております。ぜひブースまでお越し下さいませ。\n\n『薔薇と椿 ～お豪華絢爛版～』\n『オバケイドロ２』\n『STAR OCEAN THE SECOND STORY R』\n『ホロの花札』\n『エトランジュ オーヴァーロード』\n『スーパーダンガンロンパ２×２』(映像出展のみ)",
     "themeColor": "#e11d48",
@@ -3622,10 +3636,10 @@
     "location": {
       "hall": 2,
       "boothNumber": "02-C03",
-      "mapX": 788.6,
-      "mapY": 103.4,
-      "mapWidth": 11.9,
-      "mapHeight": 5.8
+      "mapX": 786.5,
+      "mapY": 109.3,
+      "mapWidth": 14.0,
+      "mapHeight": 9.0
     },
     "description": "今年のシティコネクションブース（Hall 2-C 03）のテーマは「お祭り」！\n2026年～2027年発売予定の4タイトル＋αを出展いたします。\n\nさらに、『忍者じゃじゃ丸くん』シリーズ最新作『じゃじゃ丸の百鬼夜行伝』の出展を記念して、「体験！忍法ガマパックン！」フォトスポットコーナーを特設！\n皆さま、ぜひシティコネクションブースへお越しください！",
     "themeColor": "#e11d48",
@@ -3730,10 +3744,10 @@
     "location": {
       "hall": 5,
       "boothNumber": "05-C10",
-      "mapX": 414.8,
-      "mapY": 65.0,
-      "mapWidth": 22.4,
-      "mapHeight": 26.6
+      "mapX": 421.6,
+      "mapY": 225.3,
+      "mapWidth": 7.7,
+      "mapHeight": 13.5
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -3758,6 +3772,14 @@
         "description": "【集英社】呪術廻戦ランブル：うちわ、ステッカー",
         "iconType": "sticker",
         "imageUrl": "./images/novelties/nov_82_b34c26dfe02b.jpg"
+      },
+      {
+        "id": "nov-notion-3-d66512",
+        "name": "UN:ME（ブース体験でもOK）：ステッカー、瞬間冷却パック",
+        "description": "【試遊体験】UN:ME（ブース体験でもOK）：ステッカー、瞬間冷却パック",
+        "condition": "試遊体験",
+        "iconType": "sticker",
+        "imageUrl": "./images/novelties/nov_52b8dec5ff5f.jpeg"
       }
     ],
     "shopItems": [],
@@ -3775,10 +3797,10 @@
     "location": {
       "hall": 8,
       "boothNumber": "08-N06",
-      "mapX": 109.9,
-      "mapY": 126.0,
-      "mapWidth": 42.8,
-      "mapHeight": 22.1
+      "mapX": 108.0,
+      "mapY": 123.6,
+      "mapWidth": 13.9,
+      "mapHeight": 11.9
     },
     "description": "マウスコンピューターが展開する2つのゲーミングPCブランド「G TUNE(ジーチューン)」と「NEXTGEAR(ネクストギア)」で出展。「G TUNE」はeSportsシーンを盛り上げるすべてのプロフェッショナルを応援するハイパフォーマンスなゲーミングPCブランド、「NEXTGEAR」はコストパフォーマンスに優れたエントリーモデル中心に、ゲームを楽しむすべての人に向けた親しみやすいゲーミングPCブランドです。今回は新たにクリエターPCブランド「DAIV(ダイヴ)」の展示も行います。ブースでは、新製品展示・試遊・ステージイベント、eSports選手やストリーマーのゲーム実況を実施。ぜひご来場ください",
     "themeColor": "#e0f2fe",
@@ -3797,12 +3819,12 @@
     "category": "general",
     "categoryLabel": "一般展示",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z69",
-      "mapX": 742.9,
-      "mapY": 24.6,
-      "mapWidth": 22.7,
-      "mapHeight": 6.2
+      "mapX": 865.6,
+      "mapY": 195.4,
+      "mapWidth": 34.1,
+      "mapHeight": 14.5
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -3893,11 +3915,11 @@
     "category": "general",
     "categoryLabel": "一般展示",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z73",
-      "mapX": 657.7,
-      "mapY": 75.0,
-      "mapWidth": 17.1,
+      "mapX": 912.3,
+      "mapY": 195.4,
+      "mapWidth": 12.6,
       "mapHeight": 14.5
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 中国)",
@@ -4122,10 +4144,10 @@
     "location": {
       "hall": 2,
       "boothNumber": "02-S09",
-      "mapX": 743.0,
-      "mapY": 31.8,
-      "mapWidth": 55.0,
-      "mapHeight": 23.7
+      "mapX": 704.7,
+      "mapY": 30.3,
+      "mapWidth": 13.9,
+      "mapHeight": 11.9
     },
     "description": "スマイルゲートブースでは、今年リリース予定の『デッドアカウント～二つの蒼い炎～』、来年以降にリリース予定の『MIRESI：視えない未来』の2タイトルを出展いたします。両タイトルともにゲームの魅力を体感できる特別試遊台を用意しております。さらに、豪華ステージイベントやスペシャルノベルティも用意していますので、スマイルゲートブースへぜひお立ち寄りください！",
     "themeColor": "#e11d48",
@@ -4245,10 +4267,10 @@
     "location": {
       "hall": 4,
       "boothNumber": "04-N01",
-      "mapX": 473.6,
-      "mapY": 126.0,
-      "mapWidth": 125.7,
-      "mapHeight": 22.1
+      "mapX": 471.7,
+      "mapY": 123.6,
+      "mapWidth": 13.9,
+      "mapHeight": 11.9
     },
     "description": "出展コーナー: ファミリーゲームパーク (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -4704,10 +4726,10 @@
     "location": {
       "hall": 6,
       "boothNumber": "06-C03",
-      "mapX": 359.6,
-      "mapY": 64.9,
-      "mapWidth": 26.2,
-      "mapHeight": 11.2
+      "mapX": 308.3,
+      "mapY": 195.3,
+      "mapWidth": 12.3,
+      "mapHeight": 5.4
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -4766,10 +4788,10 @@
     "location": {
       "hall": 8,
       "boothNumber": "08-N20",
-      "mapX": 74.8,
-      "mapY": 113.6,
-      "mapWidth": 16.3,
-      "mapHeight": 8.0
+      "mapX": 97.6,
+      "mapY": 219.9,
+      "mapWidth": 37.2,
+      "mapHeight": 7.7
     },
     "description": "DUNLOPは今年も東京ゲームショウに出展します。昨年の物販ブースに続き、今年は一般展示エリアにて、eスポーツプレーヤーの健康とパフォーマンスを支えるアイテムや取り組みをご紹介します。\n\nアームサポーターの試遊体験や、レーシングゲームを使ったeモータースポーツ向けアイテムの紹介など、実際に触れて体験できるコンテンツをご用意しています。また、リカバリーウェアやフーディーブランケット、アイマスクなど、プレー前後のコンディショニングをサポートする製品も展示します。\n\nFENNEL選手のパネル展示も予定しています。ぜひDUNLOPブースへお越しください。",
     "themeColor": "#e11d48",
@@ -4790,10 +4812,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-99",
-      "mapX": 685.0,
-      "mapY": 75.0,
-      "mapWidth": 41.9,
-      "mapHeight": 20.0
+      "mapX": 619.5,
+      "mapY": 165.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 韓国)",
     "themeColor": "#e11d48",
@@ -4812,12 +4834,12 @@
     "category": "general",
     "categoryLabel": "一般展示",
     "location": {
-      "hall": 8,
-      "boothNumber": "08-C12",
-      "mapX": 118.4,
-      "mapY": 65.0,
-      "mapWidth": 31.6,
-      "mapHeight": 8.0
+      "hall": 10,
+      "boothNumber": "10-E13",
+      "mapX": 158.1,
+      "mapY": 520.0,
+      "mapWidth": 16.0,
+      "mapHeight": 14.0
     },
     "description": "タイ国商務省国際貿易振興局（DITP）の取りまとめにより、タイのゲーム関連企業計17社が出展します。自社開発のゲームタイトルを紹介する制作会社の他、ゲーミングマウス等の機器を取り扱う企業、タイ市場向けのローカライズ支援サービス企業、ゲーム企業向けのコワーキングスペース運営企業が参加します。",
     "themeColor": "#e11d48",
@@ -4839,8 +4861,8 @@
       "hall": 1,
       "boothNumber": "01-C04",
       "mapX": 898.2,
-      "mapY": 81.8,
-      "mapWidth": 8.2,
+      "mapY": 91.8,
+      "mapWidth": 12.8,
       "mapHeight": 10.0
     },
     "description": "大邱デジタルイノベーション振興院は、デジタルを通じて今後50年間、大邱の未来繁栄をリードしていく専門機関として、大韓民国を代表する「デジタルイノベーション都市・大邱！」へと生まれ変わる歴史的なサクセスストーリーを書き上げていきたいと考えております。\n\n今回の展示会では、大邱に位置するゲーム企業の作品を合計4つご紹介いたします。\n\n皆様の多くのご関心とご来場を心よりお待ちしております。",
@@ -4912,10 +4934,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "03-N04",
-      "mapX": 683.0,
-      "mapY": 126.0,
-      "mapWidth": 46.5,
-      "mapHeight": 22.1
+      "mapX": 681.1,
+      "mapY": 123.6,
+      "mapWidth": 13.9,
+      "mapHeight": 11.9
     },
     "description": "過去最大の出展規模となるDMM GAMESブース（ホール3）にて『刀剣乱舞ぱずぎり』『マブラヴ ガールズガーデン』『ドットアビス』『恋姫†大戦』など数多くのゲームタイトルを出展いたします。\n\n『刀剣乱舞ぱずぎり』コーナーではリリースに先駆け、ゲームを先行体験を実施予定。他コーナーもノベルティ配布やタイトルの魅力をたっぷり堪能いただけるコンテンツを用意しております。\n\nブース内ステージでは各タイトルの最新情報発表やスペシャルゲストの登壇、スペシャルライブなど展開予定です。ぜひDMM GAMESブースに足をお運びください。",
     "themeColor": "#e0e7ff",
@@ -5055,6 +5077,22 @@
         "isLimited": true,
         "description": "【DMM】ドットアビス：うちわ（配布）エナドリ・名刺（体験）",
         "iconType": "poster"
+      },
+      {
+        "id": "nov-notion-8-083836",
+        "name": "●メッシュエコバッグ・ステッカー",
+        "description": "【試遊体験】●メッシュエコバッグ・ステッカー",
+        "condition": "試遊体験",
+        "iconType": "sticker",
+        "imageUrl": "./images/novelties/nov_8b0326fd9e0f.jpeg"
+      },
+      {
+        "id": "nov-notion-9-165d6e",
+        "name": "スクイーズ（配布）",
+        "description": "【ブース配布 / 条件達成】スクイーズ（配布）",
+        "condition": "ブース配布 / 条件達成",
+        "iconType": "other",
+        "imageUrl": "./images/novelties/nov_7baee6ff9f5c.jpeg"
       }
     ],
     "shopItems": [],
@@ -5072,10 +5110,10 @@
     "location": {
       "hall": 5,
       "boothNumber": "05-C03",
-      "mapX": 443.8,
-      "mapY": 65.0,
-      "mapWidth": 22.4,
-      "mapHeight": 26.5
+      "mapX": 427.7,
+      "mapY": 202.2,
+      "mapWidth": 13.9,
+      "mapHeight": 14.8
     },
     "description": "ディースリー・パブリッシャーブース（ブース番号：Hall5 05-C03）にて、『地球防衛軍』シリーズをはじめとした最新ゲームタイトルの出展を行います。\n試遊コーナーでは、PlayStation5で登場するシリーズ最新作『地球防衛軍６.２ INVADERS FROM ANOTHER WORLD』の試遊台を出展。シリーズNo.1となる圧倒的な敵物量との戦闘体験をはじめ、武器カスタマイズも部分的に体験可能となる予定です。\nまた、10月8日発売の『地球防衛軍５ for Nintendo Switch 2』、今冬発売予定の『地球防衛軍６ for Nintendo Switch 2』も、試遊コーナーでいち早く体感いただけます。\n\nブース内ステージでは『地球防衛軍』シリーズをはじめとした新作タイトルに関する情報をお届けするイベントがもりだくさん。ステージの様子は、YouTube・ニコニコ動画等でのライブ配信も予定しております。\n\nイベント内容・スケジュール等の詳細は、ディースリー・パブリッシャーおよび地球防衛軍公式X、TGS2026特設サイトにて順次公開してまいります。",
     "themeColor": "#e11d48",
@@ -5299,10 +5337,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z04",
-      "mapX": 866.7,
-      "mapY": 62.0,
-      "mapWidth": 10.9,
-      "mapHeight": 7.5
+      "mapX": 898.2,
+      "mapY": 201.3,
+      "mapWidth": 12.3,
+      "mapHeight": 5.4
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -5347,10 +5385,10 @@
     "location": {
       "hall": 8,
       "boothNumber": "08-C08",
-      "mapX": 150.0,
-      "mapY": 75.8,
-      "mapWidth": 11.1,
-      "mapHeight": 9.4
+      "mapX": 148.2,
+      "mapY": 73.4,
+      "mapWidth": 13.9,
+      "mapHeight": 11.9
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 中国)",
     "themeColor": "#e11d48",
@@ -5395,10 +5433,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-60",
-      "mapX": 677.9,
-      "mapY": 75.0,
-      "mapWidth": 3.0,
-      "mapHeight": 11.9
+      "mapX": 629.0,
+      "mapY": 165.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -5438,12 +5476,12 @@
     "category": "general",
     "categoryLabel": "一般展示",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z09",
-      "mapX": 788.0,
-      "mapY": 75.0,
-      "mapWidth": 14.7,
-      "mapHeight": 20.0
+      "mapX": 956.0,
+      "mapY": 195.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 中国)",
     "themeColor": "#e11d48",
@@ -5462,12 +5500,12 @@
     "category": "general",
     "categoryLabel": "一般展示",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z10",
-      "mapX": 683.7,
-      "mapY": 75.0,
-      "mapWidth": 86.7,
-      "mapHeight": 15.0
+      "mapX": 830.0,
+      "mapY": 207.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -5488,10 +5526,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z11",
-      "mapX": 872.5,
-      "mapY": 131.8,
-      "mapWidth": 8.3,
-      "mapHeight": 7.3
+      "mapX": 848.0,
+      "mapY": 207.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -5536,10 +5574,10 @@
     "location": {
       "hall": 8,
       "boothNumber": "08-C06",
-      "mapX": 156.5,
-      "mapY": 97.1,
-      "mapWidth": 19.0,
-      "mapHeight": 6.8
+      "mapX": 97.5,
+      "mapY": 213.8,
+      "mapWidth": 37.4,
+      "mapHeight": 4.0
     },
     "description": "もっと遊ぶために、もっと保存できるストレージを。\nNextorageブースでは、各種ゲーム機やゲーミングPC向けのSSD、メモリーカードを展示します。ゲーム試遊を楽しみながら、容量別のゲームタイトル保存数の目安など、メモリー選びに役立つ情報をご覧いただけるほか、ゲーム環境に合わせたストレージ製品をご紹介します。また、一般公開日にはコスプレ撮影会を開催予定です。ゲームをもっと楽しむためのストレージを、ぜひNextorageブースでご覧ください。",
     "themeColor": "#e11d48",
@@ -5651,12 +5689,12 @@
     "category": "general",
     "categoryLabel": "一般展示",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z15",
-      "mapX": 746.8,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 866.0,
+      "mapY": 207.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -5796,6 +5834,13 @@
         "isLimited": true,
         "description": "【ネットマーブル】クッション・アクスタ・キーホルダー（くじ）",
         "iconType": "badge"
+      },
+      {
+        "id": "nov-notion-13-a349c5",
+        "name": "うちわ（Xフォロー）",
+        "description": "【公式SNSフォロー / 条件達成】うちわ（Xフォロー）",
+        "condition": "公式SNSフォロー / 条件達成",
+        "iconType": "poster"
       }
     ],
     "shopItems": [],
@@ -5896,12 +5941,12 @@
     "category": "general",
     "categoryLabel": "一般展示",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z20",
-      "mapX": 733.5,
-      "mapY": 75.0,
-      "mapWidth": 24.0,
-      "mapHeight": 10.1
+      "mapX": 884.0,
+      "mapY": 207.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -5945,11 +5990,11 @@
     "categoryLabel": "一般展示",
     "location": {
       "hall": 6,
-      "boothNumber": "09-E63",
-      "mapX": 290.6,
-      "mapY": 126.0,
-      "mapWidth": 17.1,
-      "mapHeight": 22.1
+      "boothNumber": "06-N01",
+      "mapX": 292.3,
+      "mapY": 118.0,
+      "mapWidth": 45.0,
+      "mapHeight": 25.0
     },
     "description": "おもしろいインディーゲームを世界中からセレクトして発売するゲームレーベル【Happinet Indie Collection】。\nBitSummit朱色賞＜大賞＞受賞タイトル『アーティス インパクト』を始め、Switch2版として新たに展開されている『Stray』が試遊できるコーナーを展開。\n会場にお越しの際は、是非【Happinet Indie Collection】のブースへお立ち寄りください！",
     "themeColor": "#fee2e2",
@@ -6007,10 +6052,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z23",
-      "mapX": 891.7,
-      "mapY": 75.0,
-      "mapWidth": 43.3,
-      "mapHeight": 15.1
+      "mapX": 902.0,
+      "mapY": 207.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -6264,7 +6309,8 @@
         "conditionType": "play",
         "isLimited": true,
         "description": "【BEEP】project; VIRAI:Tシャツ",
-        "iconType": "tshirt"
+        "iconType": "tshirt",
+        "imageUrl": "./images/novelties/nov_2c3a66df66d4.jpg"
       }
     ],
     "shopItems": [],
@@ -6383,10 +6429,10 @@
     "location": {
       "hall": 8,
       "boothNumber": "08-N08",
-      "mapX": 82.0,
-      "mapY": 126.0,
-      "mapWidth": 52.0,
-      "mapHeight": 22.1
+      "mapX": 86.8,
+      "mapY": 154.6,
+      "mapWidth": 9.3,
+      "mapHeight": 6.6
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -6484,10 +6530,10 @@
     "location": {
       "hall": 5,
       "boothNumber": "05-C04",
-      "mapX": 466.2,
-      "mapY": 65.0,
-      "mapWidth": 22.4,
-      "mapHeight": 26.5
+      "mapX": 464.3,
+      "mapY": 195.3,
+      "mapWidth": 12.3,
+      "mapHeight": 5.4
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -6572,10 +6618,10 @@
     "location": {
       "hall": 8,
       "boothNumber": "08-C01",
-      "mapX": 141.8,
-      "mapY": 97.1,
-      "mapWidth": 14.7,
-      "mapHeight": 6.8
+      "mapX": 145.3,
+      "mapY": 101.5,
+      "mapWidth": 13.9,
+      "mapHeight": 11.9
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 英国)",
     "themeColor": "#e11d48",
@@ -6594,12 +6640,12 @@
     "category": "general",
     "categoryLabel": "一般展示",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z36",
-      "mapX": 761.2,
-      "mapY": 75.0,
-      "mapWidth": 17.3,
-      "mapHeight": 14.5
+      "mapX": 920.0,
+      "mapY": 207.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -6620,10 +6666,10 @@
     "location": {
       "hall": 7,
       "boothNumber": "07-C06",
-      "mapX": 198.7,
-      "mapY": 64.9,
-      "mapWidth": 21.7,
-      "mapHeight": 9.4
+      "mapX": 223.6,
+      "mapY": 217.5,
+      "mapWidth": 15.7,
+      "mapHeight": 10.2
     },
     "description": "インディーゲームパブリッシングブランド「PLAYISM」から発売予定のゲームタイトルをご紹介します。",
     "themeColor": "#0284c7",
@@ -6869,10 +6915,10 @@
     "location": {
       "hall": 8,
       "boothNumber": "08-C13",
-      "mapX": 150.0,
-      "mapY": 65.0,
-      "mapWidth": 25.5,
-      "mapHeight": 10.8
+      "mapX": 101.0,
+      "mapY": 195.4,
+      "mapWidth": 34.9,
+      "mapHeight": 14.5
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 韓国)",
     "themeColor": "#e11d48",
@@ -6917,10 +6963,10 @@
     "location": {
       "hall": 4,
       "boothNumber": "04-S02",
-      "mapX": 471.7,
-      "mapY": 31.8,
-      "mapWidth": 59.8,
-      "mapHeight": 23.7
+      "mapX": 470.8,
+      "mapY": 30.3,
+      "mapWidth": 13.9,
+      "mapHeight": 11.9
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -7030,12 +7076,12 @@
     "category": "general",
     "categoryLabel": "一般展示",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z44",
-      "mapX": 722.9,
-      "mapY": 75.0,
-      "mapWidth": 12.6,
-      "mapHeight": 14.5
+      "mapX": 938.0,
+      "mapY": 207.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -7288,10 +7334,10 @@
     "location": {
       "hall": 8,
       "boothNumber": "08-N01",
-      "mapX": 160.2,
-      "mapY": 157.1,
-      "mapWidth": 8.1,
-      "mapHeight": 4.1
+      "mapX": 59.0,
+      "mapY": 195.4,
+      "mapWidth": 12.6,
+      "mapHeight": 14.5
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -7360,9 +7406,9 @@
     "location": {
       "hall": 1,
       "boothNumber": "01-C12",
-      "mapX": 864.1,
+      "mapX": 877.4,
       "mapY": 81.8,
-      "mapWidth": 13.3,
+      "mapWidth": 17.3,
       "mapHeight": 10.0
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
@@ -7395,10 +7441,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z53",
-      "mapX": 902.9,
-      "mapY": 62.0,
-      "mapWidth": 13.8,
-      "mapHeight": 7.5
+      "mapX": 956.0,
+      "mapY": 207.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -7515,10 +7561,10 @@
     "location": {
       "hall": 5,
       "boothNumber": "05-C09",
-      "mapX": 392.4,
-      "mapY": 65.0,
-      "mapWidth": 22.4,
-      "mapHeight": 26.6
+      "mapX": 427.4,
+      "mapY": 195.4,
+      "mapWidth": 34.9,
+      "mapHeight": 14.5
     },
     "description": "最大7vs7で戦うメカアクションシューティング『DARK MACHINE THE GAME』のTGS限定実機試遊を実施。\nあわせて、一般公開日の3日間には、プロeスポーツチーム・声優陣・開発チームが登壇するスペシャルステージ「エキシビジョンマッチ」を開催します。\nさらに、来場者特典やXフォローキャンペーンもご用意し、\"見る\"だけでなく\"体験する\"ブースをお届けします。",
     "themeColor": "#e11d48",
@@ -7539,10 +7585,10 @@
     "location": {
       "hall": 8,
       "boothNumber": "08-N02",
-      "mapX": 152.0,
-      "mapY": 157.1,
-      "mapWidth": 8.1,
-      "mapHeight": 4.1
+      "mapX": 151.1,
+      "mapY": 155.7,
+      "mapWidth": 13.9,
+      "mapHeight": 11.9
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -7972,10 +8018,10 @@
     "location": {
       "hall": 8,
       "boothNumber": "08-N03",
-      "mapX": 143.9,
-      "mapY": 157.1,
-      "mapWidth": 8.1,
-      "mapHeight": 4.1
+      "mapX": 143.0,
+      "mapY": 155.7,
+      "mapWidth": 13.9,
+      "mapHeight": 11.9
     },
     "description": "出展コーナー: 一般展示 (出展国/地域: 日本)",
     "themeColor": "#e11d48",
@@ -8063,12 +8109,12 @@
     "category": "general",
     "categoryLabel": "スマートフォンゲームコーナー",
     "location": {
-      "hall": 6,
+      "hall": 3,
       "boothNumber": "BT-104",
-      "mapX": 264.0,
-      "mapY": 75.0,
-      "mapWidth": 14.8,
-      "mapHeight": 14.5
+      "mapX": 638.5,
+      "mapY": 165.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: スマートフォンゲームコーナー (出展国/地域: 韓国)",
     "themeColor": "#475569",
@@ -9287,12 +9333,12 @@
     "category": "general",
     "categoryLabel": "ゲーミングライフスタイルコーナー",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z26",
-      "mapX": 837.4,
-      "mapY": 82.1,
-      "mapWidth": 23.2,
-      "mapHeight": 19.5
+      "mapX": 830.0,
+      "mapY": 219.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: ゲーミングライフスタイルコーナー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -9359,12 +9405,12 @@
     "category": "general",
     "categoryLabel": "ゲーミングライフスタイルコーナー",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z29",
-      "mapX": 640.3,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 848.0,
+      "mapY": 219.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: ゲーミングライフスタイルコーナー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -9528,11 +9574,11 @@
     "categoryLabel": "AR",
     "location": {
       "hall": 1,
-      "boothNumber": "03-Z36",
-      "mapX": 910.0,
-      "mapY": 75.0,
-      "mapWidth": 17.3,
-      "mapHeight": 14.5
+      "boothNumber": "01-A12",
+      "mapX": 890.0,
+      "mapY": 205.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: AR (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10069,12 +10115,12 @@
     "category": "general",
     "categoryLabel": "⽳吹ビジネス専⾨学校",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z52",
-      "mapX": 848.1,
-      "mapY": 112.4,
-      "mapWidth": 80.9,
-      "mapHeight": 4.0
+      "mapX": 866.0,
+      "mapY": 219.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: ⽳吹ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10093,12 +10139,12 @@
     "category": "general",
     "categoryLabel": "⽳吹ビジネス専⾨学校",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z53",
-      "mapX": 668.0,
-      "mapY": 62.0,
-      "mapWidth": 13.8,
-      "mapHeight": 7.5
+      "mapX": 884.0,
+      "mapY": 219.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: ⽳吹ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10143,10 +10189,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z55",
-      "mapX": 893.6,
-      "mapY": 75.0,
-      "mapWidth": 44.0,
-      "mapHeight": 20.0
+      "mapX": 902.0,
+      "mapY": 219.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: ⽳吹ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10189,12 +10235,12 @@
     "category": "general",
     "categoryLabel": "⽳吹ビジネス専⾨学校",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z57",
-      "mapX": 828.1,
-      "mapY": 75.0,
-      "mapWidth": 12.6,
-      "mapHeight": 14.5
+      "mapX": 920.0,
+      "mapY": 219.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: ⽳吹ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10213,12 +10259,12 @@
     "category": "general",
     "categoryLabel": "⽳吹ビジネス専⾨学校",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z58",
-      "mapX": 643.2,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 938.0,
+      "mapY": 219.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: ⽳吹ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10239,10 +10285,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z59",
-      "mapX": 889.1,
-      "mapY": 62.0,
-      "mapWidth": 20.8,
-      "mapHeight": 7.5
+      "mapX": 956.0,
+      "mapY": 219.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: ⽳吹ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10261,12 +10307,12 @@
     "category": "general",
     "categoryLabel": "⽳吹ビジネス専⾨学校",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z60",
-      "mapX": 773.0,
-      "mapY": 75.0,
-      "mapWidth": 11.9,
-      "mapHeight": 11.9
+      "mapX": 830.0,
+      "mapY": 231.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: ⽳吹ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10285,12 +10331,12 @@
     "category": "general",
     "categoryLabel": "⽳吹ビジネス専⾨学校",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z61",
-      "mapX": 657.7,
-      "mapY": 75.0,
-      "mapWidth": 34.3,
-      "mapHeight": 14.5
+      "mapX": 848.0,
+      "mapY": 231.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: ⽳吹ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10311,10 +10357,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z62",
-      "mapX": 866.7,
-      "mapY": 62.0,
-      "mapWidth": 21.8,
-      "mapHeight": 7.5
+      "mapX": 866.0,
+      "mapY": 231.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: ⽳吹ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10333,12 +10379,12 @@
     "category": "general",
     "categoryLabel": "岡山情報ビジネス学院",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z63",
-      "mapX": 742.9,
-      "mapY": 24.6,
-      "mapWidth": 22.7,
-      "mapHeight": 6.2
+      "mapX": 884.0,
+      "mapY": 231.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 岡山情報ビジネス学院 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10357,12 +10403,12 @@
     "category": "general",
     "categoryLabel": "河原電⼦ビジネス専⾨学校",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z64",
-      "mapX": 685.0,
-      "mapY": 75.0,
-      "mapWidth": 83.8,
-      "mapHeight": 20.0
+      "mapX": 902.0,
+      "mapY": 231.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 河原電⼦ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10383,10 +10429,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z65",
-      "mapX": 872.5,
-      "mapY": 131.8,
-      "mapWidth": 16.6,
-      "mapHeight": 7.3
+      "mapX": 920.0,
+      "mapY": 231.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 河原電⼦ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10405,12 +10451,12 @@
     "category": "general",
     "categoryLabel": "河原電⼦ビジネス専⾨学校",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z66",
-      "mapX": 746.8,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 938.0,
+      "mapY": 231.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 河原電⼦ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10429,12 +10475,12 @@
     "category": "general",
     "categoryLabel": "河原電⼦ビジネス専⾨学校",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z67",
-      "mapX": 668.9,
-      "mapY": 75.0,
-      "mapWidth": 11.9,
-      "mapHeight": 11.9
+      "mapX": 956.0,
+      "mapY": 231.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 河原電⼦ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10503,10 +10549,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z70",
-      "mapX": 898.2,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 830.0,
+      "mapY": 243.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 国際電⼦ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10590,12 +10636,12 @@
     "category": "general",
     "categoryLabel": "国際電⼦ビジネス専⾨学校",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z72",
-      "mapX": 761.2,
-      "mapY": 75.0,
-      "mapWidth": 34.6,
-      "mapHeight": 14.5
+      "mapX": 848.0,
+      "mapY": 243.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 国際電⼦ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10614,12 +10660,12 @@
     "category": "general",
     "categoryLabel": "国際電⼦ビジネス専⾨学校",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z73",
-      "mapX": 674.8,
-      "mapY": 75.0,
-      "mapWidth": 17.1,
-      "mapHeight": 14.5
+      "mapX": 866.0,
+      "mapY": 243.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 国際電⼦ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10640,10 +10686,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z74",
-      "mapX": 912.3,
-      "mapY": 75.0,
-      "mapWidth": 12.6,
-      "mapHeight": 14.5
+      "mapX": 884.0,
+      "mapY": 243.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 国際電⼦ビジネス専⾨学校 (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10662,12 +10708,12 @@
     "category": "general",
     "categoryLabel": "ゲームアカデミー",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z75",
-      "mapX": 740.3,
-      "mapY": 75.0,
-      "mapWidth": 15.6,
-      "mapHeight": 7.6
+      "mapX": 902.0,
+      "mapY": 243.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 専⾨学校⼤阪デザイナー・アカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10686,12 +10732,12 @@
     "category": "general",
     "categoryLabel": "専⾨学校東京クールジャパン・アカデミー",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z76",
-      "mapX": 683.7,
-      "mapY": 75.0,
-      "mapWidth": 86.7,
-      "mapHeight": 15.0
+      "mapX": 920.0,
+      "mapY": 243.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 専⾨学校東京クールジャパン・アカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10712,10 +10758,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z77",
-      "mapX": 905.0,
-      "mapY": 75.0,
-      "mapWidth": 14.2,
-      "mapHeight": 18.4
+      "mapX": 938.0,
+      "mapY": 243.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 総合学園ヒューマンアカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -10960,11 +11006,11 @@
     "category": "general",
     "categoryLabel": "総合学園ヒューマンアカデミー",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z79",
-      "mapX": 813.0,
-      "mapY": 123.8,
-      "mapWidth": 12.4,
+      "mapX": 956.0,
+      "mapY": 243.0,
+      "mapWidth": 16.0,
       "mapHeight": 10.0
     },
     "description": "出展コーナー: 総合学園ヒューマンアカデミー (出展国/地域: 日本)",
@@ -10984,12 +11030,12 @@
     "category": "general",
     "categoryLabel": "総合学園ヒューマンアカデミー",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z80",
-      "mapX": 733.5,
-      "mapY": 75.0,
-      "mapWidth": 24.0,
-      "mapHeight": 10.1
+      "mapX": 830.0,
+      "mapY": 255.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 総合学園ヒューマンアカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -11010,10 +11056,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z81",
-      "mapX": 893.6,
-      "mapY": 75.0,
-      "mapWidth": 44.0,
-      "mapHeight": 20.0
+      "mapX": 848.0,
+      "mapY": 255.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 総合学園ヒューマンアカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -11032,12 +11078,12 @@
     "category": "general",
     "categoryLabel": "総合学園ヒューマンアカデミー",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z82",
-      "mapX": 787.7,
-      "mapY": 75.0,
-      "mapWidth": 86.5,
-      "mapHeight": 15.1
+      "mapX": 866.0,
+      "mapY": 255.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 総合学園ヒューマンアカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -11056,12 +11102,12 @@
     "category": "general",
     "categoryLabel": "ゲームアカデミー",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z83",
-      "mapX": 722.9,
-      "mapY": 75.0,
-      "mapWidth": 12.6,
-      "mapHeight": 14.5
+      "mapX": 884.0,
+      "mapY": 255.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 総合学園ヒューマンアカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -11082,10 +11128,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z84",
-      "mapX": 877.2,
-      "mapY": 75.0,
-      "mapWidth": 11.9,
-      "mapHeight": 11.9
+      "mapX": 902.0,
+      "mapY": 255.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: 総合学園ヒューマンアカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -11320,12 +11366,12 @@
     "category": "general",
     "categoryLabel": "バンタンゲームアカデミー",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z04",
-      "mapX": 788.0,
-      "mapY": 62.0,
-      "mapWidth": 10.9,
-      "mapHeight": 7.5
+      "mapX": 920.0,
+      "mapY": 255.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: バンタンゲームアカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -11344,12 +11390,12 @@
     "category": "general",
     "categoryLabel": "バンタンゲームアカデミー",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z05",
-      "mapX": 640.3,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 938.0,
+      "mapY": 255.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: バンタンゲームアカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -11370,10 +11416,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z06",
-      "mapX": 893.6,
-      "mapY": 75.0,
-      "mapWidth": 44.0,
-      "mapHeight": 20.0
+      "mapX": 956.0,
+      "mapY": 255.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: バンタンゲームアカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -11392,12 +11438,12 @@
     "category": "general",
     "categoryLabel": "バンタンゲームアカデミー",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z07",
-      "mapX": 819.6,
-      "mapY": 75.0,
-      "mapWidth": 83.6,
-      "mapHeight": 18.4
+      "mapX": 830.0,
+      "mapY": 267.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: バンタンゲームアカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -11416,12 +11462,12 @@
     "category": "general",
     "categoryLabel": "バンタンゲームアカデミー",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z08",
-      "mapX": 643.2,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 848.0,
+      "mapY": 267.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: バンタンゲームアカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -11442,10 +11488,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z09",
-      "mapX": 923.0,
-      "mapY": 75.0,
-      "mapWidth": 14.7,
-      "mapHeight": 20.0
+      "mapX": 866.0,
+      "mapY": 267.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: バンタンゲームアカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -11509,12 +11555,12 @@
     "category": "general",
     "categoryLabel": "バンタンゲームアカデミー",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z11",
-      "mapX": 788.0,
-      "mapY": 131.8,
-      "mapWidth": 8.3,
-      "mapHeight": 7.3
+      "mapX": 884.0,
+      "mapY": 267.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: バンタンゲームアカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -11533,12 +11579,12 @@
     "category": "general",
     "categoryLabel": "バンタンゲームアカデミー",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z12",
-      "mapX": 657.7,
-      "mapY": 75.0,
-      "mapWidth": 34.3,
-      "mapHeight": 14.5
+      "mapX": 902.0,
+      "mapY": 267.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: バンタンゲームアカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -11559,10 +11605,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z13",
-      "mapX": 889.1,
-      "mapY": 62.0,
-      "mapWidth": 41.5,
-      "mapHeight": 7.5
+      "mapX": 920.0,
+      "mapY": 267.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: バンタンゲームアカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -11581,12 +11627,12 @@
     "category": "general",
     "categoryLabel": "バンタンゲームアカデミー",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z14",
-      "mapX": 830.9,
-      "mapY": 61.6,
-      "mapWidth": 100.2,
-      "mapHeight": 8.4
+      "mapX": 938.0,
+      "mapY": 267.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: バンタンゲームアカデミー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -11629,12 +11675,12 @@
     "category": "general",
     "categoryLabel": "オールアクセシビリティコーナー",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z16",
-      "mapX": 685.0,
-      "mapY": 75.0,
-      "mapWidth": 83.8,
-      "mapHeight": 20.0
+      "mapX": 956.0,
+      "mapY": 267.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: オールアクセシビリティコーナー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -13890,8 +13936,8 @@
     "category": "indie",
     "categoryLabel": "インディーゲームコーナー",
     "location": {
-      "hall": 7,
-      "boothNumber": "07-C07",
+      "hall": 9,
+      "boothNumber": "09-C60",
       "mapX": 159.9,
       "mapY": 75.0,
       "mapWidth": 12.6,
@@ -15268,7 +15314,24 @@
     "description": "出展コーナー: インディーゲームコーナー (出展国/地域: 日本)",
     "themeColor": "#0284c7",
     "games": [],
-    "novelties": [],
+    "novelties": [
+      {
+        "id": "nov-notion-1-12dcc0",
+        "name": "クリアカード",
+        "description": "【試遊体験】クリアカード",
+        "condition": "試遊体験",
+        "iconType": "poster",
+        "imageUrl": "./images/novelties/nov_d19ada735308.webp"
+      },
+      {
+        "id": "nov-notion-2-9f8f32",
+        "name": "うちわ（X）",
+        "description": "【公式SNSフォロー / 条件達成】うちわ（X）",
+        "condition": "公式SNSフォロー / 条件達成",
+        "iconType": "poster",
+        "imageUrl": "./images/novelties/nov_11707a2d1a1b.webp"
+      }
+    ],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 671.9,
@@ -15712,12 +15775,12 @@
     "category": "general",
     "categoryLabel": "AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内）",
     "location": {
-      "hall": 9,
-      "boothNumber": "09-E63",
-      "mapX": 77.0,
-      "mapY": 126.0,
-      "mapWidth": 17.1,
-      "mapHeight": 18.0
+      "hall": 6,
+      "boothNumber": "06-N01",
+      "mapX": 292.3,
+      "mapY": 118.0,
+      "mapWidth": 45.0,
+      "mapHeight": 25.0
     },
     "description": "おもしろいインディーゲームを世界中からセレクトして発売するゲームレーベル【Happinet Indie Collection】。\nBitSummit朱色賞＜大賞＞受賞タイトル『アーティス インパクト』を始め、Switch2版として新たに展開されている『Stray』が試遊できるコーナーを展開。\n会場にお越しの際は、是非【Happinet Indie Collection】のブースへお立ち寄りください！",
     "themeColor": "#475569",
@@ -15767,7 +15830,8 @@
         "conditionType": "play",
         "isLimited": true,
         "description": "【ハピネット】各試遊でステッカー",
-        "iconType": "sticker"
+        "iconType": "sticker",
+        "imageUrl": "./images/novelties/nov_bbff0b66331f.png"
       },
       {
         "id": "booth-785-notion-77",
@@ -15776,7 +15840,8 @@
         "conditionType": "play",
         "isLimited": true,
         "description": "【ハピネット】Lost Museum -カイガミ追想譚-：ステッカー",
-        "iconType": "sticker"
+        "iconType": "sticker",
+        "imageUrl": "./images/novelties/nov_46abf9031642.jpeg"
       },
       {
         "id": "booth-785-notion-78",
@@ -15785,7 +15850,8 @@
         "conditionType": "play",
         "isLimited": true,
         "description": "【ハピネット】銀翼の猫侍：マウスパッド・アンブレラチャーム・ティッシュ（クリア条件）",
-        "iconType": "badge"
+        "iconType": "badge",
+        "imageUrl": "./images/novelties/nov_951c200508ec.jpeg"
       },
       {
         "id": "booth-785-notion-79",
@@ -15794,7 +15860,8 @@
         "conditionType": "play",
         "isLimited": true,
         "description": "【ハピネット】Viractal：ステッカー",
-        "iconType": "sticker"
+        "iconType": "sticker",
+        "imageUrl": "./images/novelties/nov_a754b02794d6.jpg"
       },
       {
         "id": "booth-785-notion-80",
@@ -15803,7 +15870,8 @@
         "conditionType": "play",
         "isLimited": true,
         "description": "【ハピネット】Tokyo Storys：マグネットステッカー",
-        "iconType": "sticker"
+        "iconType": "sticker",
+        "imageUrl": "./images/novelties/nov_f0f96f743f3f.webp"
       },
       {
         "id": "booth-785-notion-182",
@@ -18151,11 +18219,11 @@
     "categoryLabel": "インディーゲームコーナー",
     "location": {
       "hall": 1,
-      "boothNumber": "E-55",
-      "mapX": 866.7,
-      "mapY": 62.0,
-      "mapWidth": 21.8,
-      "mapHeight": 7.5
+      "boothNumber": "01-A15",
+      "mapX": 868.0,
+      "mapY": 205.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "EthrAはスペインの2人組が作るアドベンチャーRPG。2D/3D融合のアートと、探索・物語が特徴。戦闘はダクソ、ゼルダ、スカイリム、ニーアの影響を受け、ボブとヴェイルの連携が鍵。独自のシステムで2人を簡単操作し、多彩なコンボが可能。サバイバルや資源管理も重要で、武器・防具・能力をカスタマイズし独自の戦闘スタイルを築ける。",
     "themeColor": "#0284c7",
@@ -19258,7 +19326,7 @@
     "category": "indie",
     "categoryLabel": "インディーゲームコーナー",
     "location": {
-      "hall": 11,
+      "hall": 9,
       "boothNumber": "E-65",
       "mapX": 105.0,
       "mapY": 175.0,
@@ -20906,10 +20974,10 @@
     "location": {
       "hall": 4,
       "boothNumber": "04-N01",
-      "mapX": 473.6,
-      "mapY": 126.0,
-      "mapWidth": 125.7,
-      "mapHeight": 22.1
+      "mapX": 471.7,
+      "mapY": 123.6,
+      "mapWidth": 13.9,
+      "mapHeight": 11.9
     },
     "description": "出展コーナー: 物販コーナー (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -21044,6 +21112,117 @@
         "isLimited": true,
         "description": "SEGA Accountのマイページ画面をスタッフに提示するとプレゼント！",
         "iconType": "other"
+      },
+      {
+        "id": "nov-notion-7-29e40b",
+        "name": "ストレンジャー：ネックストラップ",
+        "description": "【試遊体験】ストレンジャー：ネックストラップ",
+        "condition": "試遊体験",
+        "iconType": "badge",
+        "imageUrl": "./images/novelties/nov_51fcf7a64aaf.jpg"
+      },
+      {
+        "id": "nov-notion-8-dde263",
+        "name": "P4R：ボトルホルダー、水、ステッカー２種",
+        "description": "【試遊体験】P4R：ボトルホルダー、水、ステッカー２種",
+        "condition": "試遊体験",
+        "iconType": "sticker",
+        "imageUrl": "./images/novelties/nov_04ef94bd9af3.jpeg"
+      },
+      {
+        "id": "nov-notion-9-f45dc3",
+        "name": "クレイジータクシー：メモ帳",
+        "description": "【試遊体験】クレイジータクシー：メモ帳",
+        "condition": "試遊体験",
+        "iconType": "other",
+        "imageUrl": "./images/novelties/nov_9ca44cad0edd.jpg"
+      },
+      {
+        "id": "nov-notion-10-a0870e",
+        "name": "レゴバットマン:フィギュア",
+        "description": "【試遊体験】レゴバットマン:フィギュア",
+        "condition": "試遊体験",
+        "iconType": "badge",
+        "imageUrl": "./images/novelties/nov_c07b967767c5.jpeg"
+      },
+      {
+        "id": "nov-notion-11-b42d78",
+        "name": "トータルウォー：アクリルドッグタグ",
+        "description": "【試遊体験】トータルウォー：アクリルドッグタグ",
+        "condition": "試遊体験",
+        "iconType": "other",
+        "imageUrl": "./images/novelties/nov_755745500091.jpeg"
+      },
+      {
+        "id": "nov-notion-12-2f8a39",
+        "name": "トータルウォー：Tシャツ、手ぬぐい等当たるくじ（体験）",
+        "description": "【試遊体験】トータルウォー：Tシャツ、手ぬぐい等当たるくじ（体験）",
+        "condition": "試遊体験",
+        "iconType": "tshirt",
+        "imageUrl": "./images/novelties/nov_414ef2c3eab5.jpeg"
+      },
+      {
+        "id": "nov-notion-13-001d79",
+        "name": "ロリポップ：キーチェーン",
+        "description": "【試遊体験】ロリポップ：キーチェーン",
+        "condition": "試遊体験",
+        "iconType": "other"
+      },
+      {
+        "id": "nov-notion-14-360356",
+        "name": "未公開",
+        "description": "【試遊体験】未公開",
+        "condition": "試遊体験",
+        "iconType": "other",
+        "imageUrl": "./images/novelties/nov_0d3bf6c954fd.jpeg"
+      },
+      {
+        "id": "nov-notion-15-135421",
+        "name": "CONTROL Resonant Tシャツ・トートバッグ",
+        "description": "【試遊体験】CONTROL Resonant Tシャツ・トートバッグ",
+        "condition": "試遊体験",
+        "iconType": "tshirt",
+        "imageUrl": "./images/novelties/nov_e73ae5df762d.jpeg"
+      },
+      {
+        "id": "nov-notion-16-f8557b",
+        "name": "ソニックレーシング クロスワールド：エヴァ＆ゴジラポスター",
+        "description": "【試遊体験】ソニックレーシング クロスワールド：エヴァ＆ゴジラポスター",
+        "condition": "試遊体験",
+        "iconType": "poster",
+        "imageUrl": "./images/novelties/nov_4b174d52df21.jpg"
+      },
+      {
+        "id": "nov-notion-17-229c01",
+        "name": "ソニックピコパーク：うちわ",
+        "description": "【試遊体験】ソニックピコパーク：うちわ",
+        "condition": "試遊体験",
+        "iconType": "poster",
+        "imageUrl": "./images/novelties/nov_a33605b49ab3.jpg"
+      },
+      {
+        "id": "nov-notion-18-fd00d4",
+        "name": "■メタファー：ポストカードブック・歯ンカチ（体験）",
+        "description": "【試遊体験】■メタファー：ポストカードブック・歯ンカチ（体験）",
+        "condition": "試遊体験",
+        "iconType": "poster",
+        "imageUrl": "./images/novelties/nov_b0ae4eba1032.jpeg"
+      },
+      {
+        "id": "nov-notion-19-44bcf6",
+        "name": "EAsports：ステッカー",
+        "description": "【試遊体験】EAsports：ステッカー",
+        "condition": "試遊体験",
+        "iconType": "sticker",
+        "imageUrl": "./images/novelties/nov_cbacac37a681.jpeg"
+      },
+      {
+        "id": "nov-notion-20-14bf9d",
+        "name": "kalanoro：ステッカー",
+        "description": "【試遊体験】kalanoro：ステッカー",
+        "condition": "試遊体験",
+        "iconType": "sticker",
+        "imageUrl": "./images/novelties/nov_f05cbb392b7c.jpeg"
       }
     ],
     "shopItems": [],
@@ -22624,12 +22803,12 @@
     "category": "general",
     "categoryLabel": "ビジネスソリューションコーナー",
     "location": {
-      "hall": 4,
+      "hall": 3,
       "boothNumber": "BM-71",
-      "mapX": 543.1,
-      "mapY": 75.0,
-      "mapWidth": 6.0,
-      "mapHeight": 11.9
+      "mapX": 648.0,
+      "mapY": 165.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "Sideはゲーム開発およびゲームサービスのグローバルプロバイダーであり、世界中の大手デベロッパーやスタジオに技術的かつクリエイティブなソリューションを提供しています。2009年に日本で設立されたSideは、北米、ヨーロッパ、南米、アジアの十数ヶ国に15以上のスタジオを構えるゲーム業界のグローバルグループへと成長を遂げています。当社は業界をリードするサービスとして、アートプロダクション、ゲーム開発、音声制作、QA、ローカライズ、LQA、プレイヤーサポート、コミュニティ運営、データセットなどを提供しています。詳細については、www.side.incをご覧ください。",
     "themeColor": "#475569",
@@ -24685,10 +24864,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z77",
-      "mapX": 919.2,
-      "mapY": 75.0,
-      "mapWidth": 14.2,
-      "mapHeight": 18.4
+      "mapX": 830.0,
+      "mapY": 279.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -25022,12 +25201,12 @@
     "category": "general",
     "categoryLabel": "AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内）",
     "location": {
-      "hall": 2,
+      "hall": 1,
       "boothNumber": "03-Z89",
-      "mapX": 831.2,
-      "mapY": 62.0,
-      "mapWidth": 99.4,
-      "mapHeight": 7.6
+      "mapX": 848.0,
+      "mapY": 279.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -25048,10 +25227,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-53-54",
-      "mapX": 668.9,
-      "mapY": 75.0,
-      "mapWidth": 11.9,
-      "mapHeight": 11.9
+      "mapX": 657.5,
+      "mapY": 165.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -25072,10 +25251,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-6",
-      "mapX": 683.7,
-      "mapY": 75.0,
-      "mapWidth": 86.7,
-      "mapHeight": 15.0
+      "mapX": 667.0,
+      "mapY": 165.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -25096,10 +25275,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-82",
-      "mapX": 733.5,
-      "mapY": 75.0,
-      "mapWidth": 24.0,
-      "mapHeight": 10.1
+      "mapX": 676.5,
+      "mapY": 165.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -25120,10 +25299,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-104",
-      "mapX": 668.0,
-      "mapY": 75.0,
-      "mapWidth": 14.8,
-      "mapHeight": 14.5
+      "mapX": 686.0,
+      "mapY": 165.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 韓国)",
     "themeColor": "#475569",
@@ -25144,10 +25323,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-107",
-      "mapX": 668.0,
-      "mapY": 75.0,
-      "mapWidth": 9.7,
-      "mapHeight": 8.6
+      "mapX": 695.5,
+      "mapY": 165.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -25190,12 +25369,12 @@
     "category": "general",
     "categoryLabel": "AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内）",
     "location": {
-      "hall": 6,
+      "hall": 3,
       "boothNumber": "BT-52",
-      "mapX": 312.0,
-      "mapY": 75.0,
-      "mapWidth": 6.0,
-      "mapHeight": 11.9
+      "mapX": 610.0,
+      "mapY": 173.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "株式会社viviONは「ユーザーとクリエイターが楽しみながら幸せに生きていける社会」を目指し、総合二次元コンテンツサービスを展開しています。\nグループの利用ユーザーアカウント数は1,800万を突破（2026年3月）。グループ会社が運営するダウンロード販売サービス『DLsite』を基盤に、電子コミック『comipo』、PCゲームをスマホで遊べる『viviON GAMES』、二次元コラボ商品を扱う『viviON BLUE』などを運営。\n加えてVTuberプロダクション『あおぎり高校』、ボイスドラマレーベル『GIRLSMANIAX』、ASMR作品制作、出版『viviON THOTH』、アナログゲーム『ADICE』、インディーゲームレーベル『viviON Lab』を有し、IP企画から音響・出版・グッズ・ゲームまでを社内で一貫して手がけられる点が強みです。\nTGS2026では、IP・コンテンツの共創、グッズ／デザイン／音響制作のパートナー、ライセンスの供与・取得に関するご相談を幅広くお待ちしております。\n一般展示エリア：BT-52\nビジネスミーティングエリア：02-N08",
     "themeColor": "#475569",
@@ -25227,10 +25406,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-127",
-      "mapX": 722.9,
-      "mapY": 75.0,
-      "mapWidth": 12.6,
-      "mapHeight": 14.5
+      "mapX": 619.5,
+      "mapY": 173.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "Ultra Factoryは、世界中のゲームスタジオやパブリッシャー様に向け、高品質なアートアウトソーシングおよび共同開発（Co-Development）サービスを提供するゲームアート＆プロダクションスタジオです。コンセプトアートから最終的なブラッシュアップまで、卓越したクリエイティビティと確固たる制作体制を融合させ、素晴らしいゲームを世に送り出すサポートをいたします。\n\n【主な提供サービス】\n・3Dキャラクターアート（リアル〜スタイライズド）\n・武器 ＆ ハードサーフェス\n・プロップ ＆ アセット\n・リギング ＆ アニメーション\n・共同開発サポートおよび専属チーム構築\n\n卓越したアート品質と徹底した制作管理を掛け合わせ、大規模かつ優れたゲームアートを提供します。堅牢なパイプライン、業界標準ツール、柔軟なチーム体制により、リソースの拡大・縮小に迅速に対応可能です。常に一貫したクオリティ、クリアなコミュニケーション、そしてスムーズなプロジェクト進行をお約束します。\n\n貴社のプロジェクトについて、ぜひお気軽にご相談ください。Ultra Factoryのワールドクラスのアートと確かな制作体制が、次期タイトルの成功をいかにサポートできるか、共に検討させてください。",
     "themeColor": "#475569",
@@ -25251,10 +25430,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-63-64",
-      "mapX": 640.3,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 629.0,
+      "mapY": 173.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#e0e7ff",
@@ -25275,10 +25454,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-123",
-      "mapX": 643.2,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 638.5,
+      "mapY": 173.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "プロフェッショナルなゲームアートで、ワンランク上の美的なエンターテインメント体験をお届けします。XACの経営陣は、多角的な視点でクリエイティブを牽引し、ミッションを確実に完遂するマネジメント体制を構築しています。また、長年にわたり培ってきた強固なチームワークと豊富な制作実績を活かし、デジタルエンターテインメント業界における次世代ゲーム機の登場や、拡大を続けるコンテンツ需要に迅速に対応しています。当社は、専門性を武器にゲームアートサービスの品質を常に向上させ、世界トップクラスのゲームデベロッパーと共に、人々に深い美動を与えるエンターテインメント体験を創造し続けています。",
     "themeColor": "#475569",
@@ -25299,10 +25478,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-90",
-      "mapX": 657.7,
-      "mapY": 75.0,
-      "mapWidth": 34.3,
-      "mapHeight": 14.5
+      "mapX": 648.0,
+      "mapY": 173.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -25323,10 +25502,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-31-33",
-      "mapX": 685.0,
-      "mapY": 75.0,
-      "mapWidth": 83.8,
-      "mapHeight": 20.0
+      "mapX": 657.5,
+      "mapY": 173.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: カナダ)",
     "themeColor": "#475569",
@@ -25345,12 +25524,12 @@
     "category": "general",
     "categoryLabel": "AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内）",
     "location": {
-      "hall": 7,
+      "hall": 3,
       "boothNumber": "BM-72",
-      "mapX": 147.7,
-      "mapY": 75.0,
-      "mapWidth": 13.0,
-      "mapHeight": 24.9
+      "mapX": 667.0,
+      "mapY": 173.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "『ミニゲー天国』から『サマナーズウォー: Sky Arena』まで！\nゲームを通じて世界中と楽しさを分かち合う企業、カムツスが東京ゲームショウにやってきました。\nパブリッシングやマーケティングに関するご相談・お問い合わせをお待ちしております。",
     "themeColor": "#475569",
@@ -25452,10 +25631,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-39-41",
-      "mapX": 668.9,
-      "mapY": 75.0,
-      "mapWidth": 11.9,
-      "mapHeight": 11.9
+      "mapX": 676.5,
+      "mapY": 173.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -25476,10 +25655,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-11",
-      "mapX": 683.7,
-      "mapY": 75.0,
-      "mapWidth": 86.7,
-      "mapHeight": 15.0
+      "mapX": 686.0,
+      "mapY": 173.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "グラビティ(NASDAQ GM)は、2000年に設立したグローバルゲーム企業です。\n代表作MMORPG『ラグナロクオンライン』は現在91を超える地域でサービスしています。\nグラビティは、これからも良質なオンラインゲームの開発と、積極的なグローバルサービスを展開していきます。",
     "themeColor": "#475569",
@@ -25500,10 +25679,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-87",
-      "mapX": 733.5,
-      "mapY": 75.0,
-      "mapWidth": 24.0,
-      "mapHeight": 10.1
+      "mapX": 695.5,
+      "mapY": 173.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 韓国)",
     "themeColor": "#475569",
@@ -25524,10 +25703,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-121",
-      "mapX": 722.9,
-      "mapY": 75.0,
-      "mapWidth": 12.6,
-      "mapHeight": 14.5
+      "mapX": 610.0,
+      "mapY": 182.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "Kudos Productionsでは、世界中のAAAゲーム向けに最高峰のアート制作サービスを提供することに注力しております。2016年の設立以来、現在は台北、上海、蘇州の3箇所にスタジオを展開しております。\n近年では、Guerrilla Games、コジマプロダクション、カプコン、ならびにRiot Gamesの多数のタイトルにおいて制作に携わってまいりました。",
     "themeColor": "#475569",
@@ -25548,10 +25727,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-13",
-      "mapX": 640.3,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 619.5,
+      "mapY": 182.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "グリーホールディングスのブースでは、ゲームとアニメを通じて世界に大きな熱狂を生み出すグループ2社が出展！ 高品質なゲーム体験を通じて、新しい驚きを世界中の人へ届ける「株式会社WFS」と、アニメプロデュースとIPライセンスでグローバル事業を牽引する「グリーエンタテインメント株式会社」が、IPの魅力を最大化する最新の取り組みをご紹介します。",
     "themeColor": "#475569",
@@ -25570,12 +25749,12 @@
     "category": "general",
     "categoryLabel": "AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内）",
     "location": {
-      "hall": 8,
+      "hall": 3,
       "boothNumber": "BT-94",
-      "mapX": 16.6,
-      "mapY": 75.0,
-      "mapWidth": 7.0,
-      "mapHeight": 44.5
+      "mapX": 629.0,
+      "mapY": 182.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -25596,10 +25775,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-103",
-      "mapX": 643.2,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 638.5,
+      "mapY": 182.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "KOP Global について\nKOP Global は、世界中のゲームおよびエンターテインメントアプリに向けて、シームレスなマネタイズと拡張性の高いグローバルインフラを提供する、最先端のSaaSサービスプロバイダーです。\n\n事業内容\n公式Webショップ構築ツール\nゲームやエンターテインメントアプリの海外展開に特化した、ノーコードの「公式チャージ＆Webショップ構築ツール」。専門の技術チーム不要で、わずか 1時間 でブランド独自のWebショップを迅速に展開できます。\n\nグローバル決済ソリューション\n世界中の主要な決済機能をつなぐ堅牢な資金決済ソリューション。170以上のグローバル決済チャネル を集約し、30か国以上 のローカル決済をカバー。香港とイギリスのデュアル拠点体制により、最適化されたローカライズMOR（マーチャント・オブ・レコード）ソリューションを提供します。\n\nTGS会場でお会いしましょう！\nグローバル売上の最大化やクロスボーダー決済の最適化について、ぜひ現地ブースまたはお気軽にお問い合わせください。貴社のグローバル展開を全力でサポートいたします。",
     "themeColor": "#475569",
@@ -25620,10 +25799,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-57",
-      "mapX": 657.7,
-      "mapY": 75.0,
-      "mapWidth": 34.3,
-      "mapHeight": 14.5
+      "mapX": 648.0,
+      "mapY": 182.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -25644,10 +25823,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-4",
-      "mapX": 668.0,
-      "mapY": 75.0,
-      "mapWidth": 35.2,
-      "mapHeight": 5.2
+      "mapX": 657.5,
+      "mapY": 182.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -25679,10 +25858,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-36",
-      "mapX": 685.0,
-      "mapY": 75.0,
-      "mapWidth": 83.8,
-      "mapHeight": 20.0
+      "mapX": 667.0,
+      "mapY": 182.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -25703,10 +25882,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-1",
-      "mapX": 668.9,
-      "mapY": 75.0,
-      "mapWidth": 11.9,
-      "mapHeight": 11.9
+      "mapX": 676.5,
+      "mapY": 182.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "Cygamesは、ゲームの企画・開発・運営を中心に、漫画事業やIP展開などを通じて、多様なエンターテインメントを提供しています。モバイルゲームに加え、コンシューマーゲームの開発にも積極的に取り組んでおり、『グランブルーファンタジー リリンク - エンドレスラグナロク』『グランブルーファンタジーヴァーサス -ライジング-』『ウマ娘 プリティーダービー 熱血ハチャメチャ大感謝祭！』『シャドウバース ワールズビヨンド』など、さまざまなIPを活用したタイトルを発売しています。",
     "themeColor": "#475569",
@@ -25727,10 +25906,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-71",
-      "mapX": 668.0,
-      "mapY": 75.0,
-      "mapWidth": 6.0,
-      "mapHeight": 11.9
+      "mapX": 686.0,
+      "mapY": 182.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "Sideはゲーム開発およびゲームサービスのグローバルプロバイダーであり、世界中の大手デベロッパーやスタジオに技術的かつクリエイティブなソリューションを提供しています。2009年に日本で設立されたSideは、北米、ヨーロッパ、南米、アジアの十数ヶ国に15以上のスタジオを構えるゲーム業界のグローバルグループへと成長を遂げています。当社は業界をリードするサービスとして、アートプロダクション、ゲーム開発、音声制作、QA、ローカライズ、LQA、プレイヤーサポート、コミュニティ運営、データセットなどを提供しています。詳細については、www.side.incをご覧ください。",
     "themeColor": "#475569",
@@ -25751,10 +25930,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-38",
-      "mapX": 683.7,
-      "mapY": 75.0,
-      "mapWidth": 86.7,
-      "mapHeight": 15.0
+      "mapX": 695.5,
+      "mapY": 182.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "株式会社サファリゲームズは、家庭用ゲーム・スマートフォンアプリの開発から、遊技機液晶映像の企画制作、プライズ機やアーケードゲームといったアミューズメントマシンの開発・製造・販売まで手掛けるゲーム制作会社です。設立から20年以上、ジャンルもプラットフォームも越えて数多くのタイトル・機種のモノ創りに携わってきました。",
     "themeColor": "#475569",
@@ -25775,10 +25954,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-67",
-      "mapX": 733.5,
-      "mapY": 75.0,
-      "mapWidth": 24.0,
-      "mapHeight": 10.1
+      "mapX": 610.0,
+      "mapY": 190.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -25799,10 +25978,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-100",
-      "mapX": 722.9,
-      "mapY": 75.0,
-      "mapWidth": 12.6,
-      "mapHeight": 14.5
+      "mapX": 619.5,
+      "mapY": 190.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "グローバルにおけるインフルエンサーマーケティング事業に加え、もう一つの事業の柱として、YouTube/Twitch等のゲーム関連動画の分析・インサイトを提供するデータプラットフォーム「ContentFlux」を運営しております。",
     "themeColor": "#475569",
@@ -25823,10 +26002,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-16",
-      "mapX": 640.3,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 629.0,
+      "mapY": 190.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "株式会社ジーンは、大阪・新大阪を拠点に、アーケード・家庭用・スマートフォン向けゲームの企画・開発をはじめ、Webコンテンツ・システム、XRサービス、3DCG、グラフィックデザインなどを幅広く手がけています。2006年7月3日の設立以来、多様なデバイスやプラットフォームに向けたコンテンツを開発してきました。2024年4月からはNTTドコモグループの一員として、培ってきた開発ノウハウと先進技術を融合し、ゲームおよびゲーム周辺事業、XR分野に挑戦しています。今年の7月には設立20周年を迎え、これからも世界に驚きと感動を届けることを目指します。",
     "themeColor": "#475569",
@@ -25845,12 +26024,12 @@
     "category": "general",
     "categoryLabel": "AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内）",
     "location": {
-      "hall": 3,
+      "hall": 1,
       "boothNumber": "03-Z40",
-      "mapX": 643.2,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 866.0,
+      "mapY": 279.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -25871,10 +26050,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-76",
-      "mapX": 657.7,
-      "mapY": 75.0,
-      "mapWidth": 34.3,
-      "mapHeight": 14.5
+      "mapX": 638.5,
+      "mapY": 190.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "Streamline Studios（ストリームライン・スタジオ）は、Streamline Media Groupの一部門として、20年以上にわたりゲーム開発の最前線で活躍してきた、ゲーム開発、AAAタイトル制作、技術サービスのグローバルリーダーです。\n\n共同開発（Co-development）、ゲームのフル開発、ゲームエンジニアリングを専門とし、これまでに業界を代表する数々のタイトルの開発に携わってきました。\n\n主な実績には、『ストリートファイターV』、『ファイナルファンタジーXV』、『マーベル VS. カプコン：インフィニット』、『Killer Instinct（キラーインスティンクト）』、『Mortal Kombat（モータルコンバット）』などがあります。\n\nオリジナルIPの創出から、パブリッシャーやデベロッパーとの共同開発まで、Streamline Studiosはゲーム開発の可能性をさらに広げ、新たな領域へ挑戦し続けています。",
     "themeColor": "#475569",
@@ -25893,12 +26072,12 @@
     "category": "general",
     "categoryLabel": "AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内）",
     "location": {
-      "hall": 2,
+      "hall": 3,
       "boothNumber": "BM-85",
-      "mapX": 837.4,
-      "mapY": 82.1,
-      "mapWidth": 23.2,
-      "mapHeight": 19.5
+      "mapX": 648.0,
+      "mapY": 190.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "SneakyBox - ゲーム共同開発スタジオ | リトアニア・ポーランド\n\nSneakyBoxは、2012年に設立され、リトアニアとポーランドを拠点とするゲーム開発スタジオです。80名以上の開発プロフェッショナルが在籍し、PlayStation、Xbox、Nintendo Switch 2、PC、VR、Amazon Luna、Netflixのクラウドゲーミングプラットフォームなど、さまざまなプラットフォーム向けに、ゲーム移植、リマスター、共同開発、フルサイクル開発サービスを提供しています。\n\n近年の開発実績としては、Nintendo Switch 2のローンチタイトルの1つであり、イギリス・ドイツ・アメリカの小売チャートでトップ20入りを果たした『Human Fall Flat』のNintendo Switch 2版や、SEGAおよびGames Workshop向けに開発したリマスター作品『Warhammer 40,000: Space Marine - Master Crafted Edition』があります。\n\nSneakyBoxは、クラシックタイトルのリマスター・リメイク開発に特化しており、オリジナルのソースコードが利用できないタイトルでも、ゼロからの再構築に対応しています。グラフィックの刷新、ゲームエンジンのアップグレード、UIの最適化、クロスプレイ対応など、現代のプラットフォームに合わせた幅広いアップデートを実現します。\n\nまた、移植開発においては、各プラットフォームに合わせたパフォーマンス調整、メモリ最適化、独自機能の実装に豊富な経験を持ち、特にNintendo Switch 2向け開発において高い専門性を有しています。\n\n共同開発や開発チームの拡張支援では、パートナー企業のチームと一体となって、DLC制作、追加機能開発、マルチプレイヤー機能の実装、リリース後の運用サポートまで幅広く対応しています。これまで14年以上にわたり、世界各国のゲームスタジオやパブリッシャーとの協業実績を積み重ねています。\n\nSEGA、Atari、11 bit studios、Curve Games、Team17など、世界的なゲーム企業から信頼される開発パートナーです。",
     "themeColor": "#475569",
@@ -25933,10 +26112,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-68",
-      "mapX": 685.0,
-      "mapY": 75.0,
-      "mapWidth": 83.8,
-      "mapHeight": 20.0
+      "mapX": 657.5,
+      "mapY": 190.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 中国)",
     "themeColor": "#475569",
@@ -25957,10 +26136,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-93",
-      "mapX": 668.9,
-      "mapY": 75.0,
-      "mapWidth": 11.9,
-      "mapHeight": 11.9
+      "mapX": 667.0,
+      "mapY": 190.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -25981,10 +26160,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-61-62",
-      "mapX": 668.0,
-      "mapY": 75.0,
-      "mapWidth": 7.2,
-      "mapHeight": 6.3
+      "mapX": 676.5,
+      "mapY": 190.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 韓国)",
     "themeColor": "#475569",
@@ -26005,10 +26184,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-106",
-      "mapX": 683.7,
-      "mapY": 75.0,
-      "mapWidth": 86.7,
-      "mapHeight": 15.0
+      "mapX": 686.0,
+      "mapY": 190.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 香港)",
     "themeColor": "#475569",
@@ -26029,10 +26208,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-44",
-      "mapX": 733.5,
-      "mapY": 75.0,
-      "mapWidth": 24.0,
-      "mapHeight": 10.1
+      "mapX": 695.5,
+      "mapY": 190.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "株式会社ディー・エヌ・エー渉外統括部では、パートナー様との共創により弊社単独ではなし得ない大きな価値を市場に生み出すことを目的と掲げており、各社様とのつながりを重視しております。ゲームショウにおきましては様々な会社様と直接お会いできる貴重な機会と考えておりますので、何卒よろしくお願いいたします。",
     "themeColor": "#475569",
@@ -26077,10 +26256,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-5",
-      "mapX": 722.9,
-      "mapY": 75.0,
-      "mapWidth": 12.6,
-      "mapHeight": 14.5
+      "mapX": 610.0,
+      "mapY": 199.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -26125,10 +26304,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-59",
-      "mapX": 640.3,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 619.5,
+      "mapY": 199.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -26149,10 +26328,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-3",
-      "mapX": 643.2,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 629.0,
+      "mapY": 199.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "トーセは、ゲームソフトやモバイルアプリをはじめとする\nコンテンツの企画提案型の受託開発専門企業として、\n業界随一の実績と国内最大級の開発体制のもと、\n企画から開発、運営に至るワンストップの開発サービスと様々な企業同士の\nコラボレーションビジネスを展開している企業です。\n\nゲーム会社はもちろん、他業種の皆様とも情報交換させていただければと思いますので\nお困りごとございましたら、ぜひともブースにてお待ちしております。",
     "themeColor": "#475569",
@@ -26173,10 +26352,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-45-46",
-      "mapX": 657.7,
-      "mapY": 75.0,
-      "mapWidth": 34.3,
-      "mapHeight": 14.5
+      "mapX": 638.5,
+      "mapY": 199.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -26197,10 +26376,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-105",
-      "mapX": 685.0,
-      "mapY": 75.0,
-      "mapWidth": 83.8,
-      "mapHeight": 20.0
+      "mapX": 648.0,
+      "mapY": 199.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: タイ)",
     "themeColor": "#475569",
@@ -26221,10 +26400,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-66",
-      "mapX": 668.9,
-      "mapY": 75.0,
-      "mapWidth": 11.9,
-      "mapHeight": 11.9
+      "mapX": 657.5,
+      "mapY": 199.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -26245,10 +26424,10 @@
     "location": {
       "hall": 1,
       "boothNumber": "03-Z59",
-      "mapX": 909.9,
-      "mapY": 62.0,
-      "mapWidth": 20.8,
-      "mapHeight": 7.5
+      "mapX": 884.0,
+      "mapY": 279.0,
+      "mapWidth": 16.0,
+      "mapHeight": 10.0
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -26269,10 +26448,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-9",
-      "mapX": 683.7,
-      "mapY": 75.0,
-      "mapWidth": 86.7,
-      "mapHeight": 15.0
+      "mapX": 667.0,
+      "mapY": 199.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -26291,12 +26470,12 @@
     "category": "general",
     "categoryLabel": "AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内）",
     "location": {
-      "hall": 3,
-      "boothNumber": "BT-69-70",
-      "mapX": 733.5,
-      "mapY": 75.0,
-      "mapWidth": 24.0,
-      "mapHeight": 10.1
+      "hall": 10,
+      "boothNumber": "10-W35",
+      "mapX": 185.0,
+      "mapY": 450.0,
+      "mapWidth": 22.0,
+      "mapHeight": 18.0
     },
     "description": "📍 ビジネスミーティングエリア　ブース名「NAVER WEBTOON」：BT-69・70\n「LINEマンガ」は、世界150以上の国と地域で10言語展開するグローバル・ストーリーテック（Story-Tech）プラットフォーム「WEBTOON」の日本サービスです。グローバル月間利用者数1億6,000万人を擁するWEBTOONは、利用者の60%がゲームをプレイするユーザーです。\nLINEマンガは、ブランディングからUA、リテンションまで、一つのゲームタイトルのためだけに設計するフルファネルソリューションをご提供します。確かなブランディングと強力なパフォーマンスを、LINEマンガでご体感ください。",
     "themeColor": "#475569",
@@ -26317,10 +26496,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-81",
-      "mapX": 722.9,
-      "mapY": 75.0,
-      "mapWidth": 12.6,
-      "mapHeight": 14.5
+      "mapX": 676.5,
+      "mapY": 199.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: シンガポール)",
     "themeColor": "#475569",
@@ -26341,10 +26520,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-21",
-      "mapX": 640.3,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 686.0,
+      "mapY": 199.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -26365,10 +26544,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-42",
-      "mapX": 643.2,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 695.5,
+      "mapY": 199.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "株式会社バイキングは、\n日本国内の大手メーカー出身のベテランクリエイターが集い、\n特に対戦アクションゲームの開発に強いことが特色です。\nゲーム開発のプロフェッショナル集団としてBYKINGは在り続けます！\n\n社名である”Byking”に込められた思い、それは…。\n◆海賊（バイキング）のように勇気と開拓精神を持とう\n◆王（By King）のように誇りと責任を持って仕事にあたろう\n◆バイキング料理のように好きな物を好きなだけ食らうくらいに欲張りに物作りしよう！\n\nそして、\n「作るゲームをとことん面白くする！」\n「遊ぶ人たちが夢中で楽しめる凄いゲームを作り上げる！」\nこの2つをコンセプトに日々ゲーム開発/パブリッシングに勤めております。",
     "themeColor": "#475569",
@@ -26586,10 +26765,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-28",
-      "mapX": 657.7,
-      "mapY": 75.0,
-      "mapWidth": 34.3,
-      "mapHeight": 14.5
+      "mapX": 610.0,
+      "mapY": 207.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "PHI法律事務所は、西新宿にある、IT・ゲーム・エンタメ分野に積極的に取り組んでいる法律事務所です。\n契約書作成・レビュー、リスクの洗い出し、海外法規対応まで、現場で実際に役立つリーガルサポートを提供しています。\n東京ゲームショウのブースでは、当事務所の取組やサービス内容をご紹介させていただき、今後につながるきっかけづくりの場となれば幸いです。些細なご質問やご相談にも対応いたしますので、ぜひお気軽にお立ち寄りください。\n\n業務広告に関する表示については、以下の当事務所ウェブサイトをご覧ください。\nhttps://phi-law.jp/news/211/",
     "themeColor": "#475569",
@@ -26610,10 +26789,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-98",
-      "mapX": 685.0,
-      "mapY": 75.0,
-      "mapWidth": 83.8,
-      "mapHeight": 20.0
+      "mapX": 619.5,
+      "mapY": 207.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 英国)",
     "themeColor": "#475569",
@@ -26634,10 +26813,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-12",
-      "mapX": 668.9,
-      "mapY": 75.0,
-      "mapWidth": 11.9,
-      "mapHeight": 11.9
+      "mapX": 629.0,
+      "mapY": 207.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -26658,10 +26837,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-120",
-      "mapX": 683.7,
-      "mapY": 75.0,
-      "mapWidth": 86.7,
-      "mapHeight": 15.0
+      "mapX": 638.5,
+      "mapY": 207.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -26682,10 +26861,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-47-49",
-      "mapX": 733.5,
-      "mapY": 75.0,
-      "mapWidth": 24.0,
-      "mapHeight": 10.1
+      "mapX": 648.0,
+      "mapY": 207.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: フランス)",
     "themeColor": "#475569",
@@ -26706,10 +26885,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-77",
-      "mapX": 722.9,
-      "mapY": 75.0,
-      "mapWidth": 12.6,
-      "mapHeight": 14.5
+      "mapX": 657.5,
+      "mapY": 207.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 中国)",
     "themeColor": "#475569",
@@ -26730,10 +26909,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-97",
-      "mapX": 640.3,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 667.0,
+      "mapY": 207.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -26754,10 +26933,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-29",
-      "mapX": 643.2,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 676.5,
+      "mapY": 207.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "ゲームの「面白い」を、圧倒的な技術力で形にする開発会社。\n\n株式会社ヘキサドライブは、ハイエンドなコンシューマゲーム受託開発からオリジナルタイトルの開発まで、多様なジャンル・プラットフォームで実績を重ねてきたクリエイター集団です。\n\n当社の強みは、各分野のスペシャリスト達が一丸となって「新しいゲーム創り」に挑む高い技術力と開発力。パブリッシャーの皆様のアイデアやこだわりを最高のクオリティで実現し、プレイヤーを魅了する体験を提供します。\n\nなお、近年ではゲーム開発で培ったノウハウを活かし、VRコンテンツ制作やUnreal Engineを活用したリアルタイム3D映像など、非ゲーム領域への技術展開も手広く行っています。",
     "themeColor": "#475569",
@@ -26778,10 +26957,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-92",
-      "mapX": 657.7,
-      "mapY": 75.0,
-      "mapWidth": 34.3,
-      "mapHeight": 14.5
+      "mapX": 686.0,
+      "mapY": 207.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "弊社は、ゲーム制作アウトソーシング専門企業として、設立から20余年にわたり、高品質な制作物と確かな信頼性で業界内での評価を築いてまいりました。これまでに国内外の取引先企業は40社以上に達し、多くのタイトル制作を支えております。\n\n主な業務内容\nゲーム美術・プログラム開発のアウトソーシングを中核とし、お客様のニーズに合わせた最適なソリューションを提供いたします。\n\nゲーム企画・プログラム開発\n最適な開発手法をご提案し、企画段階から実装まで一貫してサポートいたします。\nキャラクター制作（全工程対応）\nキャラクターデザイン・3Dモデリング・テクスチャ制作・リギング・ウェイト調整・アニメーション制作まで、幅広く対応可能です。\n背景・ステージ制作（フルフロー対応）\n背景やステージ全体の制作においては、コンセプトアートからエンジン実装までの全工程をワンストップでお引き受けいたします。Unreal Engine / Unity など主要ゲームエンジンへの最適化にも対応しております。",
     "themeColor": "#475569",
@@ -26802,10 +26981,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-84",
-      "mapX": 685.0,
-      "mapY": 75.0,
-      "mapWidth": 83.8,
-      "mapHeight": 20.0
+      "mapX": 695.5,
+      "mapY": 207.5,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -26826,10 +27005,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-83",
-      "mapX": 668.9,
-      "mapY": 75.0,
-      "mapWidth": 11.9,
-      "mapHeight": 11.9
+      "mapX": 610.0,
+      "mapY": 216.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: フランス)",
     "themeColor": "#475569",
@@ -26850,10 +27029,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-102",
-      "mapX": 683.7,
-      "mapY": 75.0,
-      "mapWidth": 86.7,
-      "mapHeight": 15.0
+      "mapX": 619.5,
+      "mapY": 216.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -26874,10 +27053,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-91",
-      "mapX": 733.5,
-      "mapY": 75.0,
-      "mapWidth": 24.0,
-      "mapHeight": 10.1
+      "mapX": 629.0,
+      "mapY": 216.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 日本)",
     "themeColor": "#475569",
@@ -26898,10 +27077,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-18",
-      "mapX": 722.9,
-      "mapY": 75.0,
-      "mapWidth": 12.6,
-      "mapHeight": 14.5
+      "mapX": 638.5,
+      "mapY": 216.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "ユークスは、エンタテインメントのプロフェッショナルとして長年皆様に愛される作品を作り出してきました。家庭用ゲーム機での3DアクションゲームやRPGなど、ゲーム開発の高度な技術力と企画力において世界から高い評価を得ています。ビジネスミーティングエリアにて、当社の最新開発事例や開発チームをご紹介いたします。",
     "themeColor": "#475569",
@@ -26922,10 +27101,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-88",
-      "mapX": 640.3,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 648.0,
+      "mapY": 216.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 英国)",
     "themeColor": "#475569",
@@ -26946,10 +27125,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BT-108",
-      "mapX": 643.2,
-      "mapY": 75.0,
-      "mapWidth": 12.3,
-      "mapHeight": 5.4
+      "mapX": 657.5,
+      "mapY": 216.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "出展コーナー: AIテクノロジーパビリオン（ビジネスソ\nリューションコーナー内） (出展国/地域: 台湾)",
     "themeColor": "#475569",
@@ -26970,10 +27149,10 @@
     "location": {
       "hall": 3,
       "boothNumber": "BM-125",
-      "mapX": 657.7,
-      "mapY": 75.0,
-      "mapWidth": 34.3,
-      "mapHeight": 14.5
+      "mapX": 667.0,
+      "mapY": 216.0,
+      "mapWidth": 8.5,
+      "mapHeight": 7.5
     },
     "description": "Red Art Gamesは、フランスを拠点とするパブリッシャーであり、インディーゲーム、日本発のゲーム、レトロゲームを、パッケージ版およびデジタル版としてコンソールやPC向けに展開することを専門としています。2023年3月、Red Art GamesはMetacriticの第13回年次ゲームパブリッシャーランキングで11位にランクインしました。パブリッシング業務に加え、Red Art Gamesは、数々の賞を受賞した自社開発スタジオを通じて、ゲームの開発やコンソール、PC、モバイルプラットフォームへの移植も行っています。創業以来、Red Art Gamesは300本以上のパッケージ版タイトルを発売し、30本以上のゲームを移植するとともに、批評家から高い評価を受けた『スーパーボンバーマン コレクション』などのタイトルを開発してきました。",
     "themeColor": "#475569",
