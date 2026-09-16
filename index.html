@@ -12,8 +12,24 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@600;700&family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
-    <script type="module" crossorigin src="./assets/index-BKmuzUhc.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-Dlp2b_1j.css">
+    <script>
+      // 画面が真っ白になる404エラー・ハッシュ不整合の恒久防止フェイルセーフ
+      window.addEventListener('error', function(e) {
+        if (e.target && (e.target.tagName === 'SCRIPT' || e.target.tagName === 'LINK')) {
+          console.warn('Resource load failed, falling back to static index.js / index.css:', e.target.src || e.target.href);
+          if (e.target.tagName === 'SCRIPT' && !window.__script_recovered) {
+            window.__script_recovered = true;
+            var s = document.createElement('script');
+            s.type = 'module';
+            s.crossOrigin = '';
+            s.src = './assets/index.js';
+            document.head.appendChild(s);
+          }
+        }
+      }, true);
+    </script>
+    <script type="module" crossorigin src="./assets/index.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index.css">
   </head>
   <body class="bg-slate-950 text-slate-100 antialiased selection:bg-cyan-500 selection:text-black font-sans min-h-screen">
     <div id="root"></div>
