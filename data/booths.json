@@ -4389,12 +4389,40 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "cc2-item-1",
+        "name": "「サイバーコネクトツー展」開催記念公式図録＆オリジナルグッズ",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "設立30周年の軌跡を収めた豪華記念本および特製グッズ"
+      },
+      {
+        "id": "cc2-item-2",
+        "name": "『.hack』シリーズ 描き下ろしタペストリー＆アクリルジオラマ",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "細川誠一による完全新規描き下ろしイラストを使用した限定品"
+      },
+      {
+        "id": "cc2-item-3",
+        "name": "『戦場のフーガ』シリーズ オリジナルサウンドトラック＆ピンズ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "感動の旋律が詰まったサントラと子どもたちの重厚ピンズ"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 795.7,
     "mapY": 123.6,
     "mapWidth": 16.9,
-    "mapHeight": 10.5
+    "mapHeight": 10.5,
+    "goodsUrl": "https://www.cc2.co.jp/30th/cc2-ten/tgs2026/#goods",
+    "goodsBonus": "「サイバーコネクトツー展」記念グッズをはじめ、『.hack』や『戦場のフーガ』シリーズの特別限定グッズを多数販売！",
+    "linkedShopBoothNumber": "09-W119"
   },
   {
     "id": "booth-16260",
@@ -4969,12 +4997,48 @@
         "iconType": "bag"
       }
     ],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "nhn-item-1",
+        "name": "『#コンパス』アクリルチャームスタンド (全ヒーローラインナップ)",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "お気に入りのヒーローを飾れるチャームスタンド"
+      },
+      {
+        "id": "nhn-item-2",
+        "name": "『#コンパス』＃ナタデココンパス (ver.コラプス)",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "大人気ナタデココンパスのTGS2026会場限定コラプスバージョン"
+      },
+      {
+        "id": "nhn-item-3",
+        "name": "『妖怪ウォッチ ぷにぷに』特製ランチトートバッグ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ぷにぷにしたキャラクターたちが散りばめられた可愛いトート"
+      },
+      {
+        "id": "nhn-item-4",
+        "name": "『幻想世界のぷちぽよん』ぷくぷくシール ポッピンヒーローズA",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "立体感のあるぷくぷく仕様の新作シールセット"
+      }
+    ],
     "hasStageEvent": true,
     "mapX": 766.7,
     "mapY": 31.8,
     "mapWidth": 44.8,
-    "mapHeight": 23.7
+    "mapHeight": 23.7,
+    "goodsUrl": "https://www.nhn-playart.com/tgs26/goods/",
+    "goodsBonus": "『#コンパス』『妖怪ウォッチ ぷにぷに』『幻想世界のぷちぽよん』の新商品・会場限定グッズが目白押し！",
+    "linkedShopBoothNumber": "11-W12"
   },
   {
     "id": "booth-16017",
@@ -6784,12 +6848,56 @@
         "iconType": "card"
       }
     ],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "kt-item-1",
+        "name": "B2ダブルスエードタペストリー (アトリエ/無双シリーズ)",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "高精細印刷を施した美麗B2ダブルスエードタペストリー"
+      },
+      {
+        "id": "kt-item-2",
+        "name": "ガスト トレーディングミニキャラ アクリルキーホルダー",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ガスト歴代ヒロインたちの可愛いミニキャラ描き下ろしアクキー"
+      },
+      {
+        "id": "kt-item-3",
+        "name": "真・三國無双 ORIGINS ゆるっとミニトートバッグ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "新作無双ORIGINSの武将たちがゆるキャラになった普段使いミニトート"
+      },
+      {
+        "id": "kt-item-4",
+        "name": "遙かなる時空の中で 龍宮の神子シリーズ キャラクター アクリルブロック",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ネオロマンスシリーズの美麗イラストを重厚ブロックに閉じ込めた逸品"
+      },
+      {
+        "id": "kt-item-5",
+        "name": "クリアファイル＆ポストカード (ユミアのアトリエ)",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "『ユミアのアトリエ』最新ビジュアルを贅沢に使用したステーショナリー"
+      }
+    ],
     "hasStageEvent": true,
     "mapX": 626.0,
     "mapY": 126.0,
     "mapWidth": 51.1,
-    "mapHeight": 22.1
+    "mapHeight": 22.1,
+    "goodsUrl": "https://www.gamecity.ne.jp/tgs/ja/merchandise/",
+    "goodsBonus": "コーエーテクモ物販ブースにて購入で会場限定特典プレゼント！9/30より事後通販も予定。",
+    "linkedShopBoothNumber": "09-W101"
   },
   {
     "id": "booth-16034",
@@ -7111,12 +7219,72 @@
         "iconType": "bag"
       }
     ],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "sqex-item-1",
+        "name": "ドラゴンクエスト 40周年記念缶アニバーサリー チョコインクッキー",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ドラクエ40周年を記念した特製アニバーサリー缶入りチョコインクッキー"
+      },
+      {
+        "id": "sqex-item-2",
+        "name": "FINAL FANTASY POP CHARM チョコボ・モーグリ Vol.1",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "大人気ポップチャームシリーズの最新作！チョコボ＆モーグリ"
+      },
+      {
+        "id": "sqex-item-3",
+        "name": "パラノマサイトFILE23 本所七不思議/FILE38 伊勢人魚物語 オリジナル・サウンドトラック",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "新作音源を含むパラノマサイトファン必携の公式サントラ盤"
+      },
+      {
+        "id": "sqex-item-4",
+        "name": "鋼の錬金術師 トレーディング缶バッジ(Dot Art)",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "ドットアートデザインのハガレン限定トレーディング缶バッジ"
+      },
+      {
+        "id": "sqex-item-5",
+        "name": "スクウェア・エニックス ミュージックコレクションキーチェーン Vol.3",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "歴代名作BGMのCDジャケットを模したキーチェーン第3弾"
+      },
+      {
+        "id": "sqex-item-6",
+        "name": "クロノ・トリガー ミニアクリルブロックコレクション",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "名作『クロノ・トリガー』の美麗ビジュアルを収めたアクリルブロック"
+      },
+      {
+        "id": "sqex-item-7",
+        "name": "ファイナルファンタジーXIV ONE MARK COLLECTION＜キャラクターシリーズ Vol.1＞",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "FF14のスタイリッシュな新作キャラクターワンマークコレクション"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 626.0,
     "mapY": 31.8,
     "mapWidth": 73.5,
-    "mapHeight": 23.7
+    "mapHeight": 23.7,
+    "goodsUrl": "https://www.jp.square-enix.com/music/sem/page/tgs2026/",
+    "goodsBonus": "会場ブースで8,000円(税込)以上購入で「スクエアバッグ(チョコボ＆スライム柄)」を先着プレゼント！サイン入りサントラ抽選販売も実施。",
+    "linkedShopBoothNumber": "09-W69"
   },
   {
     "id": "booth-16802",
@@ -8291,12 +8459,48 @@
         "imageUrl": "./images/novelties/nov_359a6912ce59.jpg"
       }
     ],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "sega-item-1",
+        "name": "STRANGER THAN HEAVEN レコード風コースター",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ヴィンテージレコード盤を模した重厚感あるコースター"
+      },
+      {
+        "id": "sega-item-2",
+        "name": "ペルソナ4 リバイバル(P4R) アクリルスタンド(主人公)",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "P4R主人公の最新キービジュアルを使用した大型アクリルスタンド"
+      },
+      {
+        "id": "sega-item-3",
+        "name": "和ソニック江戸景 日本橋 朝之図 ミニアクリルジオラマ",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "浮世絵調の和風ソニックが日本橋を駆けるTGS限定アクリルジオラマ"
+      },
+      {
+        "id": "sega-item-4",
+        "name": "龍が如く 春日一番【8】Ver. 公式グッズ各種",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "『龍が如く8』の春日一番をフィーチャーした新作アパレル＆小物"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 473.6,
     "mapY": 126.0,
     "mapWidth": 125.7,
-    "mapHeight": 22.1
+    "mapHeight": 22.1,
+    "goodsUrl": "https://tgs.sega.jp/2026/ja/goods/",
+    "goodsBonus": "物販コーナーで税込5,000円以上購入で「オリジナルフレークシール」、税込8,000円以上購入で「特製ショッパー」を先着プレゼント！",
+    "linkedShopBoothNumber": "11-W03"
   },
   {
     "id": "booth-16037",
@@ -8507,12 +8711,40 @@
         "iconType": "other"
       }
     ],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "pal-item-1",
+        "name": "『パルワールド』オフィシャル ぬいぐるみ各種",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "オコチョやツッパニャンなど大人気パルたちのふわふわ高品質ぬいぐるみ"
+      },
+      {
+        "id": "pal-item-2",
+        "name": "『パルワールド』公式Tシャツ・パーカーコレクション",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "TGS会場でしか手に入らないパルワールド限定デザインアパレル"
+      },
+      {
+        "id": "pal-item-3",
+        "name": "パルワールド アクリルスタンド＆メタルキーホルダー",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "人気パルたちが勢揃いしたコレクションアイテム"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 471.7,
     "mapY": 31.8,
     "mapWidth": 59.8,
-    "mapHeight": 23.7
+    "mapHeight": 23.7,
+    "goodsUrl": "https://prtimes.jp/main/html/rd/p/000000137.000071410.html",
+    "goodsBonus": "パルワールド物販ブースにて条件達成で「着ぐるみオコチョのPRソウルカード」「オコチョショッパーバッグ」「3Dシール」等をプレゼント！",
+    "linkedShopBoothNumber": "11-W02"
   },
   {
     "id": "booth-16718",
@@ -9614,12 +9846,48 @@
         "imageUrl": "./images/novelties/nov_174_7802e2138db5.jpg"
       }
     ],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "bne-item-1",
+        "name": "『ACE COMBAT 8: WINGS OF THEVE』公式新作グッズ先行販売",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "最新作発表記念！部隊章ワッペン、アパレル、ドッグタグ等"
+      },
+      {
+        "id": "bne-item-2",
+        "name": "『テイルズ オブ エターニア リマスター』記念公式グッズ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "エターニアのリマスターを祝したリッドやファラの描き下ろしグッズ"
+      },
+      {
+        "id": "bne-item-3",
+        "name": "『塊魂』新作コレクション (Tシャツ・キャップ・ぬいぐるみ)",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "王様や王子のシュールでキュートなポップデザインアパレル"
+      },
+      {
+        "id": "bne-item-4",
+        "name": "『パックマン』＆『太鼓の達人』公式グッズ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "世代を超えて愛されるレジェンドタイトルのアソビストア限定アイテム"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 398.7,
     "mapY": 126.0,
     "mapWidth": 68.3,
-    "mapHeight": 22.1
+    "mapHeight": 22.1,
+    "goodsUrl": "https://shop.asobistore.jp/feature/pacman_officialstore/topics/tgs2026/",
+    "goodsBonus": "「ASOBI STORE出張所」にて5,000円(税込)購入ごとに、選べる「オリジナルショッピングバッグ(全3種: エースコンバット/エターニア/塊魂)」を1つプレゼント！",
+    "linkedShopBoothNumber": "11-W17"
   },
   {
     "id": "booth-16032",
@@ -10197,12 +10465,48 @@
         "imageUrl": "./images/novelties/nov_175_24e4b5a40d4b.jpg"
       }
     ],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "konami-item-1",
+        "name": "『SILENT HILL』シリーズ TGS先行公式グッズ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "サイレントヒルのダークな世界観を再現したTシャツ、アクリルブロック等"
+      },
+      {
+        "id": "konami-item-2",
+        "name": "『METAL GEAR SOLID』シリーズ 公式限定コレクション",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "FOXHOUNDロゴ入りグッズやスネークの名場面をあしらった限定アイテム"
+      },
+      {
+        "id": "konami-item-3",
+        "name": "『ボンバーマン』レトロポップ アパレル＆雑貨",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "懐かしくも新しいボンバーマンのポップな新作グッズ"
+      },
+      {
+        "id": "konami-item-4",
+        "name": "『ときめきメモリアル』メモリアルグッズシリーズ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "30周年を迎えたときメモの思い出が蘇るメモリアルコレクション"
+      }
+    ],
     "hasStageEvent": true,
     "mapX": 393.0,
     "mapY": 31.8,
     "mapWidth": 71.0,
-    "mapHeight": 23.7
+    "mapHeight": 23.7,
+    "goodsUrl": "https://www.konami.com/games/tgs/ja/",
+    "goodsBonus": "1回の会計で税込3,000円以上購入すると「↑↑↓↓←→←→BA（コナミコマンド）」オリジナルステッカーを1枚プレゼント！",
+    "linkedShopBoothNumber": "11-W18"
   },
   {
     "id": "booth-16030",
@@ -12483,12 +12787,48 @@
         "imageUrl": "./images/novelties/nov_37_01af154f1549.jpg"
       }
     ],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "capcom-item-1",
+        "name": "モンスターハンター モンでふぉ マグカップ ネオンテーマ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "デフォルメモンスターがネオン調に光り輝くデザインの特製マグカップ"
+      },
+      {
+        "id": "capcom-item-2",
+        "name": "バイオハザード レクイエム トートバッグ トマホーク",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ミリタリーテイストで普段使いしやすいバイオハザード特製トート"
+      },
+      {
+        "id": "capcom-item-3",
+        "name": "ロックマン: デュアルオーバーライド プルパーカー",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "ロックマンの世界観をスタイリッシュに落とし込んだ会場限定プルパーカー"
+      },
+      {
+        "id": "capcom-item-4",
+        "name": "ストリートファイター6 クリアカードセット 春麗",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "SF6美麗ビジュアルを透け感のあるクリアカードに凝縮したセット"
+      }
+    ],
     "hasStageEvent": true,
     "mapX": 139.6,
     "mapY": 31.8,
     "mapWidth": 125.5,
-    "mapHeight": 23.7
+    "mapHeight": 23.7,
+    "goodsUrl": "https://www.e-capcom.com/sp/tgs/2026/senkou/",
+    "goodsBonus": "「イーカプコン出張所」にて人気タイトルの先行販売商品多数！ブース内にはカプセルトイ専門スポット「CAPSULE LAB」も設置。",
+    "linkedShopBoothNumber": "09-W112"
   },
   {
     "id": "booth-16476",
@@ -24140,12 +24480,56 @@
     "url": "https://www.gamecity.ne.jp/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "kt-item-1",
+        "name": "B2ダブルスエードタペストリー (アトリエ/無双シリーズ)",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "高精細印刷を施した美麗B2ダブルスエードタペストリー"
+      },
+      {
+        "id": "kt-item-2",
+        "name": "ガスト トレーディングミニキャラ アクリルキーホルダー",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ガスト歴代ヒロインたちの可愛いミニキャラ描き下ろしアクキー"
+      },
+      {
+        "id": "kt-item-3",
+        "name": "真・三國無双 ORIGINS ゆるっとミニトートバッグ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "新作無双ORIGINSの武将たちがゆるキャラになった普段使いミニトート"
+      },
+      {
+        "id": "kt-item-4",
+        "name": "遙かなる時空の中で 龍宮の神子シリーズ キャラクター アクリルブロック",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ネオロマンスシリーズの美麗イラストを重厚ブロックに閉じ込めた逸品"
+      },
+      {
+        "id": "kt-item-5",
+        "name": "クリアファイル＆ポストカード (ユミアのアトリエ)",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "『ユミアのアトリエ』最新ビジュアルを贅沢に使用したステーショナリー"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://www.gamecity.ne.jp/tgs/ja/merchandise/",
+    "goodsBonus": "コーエーテクモ物販ブースにて購入で会場限定特典プレゼント！9/30より事後通販も予定。",
+    "linkedShopBoothNumber": "09-W101"
   },
   {
     "id": "booth-16921",
@@ -24476,12 +24860,48 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "capcom-item-1",
+        "name": "モンスターハンター モンでふぉ マグカップ ネオンテーマ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "デフォルメモンスターがネオン調に光り輝くデザインの特製マグカップ"
+      },
+      {
+        "id": "capcom-item-2",
+        "name": "バイオハザード レクイエム トートバッグ トマホーク",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ミリタリーテイストで普段使いしやすいバイオハザード特製トート"
+      },
+      {
+        "id": "capcom-item-3",
+        "name": "ロックマン: デュアルオーバーライド プルパーカー",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "ロックマンの世界観をスタイリッシュに落とし込んだ会場限定プルパーカー"
+      },
+      {
+        "id": "capcom-item-4",
+        "name": "ストリートファイター6 クリアカードセット 春麗",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "SF6美麗ビジュアルを透け感のあるクリアカードに凝縮したセット"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 239.0,
     "mapY": 369.0,
     "mapWidth": 21.6,
-    "mapHeight": 46.6
+    "mapHeight": 46.6,
+    "goodsUrl": "https://www.e-capcom.com/sp/tgs/2026/senkou/",
+    "goodsBonus": "「イーカプコン出張所」にて人気タイトルの先行販売商品多数！ブース内にはカプセルトイ専門スポット「CAPSULE LAB」も設置。",
+    "linkedShopBoothNumber": "09-W112"
   },
   {
     "id": "booth-16077",
@@ -24616,12 +25036,40 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "cc2-item-1",
+        "name": "「サイバーコネクトツー展」開催記念公式図録＆オリジナルグッズ",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "設立30周年の軌跡を収めた豪華記念本および特製グッズ"
+      },
+      {
+        "id": "cc2-item-2",
+        "name": "『.hack』シリーズ 描き下ろしタペストリー＆アクリルジオラマ",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "細川誠一による完全新規描き下ろしイラストを使用した限定品"
+      },
+      {
+        "id": "cc2-item-3",
+        "name": "『戦場のフーガ』シリーズ オリジナルサウンドトラック＆ピンズ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "感動の旋律が詰まったサントラと子どもたちの重厚ピンズ"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://www.cc2.co.jp/30th/cc2-ten/tgs2026/#goods",
+    "goodsBonus": "「サイバーコネクトツー展」記念グッズをはじめ、『.hack』や『戦場のフーガ』シリーズの特別限定グッズを多数販売！",
+    "linkedShopBoothNumber": "09-W119"
   },
   {
     "id": "booth-16744",
@@ -26306,12 +26754,72 @@
     "url": "https://www.jp.square-enix.com/music/sem/page/tgs2026/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "sqex-item-1",
+        "name": "ドラゴンクエスト 40周年記念缶アニバーサリー チョコインクッキー",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ドラクエ40周年を記念した特製アニバーサリー缶入りチョコインクッキー"
+      },
+      {
+        "id": "sqex-item-2",
+        "name": "FINAL FANTASY POP CHARM チョコボ・モーグリ Vol.1",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "大人気ポップチャームシリーズの最新作！チョコボ＆モーグリ"
+      },
+      {
+        "id": "sqex-item-3",
+        "name": "パラノマサイトFILE23 本所七不思議/FILE38 伊勢人魚物語 オリジナル・サウンドトラック",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "新作音源を含むパラノマサイトファン必携の公式サントラ盤"
+      },
+      {
+        "id": "sqex-item-4",
+        "name": "鋼の錬金術師 トレーディング缶バッジ(Dot Art)",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "ドットアートデザインのハガレン限定トレーディング缶バッジ"
+      },
+      {
+        "id": "sqex-item-5",
+        "name": "スクウェア・エニックス ミュージックコレクションキーチェーン Vol.3",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "歴代名作BGMのCDジャケットを模したキーチェーン第3弾"
+      },
+      {
+        "id": "sqex-item-6",
+        "name": "クロノ・トリガー ミニアクリルブロックコレクション",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "名作『クロノ・トリガー』の美麗ビジュアルを収めたアクリルブロック"
+      },
+      {
+        "id": "sqex-item-7",
+        "name": "ファイナルファンタジーXIV ONE MARK COLLECTION＜キャラクターシリーズ Vol.1＞",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "FF14のスタイリッシュな新作キャラクターワンマークコレクション"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 239.0,
     "mapY": 210.3,
     "mapWidth": 21.6,
-    "mapHeight": 62.2
+    "mapHeight": 62.2,
+    "goodsUrl": "https://www.jp.square-enix.com/music/sem/page/tgs2026/",
+    "goodsBonus": "会場ブースで8,000円(税込)以上購入で「スクエアバッグ(チョコボ＆スライム柄)」を先着プレゼント！サイン入りサントラ抽選販売も実施。",
+    "linkedShopBoothNumber": "09-W69"
   },
   {
     "id": "booth-16055",
@@ -29720,12 +30228,32 @@
         "iconType": "sticker"
       }
     ],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "grapht-item-1",
+        "name": "PlayStation オフィシャルライセンス アパレル＆雑貨",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "PSアイコンやクラシックロゴをあしらった洗練されたアパレル"
+      },
+      {
+        "id": "grapht-item-2",
+        "name": "ストリートファイター6 コラボレーションTシャツ＆キャップ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "格闘ゲームファンのためのストリートカルチャーウェア"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 171.4,
     "mapY": 508.8,
     "mapWidth": 24.3,
-    "mapHeight": 41.6
+    "mapHeight": 41.6,
+    "goodsUrl": "https://grapht.tokyo/",
+    "goodsBonus": "『ストリートファイター』や『PlayStation』オフィシャルライセンスのゲーミングアパレル・雑貨を販売！",
+    "linkedShopBoothNumber": "10-W30"
   },
   {
     "id": "booth-16601",
@@ -30332,12 +30860,72 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "sqex-item-1",
+        "name": "ドラゴンクエスト 40周年記念缶アニバーサリー チョコインクッキー",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ドラクエ40周年を記念した特製アニバーサリー缶入りチョコインクッキー"
+      },
+      {
+        "id": "sqex-item-2",
+        "name": "FINAL FANTASY POP CHARM チョコボ・モーグリ Vol.1",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "大人気ポップチャームシリーズの最新作！チョコボ＆モーグリ"
+      },
+      {
+        "id": "sqex-item-3",
+        "name": "パラノマサイトFILE23 本所七不思議/FILE38 伊勢人魚物語 オリジナル・サウンドトラック",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "新作音源を含むパラノマサイトファン必携の公式サントラ盤"
+      },
+      {
+        "id": "sqex-item-4",
+        "name": "鋼の錬金術師 トレーディング缶バッジ(Dot Art)",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "ドットアートデザインのハガレン限定トレーディング缶バッジ"
+      },
+      {
+        "id": "sqex-item-5",
+        "name": "スクウェア・エニックス ミュージックコレクションキーチェーン Vol.3",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "歴代名作BGMのCDジャケットを模したキーチェーン第3弾"
+      },
+      {
+        "id": "sqex-item-6",
+        "name": "クロノ・トリガー ミニアクリルブロックコレクション",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "名作『クロノ・トリガー』の美麗ビジュアルを収めたアクリルブロック"
+      },
+      {
+        "id": "sqex-item-7",
+        "name": "ファイナルファンタジーXIV ONE MARK COLLECTION＜キャラクターシリーズ Vol.1＞",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "FF14のスタイリッシュな新作キャラクターワンマークコレクション"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 60.0,
     "mapY": 525.0,
     "mapWidth": 10.5,
-    "mapHeight": 6.0
+    "mapHeight": 6.0,
+    "goodsUrl": "https://www.jp.square-enix.com/music/sem/page/tgs2026/",
+    "goodsBonus": "会場ブースで8,000円(税込)以上購入で「スクエアバッグ(チョコボ＆スライム柄)」を先着プレゼント！サイン入りサントラ抽選販売も実施。",
+    "linkedShopBoothNumber": "09-W69"
   },
   {
     "id": "booth-17365",
@@ -31435,12 +32023,40 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "cospa-item-1",
+        "name": "人気ゲーム・アニメ 先行販売Tシャツ各種",
+        "price": 3520,
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "TGS会場でいち早く手に入る高品質な公式グラフィックTシャツ"
+      },
+      {
+        "id": "cospa-item-2",
+        "name": "薄手ドライパーカー＆ジップパーカー",
+        "price": 6380,
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "通気性に優れた高機能ドライパーカー"
+      },
+      {
+        "id": "cospa-item-3",
+        "name": "フルカラーパスケース＆アクリルつままれキーホルダー",
+        "price": 1430,
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "コスパ名物つままれシリーズの新作先行販売"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 239.0,
     "mapY": 440.6,
     "mapWidth": 21.6,
-    "mapHeight": 46.6
+    "mapHeight": 46.6,
+    "goodsUrl": "https://cospa.co.jp/event/id/tgs2026",
+    "goodsBonus": "TGS2026会場先行販売のキャラクターTシャツ、パーカー、バッグ、パスケースが目白押し！",
+    "linkedShopBoothNumber": "10-W12"
   },
   {
     "id": "booth-16752",
@@ -31995,12 +32611,32 @@
     "url": "https://store.grapht.tokyo/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "grapht-item-1",
+        "name": "PlayStation オフィシャルライセンス アパレル＆雑貨",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "PSアイコンやクラシックロゴをあしらった洗練されたアパレル"
+      },
+      {
+        "id": "grapht-item-2",
+        "name": "ストリートファイター6 コラボレーションTシャツ＆キャップ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "格闘ゲームファンのためのストリートカルチャーウェア"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 239.0,
     "mapY": 512.1,
     "mapWidth": 21.6,
-    "mapHeight": 62.2
+    "mapHeight": 62.2,
+    "goodsUrl": "https://grapht.tokyo/",
+    "goodsBonus": "『ストリートファイター』や『PlayStation』オフィシャルライセンスのゲーミングアパレル・雑貨を販売！",
+    "linkedShopBoothNumber": "10-W30"
   },
   {
     "id": "booth-16643",
@@ -33615,12 +34251,32 @@
     "url": "https://www.infolens.com/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "infolens-item-1",
+        "name": "『Apex Legends』1/1スケール レプリカウェポン＆ネッシーぬいぐるみ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "大人気ネッシーのTGS記念カラーや迫力の武器レプリカ"
+      },
+      {
+        "id": "infolens-item-2",
+        "name": "『Fallout』ボブルヘッドフィギュア＆Vault-Tecアパレル",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ドラマ化で話題沸騰のフォールアウト公式グッズ"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 199.9,
     "mapY": 623.2,
     "mapWidth": 21.6,
-    "mapHeight": 18.8
+    "mapHeight": 18.8,
+    "goodsUrl": "https://www.infolens.com/",
+    "goodsBonus": "『Apex Legends』『Minecraft』『Fallout』など海外公式ライセンスグッズを多数取り揃え！",
+    "linkedShopBoothNumber": "11-W01"
   },
   {
     "id": "booth-16307",
@@ -33643,12 +34299,40 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "pal-item-1",
+        "name": "『パルワールド』オフィシャル ぬいぐるみ各種",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "オコチョやツッパニャンなど大人気パルたちのふわふわ高品質ぬいぐるみ"
+      },
+      {
+        "id": "pal-item-2",
+        "name": "『パルワールド』公式Tシャツ・パーカーコレクション",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "TGS会場でしか手に入らないパルワールド限定デザインアパレル"
+      },
+      {
+        "id": "pal-item-3",
+        "name": "パルワールド アクリルスタンド＆メタルキーホルダー",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "人気パルたちが勢揃いしたコレクションアイテム"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 221.6,
     "mapY": 623.2,
     "mapWidth": 19.2,
-    "mapHeight": 18.8
+    "mapHeight": 18.8,
+    "goodsUrl": "https://prtimes.jp/main/html/rd/p/000000137.000071410.html",
+    "goodsBonus": "パルワールド物販ブースにて条件達成で「着ぐるみオコチョのPRソウルカード」「オコチョショッパーバッグ」「3Dシール」等をプレゼント！",
+    "linkedShopBoothNumber": "11-W02"
   },
   {
     "id": "booth-16135",
@@ -33671,12 +34355,48 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "sega-item-1",
+        "name": "STRANGER THAN HEAVEN レコード風コースター",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ヴィンテージレコード盤を模した重厚感あるコースター"
+      },
+      {
+        "id": "sega-item-2",
+        "name": "ペルソナ4 リバイバル(P4R) アクリルスタンド(主人公)",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "P4R主人公の最新キービジュアルを使用した大型アクリルスタンド"
+      },
+      {
+        "id": "sega-item-3",
+        "name": "和ソニック江戸景 日本橋 朝之図 ミニアクリルジオラマ",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "浮世絵調の和風ソニックが日本橋を駆けるTGS限定アクリルジオラマ"
+      },
+      {
+        "id": "sega-item-4",
+        "name": "龍が如く 春日一番【8】Ver. 公式グッズ各種",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "『龍が如く8』の春日一番をフィーチャーした新作アパレル＆小物"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 248.1,
     "mapY": 599.2,
     "mapWidth": 22.9,
-    "mapHeight": 32.5
+    "mapHeight": 32.5,
+    "goodsUrl": "https://tgs.sega.jp/2026/ja/goods/",
+    "goodsBonus": "物販コーナーで税込5,000円以上購入で「オリジナルフレークシール」、税込8,000円以上購入で「特製ショッパー」を先着プレゼント！",
+    "linkedShopBoothNumber": "11-W03"
   },
   {
     "id": "booth-17093",
@@ -33821,12 +34541,32 @@
         "iconType": "other"
       }
     ],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "torch-item-1",
+        "name": "『ELDEN RING』タリスマンコレクション (シルバー925製)",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ゲーム内アイテムを細部まで忠実に立体化した至高のジュエリー"
+      },
+      {
+        "id": "torch-item-2",
+        "name": "『Bloodborne』カレル文字Tシャツ＆ピンズセット",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "職人技が光るハイエンドシルクスクリーンTシャツ"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 242.2,
     "mapY": 666.2,
     "mapWidth": 23.8,
-    "mapHeight": 32.9
+    "mapHeight": 32.9,
+    "goodsUrl": "https://torchtorch.jp/",
+    "goodsBonus": "『ELDEN RING』『Bloodborne』『DARK SOULS』の本格シルバーアクセサリーやハイエンドアパレルを展示販売！",
+    "linkedShopBoothNumber": "11-W08"
   },
   {
     "id": "booth-16167",
@@ -33849,12 +34589,32 @@
     "url": "https://www.gccxblog.com/entry/2026/07/15/120000",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "gccx-item-1",
+        "name": "有野課長 公式名刺ケース＆ボールペンセット",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "課長気分を味わえるビジネス必携アイテム"
+      },
+      {
+        "id": "gccx-item-2",
+        "name": "ゲームセンターCX 番組公式Tシャツ＆マフラータオル",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "挑戦魂を熱くする番組ファン定番グッズ"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://www.fujitv.co.jp/otn/gamecenter/",
+    "goodsBonus": "有野課長プロデュースの番組公式グッズ！定番のイカや番組ロゴグッズを販売。",
+    "linkedShopBoothNumber": "11-W09"
   },
   {
     "id": "booth-16693",
@@ -33877,12 +34637,24 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "vault-item-1",
+        "name": "vaultroom TGS2026 限定フーディー＆Tシャツ",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "肉厚ボディにオリジナル刺繍・プリントを施した限定アパレル"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://vaultroom.shop/",
+    "goodsBonus": "ゲーム・ストリーマーカルチャーを牽引するvaultroomのTGS限定アパレルを販売！",
+    "linkedShopBoothNumber": "11-W10"
   },
   {
     "id": "booth-16115",
@@ -33933,12 +34705,48 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "nhn-item-1",
+        "name": "『#コンパス』アクリルチャームスタンド (全ヒーローラインナップ)",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "お気に入りのヒーローを飾れるチャームスタンド"
+      },
+      {
+        "id": "nhn-item-2",
+        "name": "『#コンパス』＃ナタデココンパス (ver.コラプス)",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "大人気ナタデココンパスのTGS2026会場限定コラプスバージョン"
+      },
+      {
+        "id": "nhn-item-3",
+        "name": "『妖怪ウォッチ ぷにぷに』特製ランチトートバッグ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ぷにぷにしたキャラクターたちが散りばめられた可愛いトート"
+      },
+      {
+        "id": "nhn-item-4",
+        "name": "『幻想世界のぷちぽよん』ぷくぷくシール ポッピンヒーローズA",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "立体感のあるぷくぷく仕様の新作シールセット"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 215.0,
     "mapY": 723.3,
     "mapWidth": 19.8,
-    "mapHeight": 33.1
+    "mapHeight": 33.1,
+    "goodsUrl": "https://www.nhn-playart.com/tgs26/goods/",
+    "goodsBonus": "『#コンパス』『妖怪ウォッチ ぷにぷに』『幻想世界のぷちぽよん』の新商品・会場限定グッズが目白押し！",
+    "linkedShopBoothNumber": "11-W12"
   },
   {
     "id": "booth-16779",
@@ -34017,12 +34825,48 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "bne-item-1",
+        "name": "『ACE COMBAT 8: WINGS OF THEVE』公式新作グッズ先行販売",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "最新作発表記念！部隊章ワッペン、アパレル、ドッグタグ等"
+      },
+      {
+        "id": "bne-item-2",
+        "name": "『テイルズ オブ エターニア リマスター』記念公式グッズ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "エターニアのリマスターを祝したリッドやファラの描き下ろしグッズ"
+      },
+      {
+        "id": "bne-item-3",
+        "name": "『塊魂』新作コレクション (Tシャツ・キャップ・ぬいぐるみ)",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "王様や王子のシュールでキュートなポップデザインアパレル"
+      },
+      {
+        "id": "bne-item-4",
+        "name": "『パックマン』＆『太鼓の達人』公式グッズ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "世代を超えて愛されるレジェンドタイトルのアソビストア限定アイテム"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 199.8,
     "mapY": 780.6,
     "mapWidth": 16.4,
-    "mapHeight": 19.2
+    "mapHeight": 19.2,
+    "goodsUrl": "https://shop.asobistore.jp/feature/pacman_officialstore/topics/tgs2026/",
+    "goodsBonus": "「ASOBI STORE出張所」にて5,000円(税込)購入ごとに、選べる「オリジナルショッピングバッグ(全3種: エースコンバット/エターニア/塊魂)」を1つプレゼント！",
+    "linkedShopBoothNumber": "11-W17"
   },
   {
     "id": "booth-16739",
@@ -34045,12 +34889,48 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "konami-item-1",
+        "name": "『SILENT HILL』シリーズ TGS先行公式グッズ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "サイレントヒルのダークな世界観を再現したTシャツ、アクリルブロック等"
+      },
+      {
+        "id": "konami-item-2",
+        "name": "『METAL GEAR SOLID』シリーズ 公式限定コレクション",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "FOXHOUNDロゴ入りグッズやスネークの名場面をあしらった限定アイテム"
+      },
+      {
+        "id": "konami-item-3",
+        "name": "『ボンバーマン』レトロポップ アパレル＆雑貨",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "懐かしくも新しいボンバーマンのポップな新作グッズ"
+      },
+      {
+        "id": "konami-item-4",
+        "name": "『ときめきメモリアル』メモリアルグッズシリーズ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "30周年を迎えたときメモの思い出が蘇るメモリアルコレクション"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 216.3,
     "mapY": 780.6,
     "mapWidth": 20.8,
-    "mapHeight": 19.2
+    "mapHeight": 19.2,
+    "goodsUrl": "https://www.konami.com/games/tgs/ja/",
+    "goodsBonus": "1回の会計で税込3,000円以上購入すると「↑↑↓↓←→←→BA（コナミコマンド）」オリジナルステッカーを1枚プレゼント！",
+    "linkedShopBoothNumber": "11-W18"
   },
   {
     "id": "booth-16250",
@@ -34661,12 +35541,48 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "sega-item-1",
+        "name": "STRANGER THAN HEAVEN レコード風コースター",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ヴィンテージレコード盤を模した重厚感あるコースター"
+      },
+      {
+        "id": "sega-item-2",
+        "name": "ペルソナ4 リバイバル(P4R) アクリルスタンド(主人公)",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "P4R主人公の最新キービジュアルを使用した大型アクリルスタンド"
+      },
+      {
+        "id": "sega-item-3",
+        "name": "和ソニック江戸景 日本橋 朝之図 ミニアクリルジオラマ",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "浮世絵調の和風ソニックが日本橋を駆けるTGS限定アクリルジオラマ"
+      },
+      {
+        "id": "sega-item-4",
+        "name": "龍が如く 春日一番【8】Ver. 公式グッズ各種",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "『龍が如く8』の春日一番をフィーチャーした新作アパレル＆小物"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://tgs.sega.jp/2026/ja/goods/",
+    "goodsBonus": "物販コーナーで税込5,000円以上購入で「オリジナルフレークシール」、税込8,000円以上購入で「特製ショッパー」を先着プレゼント！",
+    "linkedShopBoothNumber": "11-W03"
   },
   {
     "id": "booth-16994",
@@ -34689,12 +35605,72 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "sqex-item-1",
+        "name": "ドラゴンクエスト 40周年記念缶アニバーサリー チョコインクッキー",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ドラクエ40周年を記念した特製アニバーサリー缶入りチョコインクッキー"
+      },
+      {
+        "id": "sqex-item-2",
+        "name": "FINAL FANTASY POP CHARM チョコボ・モーグリ Vol.1",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "大人気ポップチャームシリーズの最新作！チョコボ＆モーグリ"
+      },
+      {
+        "id": "sqex-item-3",
+        "name": "パラノマサイトFILE23 本所七不思議/FILE38 伊勢人魚物語 オリジナル・サウンドトラック",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "新作音源を含むパラノマサイトファン必携の公式サントラ盤"
+      },
+      {
+        "id": "sqex-item-4",
+        "name": "鋼の錬金術師 トレーディング缶バッジ(Dot Art)",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "ドットアートデザインのハガレン限定トレーディング缶バッジ"
+      },
+      {
+        "id": "sqex-item-5",
+        "name": "スクウェア・エニックス ミュージックコレクションキーチェーン Vol.3",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "歴代名作BGMのCDジャケットを模したキーチェーン第3弾"
+      },
+      {
+        "id": "sqex-item-6",
+        "name": "クロノ・トリガー ミニアクリルブロックコレクション",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "名作『クロノ・トリガー』の美麗ビジュアルを収めたアクリルブロック"
+      },
+      {
+        "id": "sqex-item-7",
+        "name": "ファイナルファンタジーXIV ONE MARK COLLECTION＜キャラクターシリーズ Vol.1＞",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "FF14のスタイリッシュな新作キャラクターワンマークコレクション"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://www.jp.square-enix.com/music/sem/page/tgs2026/",
+    "goodsBonus": "会場ブースで8,000円(税込)以上購入で「スクエアバッグ(チョコボ＆スライム柄)」を先着プレゼント！サイン入りサントラ抽選販売も実施。",
+    "linkedShopBoothNumber": "09-W69"
   },
   {
     "id": "booth-16995",
@@ -34773,12 +35749,48 @@
     "url": "https://www.capcom-games.com/ja-jp/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "capcom-item-1",
+        "name": "モンスターハンター モンでふぉ マグカップ ネオンテーマ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "デフォルメモンスターがネオン調に光り輝くデザインの特製マグカップ"
+      },
+      {
+        "id": "capcom-item-2",
+        "name": "バイオハザード レクイエム トートバッグ トマホーク",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ミリタリーテイストで普段使いしやすいバイオハザード特製トート"
+      },
+      {
+        "id": "capcom-item-3",
+        "name": "ロックマン: デュアルオーバーライド プルパーカー",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "ロックマンの世界観をスタイリッシュに落とし込んだ会場限定プルパーカー"
+      },
+      {
+        "id": "capcom-item-4",
+        "name": "ストリートファイター6 クリアカードセット 春麗",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "SF6美麗ビジュアルを透け感のあるクリアカードに凝縮したセット"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://www.e-capcom.com/sp/tgs/2026/senkou/",
+    "goodsBonus": "「イーカプコン出張所」にて人気タイトルの先行販売商品多数！ブース内にはカプセルトイ専門スポット「CAPSULE LAB」も設置。",
+    "linkedShopBoothNumber": "09-W112"
   },
   {
     "id": "booth-16989",
@@ -34801,12 +35813,48 @@
     "url": "https://www.bandainamcoent.co.jp",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "bne-item-1",
+        "name": "『ACE COMBAT 8: WINGS OF THEVE』公式新作グッズ先行販売",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "最新作発表記念！部隊章ワッペン、アパレル、ドッグタグ等"
+      },
+      {
+        "id": "bne-item-2",
+        "name": "『テイルズ オブ エターニア リマスター』記念公式グッズ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "エターニアのリマスターを祝したリッドやファラの描き下ろしグッズ"
+      },
+      {
+        "id": "bne-item-3",
+        "name": "『塊魂』新作コレクション (Tシャツ・キャップ・ぬいぐるみ)",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "王様や王子のシュールでキュートなポップデザインアパレル"
+      },
+      {
+        "id": "bne-item-4",
+        "name": "『パックマン』＆『太鼓の達人』公式グッズ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "世代を超えて愛されるレジェンドタイトルのアソビストア限定アイテム"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://shop.asobistore.jp/feature/pacman_officialstore/topics/tgs2026/",
+    "goodsBonus": "「ASOBI STORE出張所」にて5,000円(税込)購入ごとに、選べる「オリジナルショッピングバッグ(全3種: エースコンバット/エターニア/塊魂)」を1つプレゼント！",
+    "linkedShopBoothNumber": "11-W17"
   },
   {
     "id": "booth-16996",
@@ -34885,12 +35933,48 @@
     "url": "https://www.konami.com/games/corporate/ja/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "konami-item-1",
+        "name": "『SILENT HILL』シリーズ TGS先行公式グッズ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "サイレントヒルのダークな世界観を再現したTシャツ、アクリルブロック等"
+      },
+      {
+        "id": "konami-item-2",
+        "name": "『METAL GEAR SOLID』シリーズ 公式限定コレクション",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "FOXHOUNDロゴ入りグッズやスネークの名場面をあしらった限定アイテム"
+      },
+      {
+        "id": "konami-item-3",
+        "name": "『ボンバーマン』レトロポップ アパレル＆雑貨",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "懐かしくも新しいボンバーマンのポップな新作グッズ"
+      },
+      {
+        "id": "konami-item-4",
+        "name": "『ときめきメモリアル』メモリアルグッズシリーズ",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "30周年を迎えたときメモの思い出が蘇るメモリアルコレクション"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://www.konami.com/games/tgs/ja/",
+    "goodsBonus": "1回の会計で税込3,000円以上購入すると「↑↑↓↓←→←→BA（コナミコマンド）」オリジナルステッカーを1枚プレゼント！",
+    "linkedShopBoothNumber": "11-W18"
   },
   {
     "id": "booth-16998",
@@ -35417,12 +36501,40 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "pal-item-1",
+        "name": "『パルワールド』オフィシャル ぬいぐるみ各種",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "オコチョやツッパニャンなど大人気パルたちのふわふわ高品質ぬいぐるみ"
+      },
+      {
+        "id": "pal-item-2",
+        "name": "『パルワールド』公式Tシャツ・パーカーコレクション",
+        "priceStr": "会場価格",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "TGS会場でしか手に入らないパルワールド限定デザインアパレル"
+      },
+      {
+        "id": "pal-item-3",
+        "name": "パルワールド アクリルスタンド＆メタルキーホルダー",
+        "priceStr": "会場価格",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "人気パルたちが勢揃いしたコレクションアイテム"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://prtimes.jp/main/html/rd/p/000000137.000071410.html",
+    "goodsBonus": "パルワールド物販ブースにて条件達成で「着ぐるみオコチョのPRソウルカード」「オコチョショッパーバッグ」「3Dシール」等をプレゼント！",
+    "linkedShopBoothNumber": "11-W02"
   },
   {
     "id": "booth-16672",
