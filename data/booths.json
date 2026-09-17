@@ -1788,34 +1788,6 @@
     ],
     "novelties": [
       {
-        "id": "sie-pouch",
-        "name": "PlayStation オリジナル PVCミニポーチ（全4種ランダム）",
-        "condition": "プレイステーションブースでいずれかのタイトルを試遊",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "「PlayStation」「アストロボット」「どこでもいっしょ」「サルゲッチュ」の全4種！カラビナ付き。",
-        "iconType": "bag",
-        "imageUrl": "./images/novelties/nov_1323e1000701.jpeg"
-      },
-      {
-        "id": "sie-wolverine-sticker",
-        "name": "『Marvel's Wolverine』特製ステッカーセット",
-        "condition": "『Marvel's Wolverine』試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【ソニー】ステッカー（投稿）",
-        "iconType": "sticker"
-      },
-      {
-        "id": "sie-line-carabiner",
-        "name": "PlayStation オリジナルデニムカラビナ",
-        "condition": "PlayStation公式LINEを友だち追加＆連携",
-        "conditionType": "sns",
-        "isLimited": true,
-        "description": "【ソニー】カラビナ（LINEお友達登録）",
-        "iconType": "other"
-      },
-      {
         "id": "booth-258-notion-1",
         "name": "オリジナルポーチ",
         "condition": "試遊体験 (全タイトル)",
@@ -2419,49 +2391,8 @@
     "description": "出展コーナー: ゲームアカデミーコーナー (ホール1)",
     "themeColor": "#e11d48",
     "url": "",
-    "games": [
-      {
-        "id": "sanrio-partyland",
-        "title": "サンリオ パーティランド",
-        "genre": "パーティゲーム",
-        "platforms": [
-          "Switch 2",
-          "Switch",
-          "iOS",
-          "Android"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "ファミリーや友達と遊べるパーティゲーム！",
-        "estWaitMinutes": 30,
-        "playDurationMinutes": 10,
-        "rewardNoveltyId": "sanrio-sticker"
-      },
-      {
-        "id": "sanrio-kawaii",
-        "title": "サンリオカワイイミライブ！",
-        "genre": "リズムアクション",
-        "platforms": [
-          "iOS",
-          "Android"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "スマホリズムゲーム試遊。",
-        "estWaitMinutes": 25,
-        "playDurationMinutes": 8,
-        "rewardNoveltyId": "sanrio-sticker"
-      }
-    ],
-    "novelties": [
-      {
-        "id": "sanrio-sticker",
-        "name": "サンリオTGS2026限定キラキラステッカー",
-        "condition": "サンリオブース試遊体験・来場",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "ハローキティやシナモロールたちの限定デザイン！",
-        "iconType": "sticker"
-      }
-    ],
+    "games": [],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 958.0,
@@ -6358,161 +6289,8 @@
     "description": "出展コーナー: 一般展示 (ホール3)",
     "themeColor": "#e11d48",
     "url": "",
-    "games": [
-      {
-        "id": "booth-769-g-1",
-        "title": "刀剣乱舞ぱずぎり",
-        "genre": "パズル",
-        "platforms": [
-          "PC (App)",
-          "iOS",
-          "Android"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "ブース内にて試遊案内中",
-        "estWaitMinutes": 30,
-        "playDurationMinutes": 15
-      },
-      {
-        "id": "booth-769-g-2",
-        "title": "マブラヴ ガールズガーデン",
-        "genre": "RPG",
-        "platforms": [
-          "PC (App)",
-          "PC (Browser)",
-          "iOS",
-          "Android"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "ブース内にて試遊案内中",
-        "estWaitMinutes": 30,
-        "playDurationMinutes": 15
-      },
-      {
-        "id": "booth-769-g-3",
-        "title": "ドットアビス",
-        "genre": "RPG",
-        "platforms": [
-          "PC (App)",
-          "PC (Browser)",
-          "iOS",
-          "Android"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "ブース内にて試遊案内中",
-        "estWaitMinutes": 30,
-        "playDurationMinutes": 15
-      },
-      {
-        "id": "booth-769-g-4",
-        "title": "恋姫†大戦",
-        "genre": "RPG",
-        "platforms": [
-          "PC (App)",
-          "PC (Browser)",
-          "iOS",
-          "Android"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "ブース内にて試遊案内中",
-        "estWaitMinutes": 30,
-        "playDurationMinutes": 15
-      },
-      {
-        "id": "booth-769-g-5",
-        "title": "Muv-Luv: Tactics カーリダーサの悪夢",
-        "genre": "RPG",
-        "platforms": [
-          "Steam"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "ブース内にて試遊案内中",
-        "estWaitMinutes": 30,
-        "playDurationMinutes": 15
-      }
-    ],
-    "novelties": [
-      {
-        "id": "booth-769-nov-1",
-        "name": "DMM GAMES（EXNOA） 特製ノベルティ・来場特典",
-        "condition": "ブース来場・試遊・SNSフォロー等",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "ブースにて数量限定で配布。なくなり次第終了。",
-        "iconType": "other",
-        "imageUrl": "./images/novelties/nov_7baee6ff9f5c.jpeg"
-      },
-      {
-        "id": "booth-769-notion-188",
-        "name": "★Tシャツ・DMMグッズ",
-        "condition": "配布特典 (事前登録抽選)",
-        "conditionType": "sns",
-        "isLimited": true,
-        "description": "【DMM】★Tシャツ・DMMグッズ（事前登録抽選）",
-        "iconType": "tshirt"
-      },
-      {
-        "id": "booth-769-notion-189",
-        "name": "★ぱずぎり：ステッカー、バルーンうちわ",
-        "condition": "配布特典 (事前登録)",
-        "conditionType": "sns",
-        "isLimited": true,
-        "description": "【DMM】★ぱずぎり：ステッカー、バルーン（事前登録）うちわ（配布）",
-        "iconType": "sticker"
-      },
-      {
-        "id": "booth-769-notion-190",
-        "name": "ガールズガーデン：お面アクキー",
-        "condition": "配布特典 (来場)",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "【DMM】ガールズガーデン：お面（来場）アクキー（搭乗体験）",
-        "iconType": "poster"
-      },
-      {
-        "id": "booth-769-notion-191",
-        "name": "Muv-Luv: Tactics：ステッカー",
-        "condition": "配布特典 (体験)",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "【DMM】Muv-Luv: Tactics：ステッカー（体験）",
-        "iconType": "sticker"
-      },
-      {
-        "id": "booth-769-notion-192",
-        "name": "恋姫対戦：ポストカード",
-        "condition": "配布特典 (試遊)",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "【DMM】恋姫対戦：ポストカード（試遊）",
-        "iconType": "card"
-      },
-      {
-        "id": "booth-769-notion-193",
-        "name": "ドットアビス：うちわエナドリ・名刺",
-        "condition": "配布特典 (配布)",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "【DMM】ドットアビス：うちわ（配布）エナドリ・名刺（体験）",
-        "iconType": "poster"
-      },
-      {
-        "id": "nov-notion-8-083836",
-        "name": "●メッシュエコバッグ・ステッカー",
-        "description": "【試遊体験】●メッシュエコバッグ・ステッカー",
-        "condition": "試遊体験",
-        "iconType": "sticker",
-        "imageUrl": "./images/novelties/nov_8b0326fd9e0f.jpeg"
-      },
-      {
-        "id": "nov-notion-9-165d6e",
-        "name": "スクイーズ（配布）",
-        "description": "【ブース配布 / 条件達成】スクイーズ（配布）",
-        "condition": "ブース配布 / 条件達成",
-        "iconType": "other",
-        "imageUrl": "./images/novelties/nov_7baee6ff9f5c.jpeg"
-      }
-    ],
+    "games": [],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 683.0,
@@ -10964,18 +10742,7 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [
-      {
-        "id": "booth-117-notion-87",
-        "name": "project; VIRAI:Tシャツ",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【BEEP】project; VIRAI:Tシャツ",
-        "iconType": "tshirt",
-        "imageUrl": "./images/novelties/nov_2c3a66df66d4.jpg"
-      }
-    ],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 365.6,
@@ -18474,8 +18241,115 @@
     "description": "出展コーナー: インディーゲームコーナー (ホール9)",
     "themeColor": "#e11d48",
     "url": "https://www.furyu.jp/",
-    "games": [],
-    "novelties": [],
+    "games": [
+      {
+        "id": "booth-791-g-1",
+        "title": "アノマリス／ANOMALITH",
+        "genre": "アクション,FPS・TPS,RPG,アドベンチャー,シューティング",
+        "platforms": [
+          "Nintendo Switch 2",
+          "PlayStation 5",
+          "Steam"
+        ],
+        "ticketRequired": false,
+        "ticketNote": "ブース内にて試遊案内中",
+        "estWaitMinutes": 30,
+        "playDurationMinutes": 15
+      },
+      {
+        "id": "booth-791-g-2",
+        "title": "クライムライト／CRYMELIGHT",
+        "genre": "アクション,RPG,アドベンチャー",
+        "platforms": [
+          "Nintendo Switch 2",
+          "PlayStation 5",
+          "Steam"
+        ],
+        "ticketRequired": false,
+        "ticketNote": "ブース内にて試遊案内中",
+        "estWaitMinutes": 30,
+        "playDurationMinutes": 15
+      },
+      {
+        "id": "booth-791-g-1",
+        "title": "アノマリス／ANOMALITH",
+        "genre": "アクション,FPS・TPS,RPG,アドベンチャー,シューティング",
+        "platforms": [
+          "Nintendo Switch 2",
+          "PlayStation 5",
+          "Steam"
+        ],
+        "ticketRequired": false,
+        "ticketNote": "ブース内にて試遊案内中",
+        "estWaitMinutes": 30,
+        "playDurationMinutes": 15
+      },
+      {
+        "id": "booth-791-g-2",
+        "title": "クライムライト／CRYMELIGHT",
+        "genre": "アクション,RPG,アドベンチャー",
+        "platforms": [
+          "Nintendo Switch 2",
+          "PlayStation 5",
+          "Steam"
+        ],
+        "ticketRequired": false,
+        "ticketNote": "ブース内にて試遊案内中",
+        "estWaitMinutes": 30,
+        "playDurationMinutes": 15
+      }
+    ],
+    "novelties": [
+      {
+        "id": "booth-791-nov-1",
+        "name": "フリュー 特製ノベルティ・来場特典",
+        "condition": "ブース来場・試遊・SNSフォロー等",
+        "conditionType": "free",
+        "isLimited": true,
+        "description": "ブースにて数量限定で配布。なくなり次第終了。",
+        "iconType": "other",
+        "imageUrl": "./images/novelties/nov_63f9d9c3d85e.jpg"
+      },
+      {
+        "id": "booth-791-notion-116",
+        "name": "アノマリス：カード・硬貨",
+        "condition": "ブース試遊体験",
+        "conditionType": "play",
+        "isLimited": true,
+        "description": "【フリュー】アノマリス：カード・硬貨",
+        "iconType": "card",
+        "imageUrl": "./images/novelties/nov_103_994f1c8b4d60.jpg"
+      },
+      {
+        "id": "booth-791-notion-127",
+        "name": "涙目アクリルカード",
+        "condition": "ブース試遊体験",
+        "conditionType": "play",
+        "isLimited": true,
+        "description": "【クライムライト】涙目アクリルカード",
+        "iconType": "card",
+        "imageUrl": "./images/novelties/nov_110_9cdfcd83d52a.jpg"
+      },
+      {
+        "id": "booth-791-notion-236",
+        "name": "アノマリス：ステッカー",
+        "condition": "配布特典 (条件)",
+        "conditionType": "free",
+        "isLimited": true,
+        "description": "【フリュー】アノマリス：ステッカー（条件）",
+        "iconType": "sticker",
+        "imageUrl": "./images/novelties/nov_149_63f9d9c3d85e.jpg"
+      },
+      {
+        "id": "booth-791-notion-237",
+        "name": "クライムライト：カード、ステッカー",
+        "condition": "配布特典 (条件)",
+        "conditionType": "free",
+        "isLimited": true,
+        "description": "【フリュー】クライムライト：カード、ステッカー（条件）",
+        "iconType": "sticker"
+      }
+    ],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 145.5,
@@ -18552,28 +18426,7 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [
-      {
-        "id": "booth-416-notion-239",
-        "name": "扇子",
-        "condition": "ブース来場・配布特典",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "【GYAAR Studio】扇子",
-        "iconType": "other",
-        "imageUrl": "./images/novelties/nov_151_38a295a90fe7.jpg"
-      },
-      {
-        "id": "booth-416-notion-249",
-        "name": "うちわステッカー",
-        "condition": "配布特典 (配布)",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "【HEIMA】うちわ（配布）ステッカー（ウィッシュリスト）",
-        "iconType": "sticker",
-        "imageUrl": "./images/novelties/nov_155_b2806302700b.jpg"
-      }
-    ],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 154.9,
@@ -18601,28 +18454,7 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [
-      {
-        "id": "booth-416-notion-239",
-        "name": "扇子",
-        "condition": "ブース来場・配布特典",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "【GYAAR Studio】扇子",
-        "iconType": "other",
-        "imageUrl": "./images/novelties/nov_151_38a295a90fe7.jpg"
-      },
-      {
-        "id": "booth-416-notion-249",
-        "name": "うちわステッカー",
-        "condition": "配布特典 (配布)",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "【HEIMA】うちわ（配布）ステッカー（ウィッシュリスト）",
-        "iconType": "sticker",
-        "imageUrl": "./images/novelties/nov_155_b2806302700b.jpg"
-      }
-    ],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 154.9,
@@ -19408,18 +19240,7 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [
-      {
-        "id": "booth-411-notion-129",
-        "name": "Tシャツ・タオル",
-        "condition": "試遊体験 (抽選)",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【ビットサミット】Tシャツ・タオル（抽選）",
-        "iconType": "tshirt",
-        "imageUrl": "./images/novelties/nov_112_1ad50708a85b.jpg"
-      }
-    ],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 118.0,
@@ -19447,18 +19268,7 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [
-      {
-        "id": "booth-411-notion-129",
-        "name": "Tシャツ・タオル",
-        "condition": "試遊体験 (抽選)",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【ビットサミット】Tシャツ・タオル（抽選）",
-        "iconType": "tshirt",
-        "imageUrl": "./images/novelties/nov_112_1ad50708a85b.jpg"
-      }
-    ],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 118.0,
@@ -19486,18 +19296,7 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [
-      {
-        "id": "booth-411-notion-129",
-        "name": "Tシャツ・タオル",
-        "condition": "試遊体験 (抽選)",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【ビットサミット】Tシャツ・タオル（抽選）",
-        "iconType": "tshirt",
-        "imageUrl": "./images/novelties/nov_112_1ad50708a85b.jpg"
-      }
-    ],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 118.0,
@@ -19525,18 +19324,7 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [
-      {
-        "id": "booth-411-notion-129",
-        "name": "Tシャツ・タオル",
-        "condition": "試遊体験 (抽選)",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【ビットサミット】Tシャツ・タオル（抽選）",
-        "iconType": "tshirt",
-        "imageUrl": "./images/novelties/nov_112_1ad50708a85b.jpg"
-      }
-    ],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 118.0,
@@ -19564,18 +19352,7 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [
-      {
-        "id": "booth-411-notion-129",
-        "name": "Tシャツ・タオル",
-        "condition": "試遊体験 (抽選)",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【ビットサミット】Tシャツ・タオル（抽選）",
-        "iconType": "tshirt",
-        "imageUrl": "./images/novelties/nov_112_1ad50708a85b.jpg"
-      }
-    ],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 118.0,
@@ -19603,18 +19380,7 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [
-      {
-        "id": "booth-411-notion-129",
-        "name": "Tシャツ・タオル",
-        "condition": "試遊体験 (抽選)",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【ビットサミット】Tシャツ・タオル（抽選）",
-        "iconType": "tshirt",
-        "imageUrl": "./images/novelties/nov_112_1ad50708a85b.jpg"
-      }
-    ],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 118.0,
@@ -21851,7 +21617,26 @@
     "themeColor": "#e11d48",
     "url": "https://www.room6.net/",
     "games": [],
-    "novelties": [],
+    "novelties": [
+      {
+        "id": "booth-592-notion-240",
+        "name": "狐ト蛙ノ旅:写真カード",
+        "condition": "ブース来場・配布特典",
+        "conditionType": "free",
+        "isLimited": true,
+        "description": "【room6】狐ト蛙ノ旅:写真カード",
+        "iconType": "card"
+      },
+      {
+        "id": "booth-592-notion-241",
+        "name": "他",
+        "condition": "ブース来場・配布特典",
+        "conditionType": "free",
+        "isLimited": true,
+        "description": "【room6】他",
+        "iconType": "other"
+      }
+    ],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 112.2,
@@ -22438,139 +22223,8 @@
     "description": "出展コーナー: インディーゲームコーナー (ホール9)",
     "themeColor": "#e11d48",
     "url": "",
-    "games": [
-      {
-        "id": "sqex-ff7-rev",
-        "title": "ファイナルファンタジーVII リベレーション",
-        "genre": "アクションRPG",
-        "platforms": [
-          "Switch 2",
-          "PS5",
-          "Xbox Series X|S",
-          "Steam"
-        ],
-        "ticketRequired": true,
-        "ticketNote": "事前スクエニメンバーズ当選者優先＋当日先着試遊整理券。",
-        "estWaitMinutes": 90,
-        "playDurationMinutes": 15,
-        "rewardNoveltyId": "sqex-ff-bag"
-      },
-      {
-        "id": "sqex-ff-res",
-        "title": "ファイナルファンタジー レゾナンス",
-        "genre": "RPG",
-        "platforms": [
-          "Switch 2",
-          "Switch",
-          "PS5",
-          "Xbox Series X|S",
-          "Steam"
-        ],
-        "ticketRequired": true,
-        "ticketNote": "【NEW GAME】【ダンジョン攻略】【闘技場】から選んで試遊可能。",
-        "estWaitMinutes": 60,
-        "playDurationMinutes": 15,
-        "rewardNoveltyId": "sqex-resonance-box"
-      },
-      {
-        "id": "sqex-dqm4",
-        "title": "ドラゴンクエストモンスターズ４ 枯れ木の国のビアンカ・フローラ",
-        "genre": "RPG",
-        "platforms": [
-          "Switch 2",
-          "Switch",
-          "PS5",
-          "Xbox Series X|S",
-          "Steam"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "待機列入場（混雑時整理券配布あり）。",
-        "estWaitMinutes": 45,
-        "playDurationMinutes": 15,
-        "rewardNoveltyId": "sqex-dqm4-seal"
-      },
-      {
-        "id": "sqex-ff14",
-        "title": "ファイナルファンタジーXIV: 白銀のワンダラー",
-        "genre": "MMORPG",
-        "platforms": [
-          "Switch 2",
-          "PS5",
-          "PS4",
-          "Xbox Series X|S",
-          "Steam"
-        ],
-        "ticketRequired": true,
-        "ticketNote": "8人討滅戦バトルチャレンジ（整理券制）。",
-        "estWaitMinutes": 60,
-        "playDurationMinutes": 15,
-        "rewardNoveltyId": "sqex-ff-bag"
-      },
-      {
-        "id": "sqex-rs3-du",
-        "title": "ロマンシング サガ3 デスティニーユナイテッド",
-        "genre": "RPG",
-        "platforms": [
-          "Switch 2",
-          "Switch",
-          "PS5",
-          "Xbox Series X|S",
-          "Steam"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "待機列順次案内。",
-        "estWaitMinutes": 35,
-        "playDurationMinutes": 15,
-        "rewardNoveltyId": "sqex-ff-bag"
-      }
-    ],
-    "novelties": [
-      {
-        "id": "sqex-ff-bag",
-        "name": "『FFVII リベレーション』×『FFXIV』オリジナルバッグ",
-        "condition": "スクエニブースにてフリー配布（複数回）",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "特製大型コラボレーションショッパー。ブース周辺でゲリラ配布。",
-        "iconType": "bag"
-      },
-      {
-        "id": "sqex-dqm4-seal",
-        "name": "「わたぼう＆スライム」オリジナルシール",
-        "condition": "DQM4フォトスポットで記念撮影",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "巨大わたぼう＆スライム像のフォトスポットで配布！",
-        "iconType": "sticker"
-      },
-      {
-        "id": "sqex-dqm4-tote",
-        "name": "「わたぼう＆スライム」オリジナルトートバッグ",
-        "condition": "会場アンケート回答（スクエニメンバーズ会員登録）",
-        "conditionType": "survey",
-        "isLimited": true,
-        "description": "ブース内アンケートに回答するとプレゼント！",
-        "iconType": "bag"
-      },
-      {
-        "id": "sqex-resonance-box",
-        "name": "『FF レゾナンス』レトロパッケージ風BOX ＆ FF-TCG PRカード フィーナ",
-        "condition": "『ファイナルファンタジー レゾナンス』試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "豪華レトロBOXと限定PRカードのセット！",
-        "iconType": "card"
-      },
-      {
-        "id": "sqex-shop-bag",
-        "name": "SQUARE ENIX 特製スクエアバッグ",
-        "condition": "物販コーナー（10-E15 / 09-W69）で8,000円以上購入",
-        "conditionType": "purchase",
-        "isLimited": true,
-        "description": "物販購入特典の高級スクエアバッグ。",
-        "iconType": "bag"
-      }
-    ],
+    "games": [],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 151.1,
@@ -30027,8 +29681,45 @@
     "description": "出展コーナー: ゲーミングハードウェアコーナー (ホール10)",
     "themeColor": "#e11d48",
     "url": "https://store.grapht.tokyo/",
-    "games": [],
-    "novelties": [],
+    "games": [
+      {
+        "id": "booth-183-g-1",
+        "title": "AppThrust",
+        "genre": "その他",
+        "platforms": [
+          "未定"
+        ],
+        "ticketRequired": false,
+        "ticketNote": "ブース内にて試遊案内中",
+        "estWaitMinutes": 30,
+        "playDurationMinutes": 15,
+        "rewardNoveltyId": null
+      },
+      {
+        "id": "booth-183-g-1",
+        "title": "AppThrust",
+        "genre": "その他",
+        "platforms": [
+          "未定"
+        ],
+        "ticketRequired": false,
+        "ticketNote": "ブース内にて試遊案内中",
+        "estWaitMinutes": 30,
+        "playDurationMinutes": 15,
+        "rewardNoveltyId": null
+      }
+    ],
+    "novelties": [
+      {
+        "id": "booth-552-nov-1",
+        "name": "GRAPHT 特製ノベルティ・来場特典",
+        "condition": "ブース来場・試遊・SNSフォロー等",
+        "conditionType": "free",
+        "isLimited": true,
+        "description": "ブースにて数量限定で配布。なくなり次第終了。",
+        "iconType": "sticker"
+      }
+    ],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 171.4,
@@ -30639,198 +30330,8 @@
     "description": "出展コーナー: ビジネスソリューションコーナー (ホール10)",
     "themeColor": "#e11d48",
     "url": "",
-    "games": [
-      {
-        "id": "sqex-ff7-rev",
-        "title": "ファイナルファンタジーVII リベレーション",
-        "genre": "アクションRPG",
-        "platforms": [
-          "Switch 2",
-          "PS5",
-          "Xbox Series X|S",
-          "Steam"
-        ],
-        "ticketRequired": true,
-        "ticketNote": "事前スクエニメンバーズ当選者優先＋当日先着試遊整理券。",
-        "estWaitMinutes": 90,
-        "playDurationMinutes": 15,
-        "rewardNoveltyId": "sqex-ff-bag"
-      },
-      {
-        "id": "sqex-ff-res",
-        "title": "ファイナルファンタジー レゾナンス",
-        "genre": "RPG",
-        "platforms": [
-          "Switch 2",
-          "Switch",
-          "PS5",
-          "Xbox Series X|S",
-          "Steam"
-        ],
-        "ticketRequired": true,
-        "ticketNote": "【NEW GAME】【ダンジョン攻略】【闘技場】から選んで試遊可能。",
-        "estWaitMinutes": 60,
-        "playDurationMinutes": 15,
-        "rewardNoveltyId": "sqex-resonance-box"
-      },
-      {
-        "id": "sqex-dqm4",
-        "title": "ドラゴンクエストモンスターズ４ 枯れ木の国のビアンカ・フローラ",
-        "genre": "RPG",
-        "platforms": [
-          "Switch 2",
-          "Switch",
-          "PS5",
-          "Xbox Series X|S",
-          "Steam"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "待機列入場（混雑時整理券配布あり）。",
-        "estWaitMinutes": 45,
-        "playDurationMinutes": 15,
-        "rewardNoveltyId": "sqex-dqm4-seal"
-      },
-      {
-        "id": "sqex-ff14",
-        "title": "ファイナルファンタジーXIV: 白銀のワンダラー",
-        "genre": "MMORPG",
-        "platforms": [
-          "Switch 2",
-          "PS5",
-          "PS4",
-          "Xbox Series X|S",
-          "Steam"
-        ],
-        "ticketRequired": true,
-        "ticketNote": "8人討滅戦バトルチャレンジ（整理券制）。",
-        "estWaitMinutes": 60,
-        "playDurationMinutes": 15,
-        "rewardNoveltyId": "sqex-ff-bag"
-      },
-      {
-        "id": "sqex-rs3-du",
-        "title": "ロマンシング サガ3 デスティニーユナイテッド",
-        "genre": "RPG",
-        "platforms": [
-          "Switch 2",
-          "Switch",
-          "PS5",
-          "Xbox Series X|S",
-          "Steam"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "待機列順次案内。",
-        "estWaitMinutes": 35,
-        "playDurationMinutes": 15,
-        "rewardNoveltyId": "sqex-ff-bag"
-      }
-    ],
-    "novelties": [
-      {
-        "id": "sqex-ff-bag",
-        "name": "『FFVII リベレーション』×『FFXIV』オリジナルバッグ",
-        "condition": "スクエニブースにてフリー配布（複数回）",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "特製大型コラボレーションショッパー。ブース周辺でゲリラ配布。",
-        "iconType": "bag",
-        "imageUrl": "./images/novelties/nov_d5e2495ebbae.jpeg"
-      },
-      {
-        "id": "sqex-dqm4-seal",
-        "name": "「わたぼう＆スライム」オリジナルシール",
-        "condition": "DQM4フォトスポットで記念撮影",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "巨大わたぼう＆スライム像のフォトスポットで配布！",
-        "iconType": "sticker",
-        "imageUrl": "./images/novelties/nov_63b054af799f.jpeg"
-      },
-      {
-        "id": "sqex-dqm4-tote",
-        "name": "「わたぼう＆スライム」オリジナルトートバッグ",
-        "condition": "会場アンケート回答（スクエニメンバーズ会員登録）",
-        "conditionType": "survey",
-        "isLimited": true,
-        "description": "ブース内アンケートに回答するとプレゼント！",
-        "iconType": "bag"
-      },
-      {
-        "id": "sqex-resonance-box",
-        "name": "『FF レゾナンス』レトロパッケージ風BOX ＆ FF-TCG PRカード フィーナ",
-        "condition": "『ファイナルファンタジー レゾナンス』試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "豪華レトロBOXと限定PRカードのセット！",
-        "iconType": "card"
-      },
-      {
-        "id": "sqex-shop-bag",
-        "name": "SQUARE ENIX 特製スクエアバッグ",
-        "condition": "物販コーナーで8,000円以上購入",
-        "conditionType": "purchase",
-        "isLimited": true,
-        "description": "物販購入特典の高級スクエアバッグ。",
-        "iconType": "bag"
-      },
-      {
-        "id": "booth-651-notion-48",
-        "name": "FFレゾナンス：ボックス・カード",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【スクエニ】FFレゾナンス：ボックス・カード",
-        "iconType": "card",
-        "imageUrl": "./images/novelties/nov_57_398f208f733f.jpg"
-      },
-      {
-        "id": "booth-651-notion-49",
-        "name": "■DQM4：ステッカー、トートバッグ（グリーティング",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【スクエニ】■DQM4：ステッカー、トートバッグ（グリーティング",
-        "iconType": "sticker",
-        "imageUrl": "./images/novelties/nov_59_ca0a9275f2a2.jpg"
-      },
-      {
-        "id": "booth-651-notion-50",
-        "name": "ロマサガ３：保冷剤なのだ",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【スクエニ】ロマサガ３：保冷剤なのだ",
-        "iconType": "other",
-        "imageUrl": "./images/novelties/nov_61_d5e2495ebbae.jpg"
-      },
-      {
-        "id": "booth-651-notion-158",
-        "name": "パンフ",
-        "condition": "配布特典 (配布)",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "【スクエニ】パンフ(配布)",
-        "iconType": "other"
-      },
-      {
-        "id": "booth-651-notion-159",
-        "name": "FF7R：ショッパー",
-        "condition": "配布特典 (配布)",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "【スクエニ】FF7R：ショッパー（配布）",
-        "iconType": "bag"
-      },
-      {
-        "id": "booth-651-notion-160",
-        "name": "ロマサガ３：うちわ",
-        "condition": "配布特典 (配布)",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "【スクエニ】ロマサガ３：うちわ（配布）",
-        "iconType": "poster"
-      }
-    ],
+    "games": [],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 60.0,
@@ -32492,45 +31993,8 @@
     "description": "出展コーナー: 物販コーナー (ホール10)",
     "themeColor": "#e11d48",
     "url": "https://store.grapht.tokyo/",
-    "games": [
-      {
-        "id": "booth-183-g-1",
-        "title": "AppThrust",
-        "genre": "その他",
-        "platforms": [
-          "未定"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "ブース内にて試遊案内中",
-        "estWaitMinutes": 30,
-        "playDurationMinutes": 15,
-        "rewardNoveltyId": null
-      },
-      {
-        "id": "booth-183-g-1",
-        "title": "AppThrust",
-        "genre": "その他",
-        "platforms": [
-          "未定"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "ブース内にて試遊案内中",
-        "estWaitMinutes": 30,
-        "playDurationMinutes": 15,
-        "rewardNoveltyId": null
-      }
-    ],
-    "novelties": [
-      {
-        "id": "booth-552-nov-1",
-        "name": "GRAPHT 特製ノベルティ・来場特典",
-        "condition": "ブース来場・試遊・SNSフォロー等",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "ブースにて数量限定で配布。なくなり次第終了。",
-        "iconType": "sticker"
-      }
-    ],
+    "games": [],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 239.0,
@@ -35195,288 +34659,8 @@
     "description": "出展コーナー: ファミリーゲームパーク (TKP東京ベイ幕張ホール)",
     "themeColor": "#ec4899",
     "url": "",
-    "games": [
-      {
-        "id": "sega-p4r",
-        "title": "ペルソナ４ リバイバル",
-        "genre": "RPG",
-        "platforms": [
-          "PS5",
-          "Xbox Series X|S",
-          "Steam"
-        ],
-        "ticketRequired": true,
-        "ticketNote": "開場後セガ／アトラスブースにて整理券配布。",
-        "estWaitMinutes": 80,
-        "playDurationMinutes": 15,
-        "rewardNoveltyId": "sega-p4-water"
-      },
-      {
-        "id": "sega-crazytaxi",
-        "title": "クレイジータクシー：ワールドツアー",
-        "genre": "ドライビングアクション",
-        "platforms": [
-          "Switch 2",
-          "PS5",
-          "Xbox Series X|S",
-          "Steam"
-        ],
-        "ticketRequired": true,
-        "ticketNote": "整理券制（先着）。",
-        "estWaitMinutes": 60,
-        "playDurationMinutes": 12,
-        "rewardNoveltyId": "sega-taxi-visor"
-      },
-      {
-        "id": "sega-stranger",
-        "title": "STRANGER THAN HEAVEN",
-        "genre": "アクション",
-        "platforms": [
-          "PS5",
-          "Steam"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "通常待機列（混雑時制限あり）。",
-        "estWaitMinutes": 45,
-        "playDurationMinutes": 15,
-        "rewardNoveltyId": "sega-stranger-uchiwa"
-      },
-      {
-        "id": "sega-sonic-cross",
-        "title": "ソニックレーシング クロスワールド",
-        "genre": "レース",
-        "platforms": [
-          "Switch 2",
-          "Switch",
-          "PS5",
-          "Xbox Series X|S",
-          "Steam"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "マルチ対戦試遊台あり。",
-        "estWaitMinutes": 40,
-        "playDurationMinutes": 10,
-        "rewardNoveltyId": "sega-p4-bag"
-      },
-      {
-        "id": "sega-warhammer",
-        "title": "トータルウォー：ウォーハンマー 40,000",
-        "genre": "戦略シミュレーション",
-        "platforms": [
-          "Steam"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "PC試遊台。",
-        "estWaitMinutes": 35,
-        "playDurationMinutes": 15,
-        "rewardNoveltyId": "sega-p4-bag"
-      }
-    ],
-    "novelties": [
-      {
-        "id": "sega-p4-bag",
-        "name": "『ペルソナ４ リバイバル』特製大型ショッパー",
-        "condition": "セガブース周辺にてフリー配布",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "『ペルソナ４ リバイバル』と『メタファー』の特大両面バッグ！",
-        "iconType": "bag"
-      },
-      {
-        "id": "sega-p4-water",
-        "name": "オリジナルペットボトルホルダー ＆ アトラス水（300mlボトル）",
-        "condition": "『ペルソナ４ リバイバル』試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "P4Rを試遊した方にセットでプレゼント！",
-        "iconType": "other"
-      },
-      {
-        "id": "sega-p4-glasses",
-        "name": "『ペルソナ４ リバイバル』主人公なりきり紙メガネ",
-        "condition": "ブース来場・コーナー参加",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "主人公になりきれる特製メガネ！",
-        "iconType": "other"
-      },
-      {
-        "id": "sega-taxi-visor",
-        "name": "『クレイジータクシー』サンバイザー",
-        "condition": "『クレイジータクシー』試遊・アクティビティ参加",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "タクシーランプを模したインパクト抜群のサンバイザー！",
-        "iconType": "other"
-      },
-      {
-        "id": "sega-stranger-uchiwa",
-        "name": "『STRANGER THAN HEAVEN』オリジナルうちわ",
-        "condition": "ブース来場者全員に配布",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "会場内で涼める限定特製うちわ。",
-        "iconType": "other"
-      },
-      {
-        "id": "sega-account-key",
-        "name": "SEGA Account限定キーホルダー",
-        "condition": "SEGA Account登録画面提示",
-        "conditionType": "sns",
-        "isLimited": true,
-        "description": "SEGA Accountのマイページ画面をスタッフに提示するとプレゼント！",
-        "iconType": "other"
-      },
-      {
-        "id": "booth-585-notion-3",
-        "name": "ストレンジャー：ネックストラップ",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【セガ】ストレンジャー：ネックストラップ",
-        "iconType": "badge",
-        "imageUrl": "./images/novelties/nov_3_51fcf7a64aaf.jpg"
-      },
-      {
-        "id": "booth-585-notion-4",
-        "name": "P4R：ボトルホルダー、水、ステッカー２種",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【セガ】P4R：ボトルホルダー、水、ステッカー２種",
-        "iconType": "sticker",
-        "imageUrl": "./images/novelties/nov_4_04ef94bd9af3.jpg"
-      },
-      {
-        "id": "booth-585-notion-5",
-        "name": "クレイジータクシー：メモ帳",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【セガ】クレイジータクシー：メモ帳",
-        "iconType": "other",
-        "imageUrl": "./images/novelties/nov_5_9ca44cad0edd.jpg"
-      },
-      {
-        "id": "booth-585-notion-6",
-        "name": "レゴバットマン:フィギュア",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【セガ】レゴバットマン:フィギュア",
-        "iconType": "badge",
-        "imageUrl": "./images/novelties/nov_6_c07b967767c5.jpg"
-      },
-      {
-        "id": "booth-585-notion-7",
-        "name": "トータルウォー：アクリルドッグタグ",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【セガ】トータルウォー：アクリルドッグタグ",
-        "iconType": "other",
-        "imageUrl": "./images/novelties/nov_7_755745500091.jpg"
-      },
-      {
-        "id": "booth-585-notion-8",
-        "name": "トータルウォー：Tシャツ、手ぬぐい等当たるくじ",
-        "condition": "試遊体験 (体験)",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【セガ】トータルウォー：Tシャツ、手ぬぐい等当たるくじ（体験）",
-        "iconType": "tshirt",
-        "imageUrl": "./images/novelties/nov_8_414ef2c3eab5.jpg"
-      },
-      {
-        "id": "booth-585-notion-9",
-        "name": "ロリポップ：キーチェーン",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【セガ】ロリポップ：キーチェーン",
-        "iconType": "other"
-      },
-      {
-        "id": "booth-585-notion-10",
-        "name": "未公開",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【セガ】未公開",
-        "iconType": "other",
-        "imageUrl": "./images/novelties/nov_13_0d3bf6c954fd.jpg"
-      },
-      {
-        "id": "booth-585-notion-11",
-        "name": "CONTROL Resonant Tシャツ・トートバッグ",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【セガ】CONTROL Resonant Tシャツ・トートバッグ",
-        "iconType": "tshirt",
-        "imageUrl": "./images/novelties/nov_14_e73ae5df762d.jpg"
-      },
-      {
-        "id": "booth-585-notion-12",
-        "name": "ソニックレーシング クロスワールド：エヴァ＆ゴジラポスター",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【セガ】ソニックレーシング クロスワールド：エヴァ＆ゴジラポスター",
-        "iconType": "poster",
-        "imageUrl": "./images/novelties/nov_16_4b174d52df21.jpg"
-      },
-      {
-        "id": "booth-585-notion-13",
-        "name": "ソニックピコパーク：うちわ",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【セガ】ソニックピコパーク：うちわ",
-        "iconType": "poster",
-        "imageUrl": "./images/novelties/nov_17_a33605b49ab3.jpg"
-      },
-      {
-        "id": "booth-585-notion-14",
-        "name": "■メタファー：ポストカードブック・歯ンカチ",
-        "condition": "試遊体験 (体験)",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【セガ】■メタファー：ポストカードブック・歯ンカチ（体験）",
-        "iconType": "card",
-        "imageUrl": "./images/novelties/nov_18_b0ae4eba1032.jpg"
-      },
-      {
-        "id": "booth-585-notion-15",
-        "name": "EAsports：ステッカー",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【セガ】EAsports：ステッカー",
-        "iconType": "sticker",
-        "imageUrl": "./images/novelties/nov_19_cbacac37a681.jpg"
-      },
-      {
-        "id": "booth-585-notion-16",
-        "name": "kalanoro：ステッカー",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【セガ】kalanoro：ステッカー",
-        "iconType": "sticker",
-        "imageUrl": "./images/novelties/nov_20_f05cbb392b7c.jpg"
-      },
-      {
-        "id": "booth-585-notion-264",
-        "name": "ストレンジャー：スティックカバー",
-        "condition": "事前予約・購入特典",
-        "conditionType": "purchase",
-        "isLimited": true,
-        "description": "【セガ】ストレンジャー：スティックカバー",
-        "iconType": "other",
-        "imageUrl": "./images/novelties/nov_176_359a6912ce59.jpg"
-      }
-    ],
+    "games": [],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 0.0,
@@ -35560,26 +34744,7 @@
     "themeColor": "#ec4899",
     "url": "https://www.room6.net/",
     "games": [],
-    "novelties": [
-      {
-        "id": "booth-592-notion-240",
-        "name": "狐ト蛙ノ旅:写真カード",
-        "condition": "ブース来場・配布特典",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "【room6】狐ト蛙ノ旅:写真カード",
-        "iconType": "card"
-      },
-      {
-        "id": "booth-592-notion-241",
-        "name": "他",
-        "condition": "ブース来場・配布特典",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "【room6】他",
-        "iconType": "other"
-      }
-    ],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 0.0,
@@ -36386,34 +35551,6 @@
     ],
     "novelties": [
       {
-        "id": "bne-shopper",
-        "name": "バンダイナムコ 特製大型ショッパー",
-        "condition": "ブース周辺にてフリー配布",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "話題の新作がデザインされた巨大ショッパーバッグ！",
-        "iconType": "bag",
-        "imageUrl": "./images/novelties/nov_8478cef61dba.jpeg"
-      },
-      {
-        "id": "bne-gundam-card",
-        "name": "『GUNDAM ROGUE ORBIT』ガンダムカードゲーム プロモーションカード（2種セット）",
-        "condition": "『GUNDAM ROGUE ORBIT』試遊体験（一般公開日限定）",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "最新TCGで実際に使える限定PRカード！",
-        "iconType": "card"
-      },
-      {
-        "id": "bne-ace8-gift",
-        "name": "『ACE COMBAT 8』特製エンブレムピンバッジ",
-        "condition": "会場でACE COMBAT 8の予約完了画面を提示",
-        "conditionType": "purchase",
-        "isLimited": true,
-        "description": "予約証明提示で先着プレゼント！",
-        "iconType": "badge"
-      },
-      {
         "id": "booth-787-notion-43",
         "name": "ゼノバース３：チャーム三連",
         "condition": "ブース試遊体験",
@@ -36564,115 +35701,8 @@
     "description": "出展コーナー: ビジネスミーティングエリア (国際会議場)",
     "themeColor": "#e11d48",
     "url": "https://store.steampowered.com/publisher/FURYU",
-    "games": [
-      {
-        "id": "booth-791-g-1",
-        "title": "アノマリス／ANOMALITH",
-        "genre": "アクション,FPS・TPS,RPG,アドベンチャー,シューティング",
-        "platforms": [
-          "Nintendo Switch 2",
-          "PlayStation 5",
-          "Steam"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "ブース内にて試遊案内中",
-        "estWaitMinutes": 30,
-        "playDurationMinutes": 15
-      },
-      {
-        "id": "booth-791-g-2",
-        "title": "クライムライト／CRYMELIGHT",
-        "genre": "アクション,RPG,アドベンチャー",
-        "platforms": [
-          "Nintendo Switch 2",
-          "PlayStation 5",
-          "Steam"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "ブース内にて試遊案内中",
-        "estWaitMinutes": 30,
-        "playDurationMinutes": 15
-      },
-      {
-        "id": "booth-791-g-1",
-        "title": "アノマリス／ANOMALITH",
-        "genre": "アクション,FPS・TPS,RPG,アドベンチャー,シューティング",
-        "platforms": [
-          "Nintendo Switch 2",
-          "PlayStation 5",
-          "Steam"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "ブース内にて試遊案内中",
-        "estWaitMinutes": 30,
-        "playDurationMinutes": 15
-      },
-      {
-        "id": "booth-791-g-2",
-        "title": "クライムライト／CRYMELIGHT",
-        "genre": "アクション,RPG,アドベンチャー",
-        "platforms": [
-          "Nintendo Switch 2",
-          "PlayStation 5",
-          "Steam"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "ブース内にて試遊案内中",
-        "estWaitMinutes": 30,
-        "playDurationMinutes": 15
-      }
-    ],
-    "novelties": [
-      {
-        "id": "booth-791-nov-1",
-        "name": "フリュー 特製ノベルティ・来場特典",
-        "condition": "ブース来場・試遊・SNSフォロー等",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "ブースにて数量限定で配布。なくなり次第終了。",
-        "iconType": "other",
-        "imageUrl": "./images/novelties/nov_63f9d9c3d85e.jpg"
-      },
-      {
-        "id": "booth-791-notion-116",
-        "name": "アノマリス：カード・硬貨",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【フリュー】アノマリス：カード・硬貨",
-        "iconType": "card",
-        "imageUrl": "./images/novelties/nov_103_994f1c8b4d60.jpg"
-      },
-      {
-        "id": "booth-791-notion-127",
-        "name": "涙目アクリルカード",
-        "condition": "ブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "【クライムライト】涙目アクリルカード",
-        "iconType": "card",
-        "imageUrl": "./images/novelties/nov_110_9cdfcd83d52a.jpg"
-      },
-      {
-        "id": "booth-791-notion-236",
-        "name": "アノマリス：ステッカー",
-        "condition": "配布特典 (条件)",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "【フリュー】アノマリス：ステッカー（条件）",
-        "iconType": "sticker",
-        "imageUrl": "./images/novelties/nov_149_63f9d9c3d85e.jpg"
-      },
-      {
-        "id": "booth-791-notion-237",
-        "name": "クライムライト：カード、ステッカー",
-        "condition": "配布特典 (条件)",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "【フリュー】クライムライト：カード、ステッカー（条件）",
-        "iconType": "sticker"
-      }
-    ],
+    "games": [],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 0.0,
@@ -36962,89 +35992,8 @@
     "description": "出展コーナー: ビジネスミーティングエリア (国際会議場)",
     "themeColor": "#e11d48",
     "url": "https://www.com2us.com/",
-    "games": [
-      {
-        "id": "booth-735-g-1",
-        "title": "ガチアクタ The Game",
-        "genre": "RPG,アドベンチャー",
-        "platforms": [
-          "PlayStation 5",
-          "Xbox Series X|S",
-          "Steam"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "ブース内にて試遊案内中",
-        "estWaitMinutes": 30,
-        "playDurationMinutes": 15
-      },
-      {
-        "id": "booth-735-g-2",
-        "title": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
-        "genre": "RPG",
-        "platforms": [
-          "Steam",
-          "iOS",
-          "Android"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "ブース内にて試遊案内中",
-        "estWaitMinutes": 30,
-        "playDurationMinutes": 15
-      },
-      {
-        "id": "booth-735-g-3",
-        "title": "桃源暗⿁ Crimson Inferno",
-        "genre": "RPG,シミュレーション",
-        "platforms": [
-          "Steam",
-          "PC (App)",
-          "iOS",
-          "Android"
-        ],
-        "ticketRequired": false,
-        "ticketNote": "ブース内にて試遊案内中",
-        "estWaitMinutes": 30,
-        "playDurationMinutes": 15
-      }
-    ],
-    "novelties": [
-      {
-        "id": "cap-wilds-towel",
-        "name": "『モンスターハンターワイルズ』マイクロファイバーハンカチ",
-        "condition": "『モンハンワイルズ』試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "Nintendo Switch 2版／PS5版の試遊体験者にプレゼント！",
-        "iconType": "other"
-      },
-      {
-        "id": "cap-stickers",
-        "name": "「好きに狩ろうぜ！」特製ステッカー",
-        "condition": "カプコンブース試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "各試遊コーナーで試遊したハンターにプレゼント！",
-        "iconType": "sticker"
-      },
-      {
-        "id": "cap-rockman-towel",
-        "name": "『ロックマン: デュアル オーバーライド』マイクロファイバーハンカチ＆ステッカー",
-        "condition": "『ロックマンDO』試遊体験",
-        "conditionType": "play",
-        "isLimited": true,
-        "description": "ロックマン最新作の試遊体験者限定ノベルティ！",
-        "iconType": "sticker"
-      },
-      {
-        "id": "cap-shopper",
-        "name": "カプコン特製大型ショッパー",
-        "condition": "カプコンブース来場・周辺配布",
-        "conditionType": "free",
-        "isLimited": true,
-        "description": "ブース周辺にて配布。各日なくなり次第終了。",
-        "iconType": "bag"
-      }
-    ],
+    "games": [],
+    "novelties": [],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 0.0,
