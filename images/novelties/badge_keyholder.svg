@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <linearGradient id="grad_keyholder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FCE4EC;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFFFFF;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow_keyholder" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#D81159" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect width="400" height="300" rx="16" fill="url(#grad_keyholder)"/>
+  <rect x="12" y="12" width="376" height="276" rx="12" fill="none" stroke="#D81159" stroke-width="2" stroke-dasharray="6,4" opacity="0.35"/>
+  <circle cx="200" cy="115" r="55" fill="#FFFFFF" filter="url(#shadow_keyholder)"/>
+  <circle cx="200" cy="115" r="55" fill="none" stroke="#D81159" stroke-width="2" opacity="0.3"/>
+  <text x="200" y="132" font-size="52" text-anchor="middle" font-family="'Segoe UI Emoji', 'Apple Color Emoji', sans-serif">🔑</text>
+  <rect x="70" y="195" width="260" height="36" rx="18" fill="#D81159" filter="url(#shadow_keyholder)"/>
+  <text x="200" y="219" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">特製キーホルダー / ストラップ</text>
+  <text x="200" y="258" font-size="12" font-weight="600" fill="#666666" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">TOKYO GAME SHOW 2026 OFFICIAL NOVELTY</text>
+</svg>
