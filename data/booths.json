@@ -24228,12 +24228,47 @@
     "url": "https://www.insertcoinclothing.com/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "insertcoin-item-1",
+        "name": "PlayStation オフィシャル ヘリテージ ボンバージャケット",
+        "priceStr": "¥16,800（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "初代PlayStationのカラーリングと△◯✕□シンボルをモダンに再構築した上質なMA-1ジャケット。"
+      },
+      {
+        "id": "insertcoin-item-2",
+        "name": "モンスターハンター アイルー＆メラルー ニットセーター",
+        "priceStr": "¥11,500（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "伝統的なノルディック柄の中にアイルーとメラルーがさりげなく編み込まれた公式セーター。"
+      },
+      {
+        "id": "insertcoin-item-3",
+        "name": "SEGA メガドライブ クラシック ジップアップパーカー",
+        "priceStr": "¥9,800（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "16-BITの黄金期をオマージュした16BITロゴとゴールドアクセントが映えるパーカー。"
+      },
+      {
+        "id": "insertcoin-item-4",
+        "name": "Fallout Vault-Tec オフィシャル ワークシャツ",
+        "priceStr": "¥8,500（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "ウェイストランドの雰囲気を漂わせるVault-Tec社支給品風の高耐久ワークシャツ。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 241.1,
     "mapY": 43.6,
     "mapWidth": 14.0,
-    "mapHeight": 21.2
+    "mapHeight": 21.2,
+    "goodsUrl": "https://www.insertcoinclothing.com/",
+    "goodsBonus": "英国発の世界的ゲーム公式アパレルブランド！PlayStation、モンハン、SEGA等のハイセンスな公認ジャケット・アパレルを直販！"
   },
   {
     "id": "booth-17332",
@@ -24256,12 +24291,48 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "mb-item-1",
+        "name": "会場限定ガチャガチャ（メカニカルキースイッチ クリッカー）",
+        "priceStr": "¥500（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "カチカチとした押し心地が病みつきになるLED発光機能付きキースイッチキーホルダーガチャ。"
+      },
+      {
+        "id": "mb-item-2",
+        "name": "『東京喰種』コラボ モバイルバッテリー（TGS限定新カラー）",
+        "priceStr": "¥4,980（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "10000mAhの大容量急速充電対応バッテリー。TGS2026限定のスペシャルカラーエディション。"
+      },
+      {
+        "id": "mb-item-3",
+        "name": "ASTROMEDA 特大RGBゲーミングマウスパッド",
+        "priceStr": "¥3,980（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "縁がRGB発光するASTROMEDAロゴ入りワイドサイズ（900×400mm）ゲーミングマウスパッド。"
+      },
+      {
+        "id": "mb-item-4",
+        "name": "ASTROMEDA ゲーミング速乾ドライTシャツ",
+        "priceStr": "¥3,300（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "長時間のゲームプレイでも快適な通気性と吸水性を兼ね備えたブランドTシャツ。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 255.2,
     "mapY": 43.6,
     "mapWidth": 17.1,
-    "mapHeight": 21.2
+    "mapHeight": 21.2,
+    "goodsUrl": "https://mining-base.co.jp/",
+    "goodsBonus": "ゲーミングPCブランド「ASTROMEDA」のオフィシャル物販ブース！会場限定ガチャ（キースイッチクリッカー）や特製グッズをご用意！",
+    "linkedShopBoothNumber": "09-W115"
   },
   {
     "id": "booth-16066",
@@ -24452,12 +24523,55 @@
     "url": "https://www.fangamer.jp",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "fangamer-item-1",
+        "name": "『DELTARUNE』スパムトン BIGなぬいぐるみ",
+        "priceStr": "¥4,400（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "大人気キャラクター「スパムトン」の存在感抜群なBIGサイズぬいぐるみ。TGS会場先行販売！"
+      },
+      {
+        "id": "fangamer-item-2",
+        "name": "『ストリートファイター6』必殺技アクリルスタンドコレクション",
+        "priceStr": "¥1,650（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ルーク、ジェイミー、春麗らのダイナミックな必殺技シーンを再現したアクリルスタンド。"
+      },
+      {
+        "id": "fangamer-item-3",
+        "name": "『大神』アマテラス フェイスもふもふクッション",
+        "priceStr": "¥3,850（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "アマテラスの凛々しくも愛らしい表情を極上のもちもち手触りで再現した癒やしクッション。"
+      },
+      {
+        "id": "fangamer-item-4",
+        "name": "『Hollow Knight』放浪者 プレミアムぬいぐるみ",
+        "priceStr": "¥3,900（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "クロークを羽織った放浪者の高品質ぬいぐるみ。釘パーツはマグネット着脱仕様。"
+      },
+      {
+        "id": "fangamer-item-5",
+        "name": "『逆転裁判』成歩堂＆御剣 異議あり！アクリルジオラマ",
+        "priceStr": "¥2,200（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "法廷での白熱の対決を立体的に再現できるTGS会場限定アクリルジオラマセット。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 239.0,
     "mapY": 297.4,
     "mapWidth": 21.6,
-    "mapHeight": 46.6
+    "mapHeight": 46.6,
+    "goodsUrl": "https://www.fangamer.jp",
+    "goodsBonus": "ブース内にて税込3,000円以上お買い上げで、『逆転裁判』『ストリートファイター』『大神』『DELTARUNE』『UNDERTALE』デザインの「TGS2026特製ショッパー」をプレゼント！"
   },
   {
     "id": "booth-16232",
@@ -24552,12 +24666,39 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "nikkei-item-1",
+        "name": "『ファミ通ゲーム白書 2026』特別限定パッケージ",
+        "priceStr": "会場特価 ¥42,000（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "国内外のゲーム市場データを網羅した業界関係者必携の決定版データ年鑑。会場特別割引適用！"
+      },
+      {
+        "id": "nikkei-item-2",
+        "name": "『ゲーム開発の裏側がわかる本：クリエイターインタビュー集』",
+        "priceStr": "¥2,420（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "日経クロステック編集部による最前線のゲームスタジオ取材記。TGS会場先行発売！"
+      },
+      {
+        "id": "nikkei-item-3",
+        "name": "TGS公式ガイドブック 2026 公式パンフレット",
+        "priceStr": "¥1,200（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "全出展社マップ、出展タイトル見どころ、記念対談を網羅したTGS2026完全保存版ガイド。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://www.nikkeibp.co.jp/",
+    "goodsBonus": "TGS主催者・日経BPによるゲーム産業書籍・年鑑の特別販売ブース！会場限定価格＆購入者に特製クリアファイルをプレゼント！"
   },
   {
     "id": "booth-16043",
@@ -24924,12 +25065,39 @@
     "url": "https://pikatto.shop-pro.jp/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "pikatto-item-1",
+        "name": "TGS2026記念 B2ダブルスエード 高画質タペストリー",
+        "priceStr": "会場価格 ¥4,000（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "最高級ダブルスエード生地を使用し、繊細な色彩と筆致を極限まで再現した会場限定タペストリー。"
+      },
+      {
+        "id": "pikatto-item-2",
+        "name": "高精細アクリルアートプレート A4サイズ（スタンド付き）",
+        "priceStr": "¥5,500（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "透明度の高い国産アクリルに裏面多層印刷を施した、奥行きある輝きが美しいアートプレート。"
+      },
+      {
+        "id": "pikatto-item-3",
+        "name": "プレミアム ラバーデスクマット＆プレイマット",
+        "priceStr": "¥3,300（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "カードゲームやPC作業に最適な滑り止め天然ラバー仕様のワイドプレイマット。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://pikatto.shop-pro.jp/",
+    "goodsBonus": "超高解像度ピカットアニメ（高画質タペストリー・複製原画）の専門ブース！会場購入特典として特製ポストカードを先着プレゼント！"
   },
   {
     "id": "booth-16709",
@@ -24952,12 +25120,47 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "30ml-item-1",
+        "name": "30MM イベント限定カラー カスタマイズメカキット",
+        "priceStr": "¥2,200（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "クリア成形やメタリックカラーを採用したイベント限定スペシャルエディション。"
+      },
+      {
+        "id": "30ml-item-2",
+        "name": "30MS オプションボディパーツ＆ヘアスタイル TGS先行セット",
+        "priceStr": "¥1,980（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "30 MINUTES SISTERSのカスタマイズ性を無限に広げる最新オプションパーツパック。"
+      },
+      {
+        "id": "30ml-item-3",
+        "name": "30MF（30 MINUTES FANTASY）クラスアップアーマー 先行販売",
+        "priceStr": "¥1,100（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ファンタジーの世界観を再現する「アーマー換装」ギミック搭載の最新拡張パーツ。"
+      },
+      {
+        "id": "30ml-item-4",
+        "name": "30ML 特製カッティングマット＆ツールケース",
+        "priceStr": "¥2,500（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "プラモデル製作に最適な30MINUTES LABELロゴ入りオリジナルワークツール。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://bandai-hobby.net/site/30minutes_label/",
+    "goodsBonus": "30 MINUTES MISSIONS（30MM）や30 MINUTES SISTERS（30MS）、30 MINUTES FANTASY（30MF）の最新キット・限定オプションパーツを販売！"
   },
   {
     "id": "booth-17092",
@@ -24980,12 +25183,40 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "astro-item-1",
+        "name": "ASTROMEDA クリスタルアクリル キーボードスイッチチャーム（全12種）",
+        "priceStr": "各¥680（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "青軸・赤軸・茶軸等の実機キースイッチを透明アクリルにマウントした人気キーホルダー。"
+      },
+      {
+        "id": "astro-item-2",
+        "name": "ASTROMEDA RGBマグネットライトバー＆スタンド",
+        "priceStr": "¥2,980（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "デスク周りやPCケース内を美しく彩るマグネット着脱式アンビエントライトバー。"
+      },
+      {
+        "id": "astro-item-3",
+        "name": "ASTROMEDA ロゴ刺繍 フラットバイザーキャップ",
+        "priceStr": "¥3,500（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "ストリートカルチャーとゲーミングを融合させた3D立体刺繍キャップ。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://astromeda.jp/",
+    "goodsBonus": "美しいライティングと圧倒的冷却性能を誇るゲーミングPC「ASTROMEDA」特設ストア！オリジナルデバイス＆アパレルを販売！",
+    "linkedShopBoothNumber": "09-W03"
   },
   {
     "id": "booth-16295",
@@ -25008,12 +25239,39 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "yellow-item-1",
+        "name": "ゲーミングデバイス ミニチュアマスコット カプセルトイ（全5種）",
+        "priceStr": "1回 ¥400（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "RGBキーボードやヘッドセット、PCケースを忠実にミニチュア化した精巧なカプセルトイ。"
+      },
+      {
+        "id": "yellow-item-2",
+        "name": "レトロコントローラー ボタン連打キーホルダー（全4種）",
+        "priceStr": "1回 ¥500（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "懐かしいゲームコントローラーのボタンを実際にポチポチ押せる爽快フィジェットトイ。"
+      },
+      {
+        "id": "yellow-item-3",
+        "name": "TGS限定 お楽しみカプセルトイ詰め合わせセット",
+        "priceStr": "¥2,000（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "人気カプセルトイ5個＋限定ラバーストラップが入ったお得な会場限定福袋パック。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://yellows.co.jp/",
+    "goodsBonus": "カプセルトイ＆キャラクター雑貨メーカー「イエロー」ブース！話題の最新カプセルトイがズラリと勢揃い！"
   },
   {
     "id": "booth-16705",
@@ -25120,12 +25378,47 @@
     "url": "https://www.games-glorious.com/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "gg-item-1",
+        "name": "『トランスフォーマー コンボイの謎』リバーシブルスタジャン（限定80着）",
+        "priceStr": "¥24,800（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "ファミコン版パッケージとメガトロンを両面で楽しめるシリアルナンバー入りの限定80着プレミアムスタジャン。"
+      },
+      {
+        "id": "gg-item-2",
+        "name": "『トランスフォーマー コンボイの謎』Invisible Fear Tシャツ",
+        "priceStr": "¥4,400（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "あの高難易度レトロゲームの興奮が甦るスタイリッシュなグラフィックTシャツ。"
+      },
+      {
+        "id": "gg-item-3",
+        "name": "ドット絵アクリルマスコット（全7種ブラインド）",
+        "priceStr": "¥880（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "当時のゲーム中ドットグラフィックをそのままアクリルチャームに落とし込んだレトロファン垂涎品。"
+      },
+      {
+        "id": "gg-item-4",
+        "name": "レトロゲームロゴ 刺繍バックパック＆ソックスセット",
+        "priceStr": "¥7,500（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "デイリーユースに最適な大容量バックパックとオリジナルソックスの会場限定セット。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://www.games-glorious.com/",
+    "goodsBonus": "『トランスフォーマー コンボイの謎』40周年記念オフィシャルコラボレーション！限定スタジャンやレトロゲームライセンスグッズを展開！"
   },
   {
     "id": "booth-16070",
@@ -25148,12 +25441,39 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "bbm-item-1",
+        "name": "BLACK BALLOON × ゲストクリエイター コラボビッグTシャツ",
+        "priceStr": "¥5,500（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "TGSのために描き下ろされた限定グラフィックをシルクスクリーンプリントした特別仕様Tシャツ。"
+      },
+      {
+        "id": "bbm-item-2",
+        "name": "ヘビーオンス 刺繍ロゴ ジップパーカー",
+        "priceStr": "¥10,800（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "しっかりとした12.7オンスの厚手スウェットにモノトーン刺繍を施した都会的ストリートウェア。"
+      },
+      {
+        "id": "bbm-item-3",
+        "name": "オーバルロゴ アクリルカラビナキーリング",
+        "priceStr": "¥1,650（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "ベルトループやバッグに取り付けられる耐久アクリル製カラーカラビナ。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 241.1,
     "mapY": 89.7,
     "mapWidth": 21.6,
-    "mapHeight": 24.1
+    "mapHeight": 24.1,
+    "goodsUrl": "https://blackballoon.market/",
+    "goodsBonus": "人気クリエイターや気鋭のゲームタイトルとコラボする「BLACK BALLOON MARKET」！洗練されたストリートカルチャーアイテムを多数展開！"
   },
   {
     "id": "booth-16627",
@@ -25176,12 +25496,47 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "sss-item-1",
+        "name": "SSS オフィシャルアートブック『Re:VISION 2026』",
+        "priceStr": "¥4,950（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "所属クリエイター陣による最新描き下ろし作品群とメイキング解説を網羅した大判ハードカバー画集。"
+      },
+      {
+        "id": "sss-item-2",
+        "name": "米山舞 描き下ろし 高精細プレミアムアクリルブロック",
+        "priceStr": "¥8,800（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "光の屈折と透明感が美しい極厚アクリルブロックに美麗アートを高精彩プリント。会場限定数販売。"
+      },
+      {
+        "id": "sss-item-3",
+        "name": "PALOW. デザイン オリジナルグラフィックフーディー",
+        "priceStr": "¥12,000（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "近未来サイバーパンクの世界観を纏う独創的なシルエットとカッティングが特徴のアパレル。"
+      },
+      {
+        "id": "sss-item-4",
+        "name": "SSS ポストカードコンプリートセット（全15枚組）",
+        "priceStr": "¥2,200（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "特殊紙と箔押し加工を贅沢に施した全メンバーのアートワークコレクションポストカード。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 262.8,
     "mapY": 89.7,
     "mapWidth": 9.5,
-    "mapHeight": 24.1
+    "mapHeight": 24.1,
+    "goodsUrl": "https://sss.applibot.co.jp/",
+    "goodsBonus": "米山舞氏、PALOW.氏ら気鋭のクリエイターが集う「SSS by applibot」！数量限定の豪華画集・複製原画・アクリルアートを直接手に入れる絶好のチャンス！"
   },
   {
     "id": "booth-16201",
@@ -25876,12 +26231,47 @@
     "url": "https://zetadivision.com/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "zeta-item-1",
+        "name": "ZETA GEAR プロフェッショナル ゲーミングマウスパッド",
+        "priceStr": "会場特別価格 ¥6,500（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "住友理工・ZENAIM・ミズノとの共同開発による新ギアブランド「ZETA GEAR」第1弾モデル。"
+      },
+      {
+        "id": "zeta-item-2",
+        "name": "SONIC THE HEDGEHOG × The k4sen コラボレーションTシャツ",
+        "priceStr": "¥5,500（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "ソニックとThe k4senのスペシャルコラボデザインTシャツ。会場限定リミテッドエディション。"
+      },
+      {
+        "id": "zeta-item-3",
+        "name": "HAVE FUN WITH ZETA 2026 オーバーサイズフーディー",
+        "priceStr": "¥9,800（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ヘビーウェイト裏起毛生地を採用したZETA DIVISIONの新作オフィシャルパーカー。"
+      },
+      {
+        "id": "zeta-item-4",
+        "name": "ZETA DIVISION オフィシャルラバーキーホルダー＆ピンバッジセット",
+        "priceStr": "¥1,800（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "ブランドアイコンをあしらったスタイリッシュなキーホルダーとメタルピンバッジのセット。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 239.0,
     "mapY": 138.8,
     "mapWidth": 21.6,
-    "mapHeight": 46.6
+    "mapHeight": 46.6,
+    "goodsUrl": "https://zetadivision.com/",
+    "goodsBonus": "公式アプリ「ZETA DIVISION EVENT」にて事前予約・会場受取対応！会場では「ZETA REUSABLE BAG 2026（税込500円）」も数量限定販売。"
   },
   {
     "id": "booth-16507",
@@ -25904,12 +26294,48 @@
     "url": "https://pulsar.gg/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "pulsar-item-1",
+        "name": "Pulsar X2V2 超軽量ワイヤレスゲーミングマウス TGS限定カラー",
+        "priceStr": "会場価格 ¥14,800（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "極限の軽さと高精度センサーを誇るX2V2のTGS2026限定カスタムカラーエディション。"
+      },
+      {
+        "id": "pulsar-item-2",
+        "name": "Paper Rex (PRX) コラボレーション eスポーツマウスパッド",
+        "priceStr": "¥5,980（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "アジア屈指の強豪チームPRXとタッグを組んだハイコントロール・ゲーミングマウスパッド。"
+      },
+      {
+        "id": "pulsar-item-3",
+        "name": "Pulsar Superglide 2 超低摩擦強化ガラスマウスソール",
+        "priceStr": "¥2,980（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "スムーズな滑走と耐久性を実現するアルミノシリケートガラス製プレミアムソール。"
+      },
+      {
+        "id": "pulsar-item-4",
+        "name": "Bault ゲーミングスリーブ＆アクセサリーキット",
+        "priceStr": "¥3,300（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "腕の摩擦を軽減し長時間のエイムをサポートするプロ仕様アームスリーブ。"
+      }
+    ],
     "hasStageEvent": true,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://pulsar.gg/",
+    "goodsBonus": "物販ストア「PULSAR PLAYSTORE AT TGS2026」出展！決済は完全キャッシュレス対応。一般展示ブース（Hall 2 / 02-C20）と連動！",
+    "linkedShopBoothNumber": "02-C20"
   },
   {
     "id": "booth-16249",
@@ -25932,12 +26358,39 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "spider-item-1",
+        "name": "BGAME レトロカセット型モバイルバッテリー（名作タイトルver.）",
+        "priceStr": "各¥5,500（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ファミコンカセットの造形・端子部・シールまで寸分違わず再現した5000mAhの本格バッテリー！"
+      },
+      {
+        "id": "spider-item-2",
+        "name": "レトロゲーム パッケージ風 アクリルスタンド＆カードケース",
+        "priceStr": "¥1,980（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "当時の化粧箱デザインをミニチュアサイズで再現。名刺やICカードが収納可能。"
+      },
+      {
+        "id": "spider-item-3",
+        "name": "8bit ダイキャストメタルキーチェーン コレクション",
+        "priceStr": "¥1,100（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "ずっしりとした重みと金属光沢が美しいドットキャラクターのメタルキーホルダー。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://spiderweb.jp/",
+    "goodsBonus": "レトロカセット型モバイルバッテリー「BGAME」で世界的に話題のメーカー！名作クラシックゲームの公式ライセンスグッズが目白押し！"
   },
   {
     "id": "booth-16084",
@@ -26842,12 +27295,39 @@
     "url": "https://haneda-project.shop-pro.jp/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "haneda-item-1",
+        "name": "TGS2026限定 特製刺繍フライトタグキーリング（REMOVE BEFORE FLIGHT）",
+        "priceStr": "¥1,200（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "実機の整備現場で使われるタグをモチーフにした高密度刺繍入りのTGS会場限定キーホルダー。"
+      },
+      {
+        "id": "haneda-item-2",
+        "name": "フライトシミュレーター パイロット ベルクロパッチ（ワッペン3種）",
+        "priceStr": "各¥1,500（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ミリタリージャケットやバッグに装着できるベルクロ（マジックテープ）付き本格刺繍パッチ。"
+      },
+      {
+        "id": "haneda-item-3",
+        "name": "アビエーション 計器盤デザイン ドライTシャツ",
+        "priceStr": "¥3,800（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "コックピットのグラスコックピット計器を精密にプリントした航空ファン垂涎のTシャツ。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://haneda-project.shop-pro.jp/",
+    "goodsBonus": "航空・フライトシミュレーター・ミリタリーファン必見の「羽田プロジェクト」！本格仕様のフライトタグや刺繍ワッペン、アパレルを販売！"
   },
   {
     "id": "booth-16230",
@@ -26870,12 +27350,39 @@
     "url": "https://plus1frame.jp/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "plus1f-item-1",
+        "name": "特製アルミ削り出しフレーム付き 高精細ジークレー版画",
+        "priceStr": "¥18,000（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "超高耐光性インクと最高級アート紙を用い、オリジナル額縁に職人が額装したプレミアムアート。"
+      },
+      {
+        "id": "plus1f-item-2",
+        "name": "レイヤード アクリルフレームアート（TGS先行モデル）",
+        "priceStr": "¥7,800（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "透明度の高いアクリルを2層に重ねることで立体的な陰影を表現したモダンなインテリアパネル。"
+      },
+      {
+        "id": "plus1f-item-3",
+        "name": "ホログラム メタリックアートポスター B3サイズ",
+        "priceStr": "¥2,500（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "光の当たり方で虹色に煌めく特殊ホログラムペーパー仕様のTGS限定ポスター。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://plus1frame.jp/",
+    "goodsBonus": "「アートを部屋に飾る歓び」を提案する額装アート専門ブランド「+1F（プラスワンフレーム）」！美術館クオリティの複製原画＆額装アートを展示販売！"
   },
   {
     "id": "booth-16203",
@@ -32659,12 +33166,39 @@
     "url": "https://iijanshop.jp/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "iijan-item-1",
+        "name": "人気インディーゲーム コラボレーション アクリルスタンド",
+        "priceStr": "¥1,650（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "話題のインディーゲームキャラクターが勢揃いしたファン必携の公式アクリルスタンド。"
+      },
+      {
+        "id": "iijan-item-2",
+        "name": "インディーゲーム ドットキャラ ピンズセット（3個入り）",
+        "priceStr": "¥1,800（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "バッグやキャップのアクセントにぴったりなハードエナメル仕上げのプレミアムピンバッジ。"
+      },
+      {
+        "id": "iijan-item-3",
+        "name": "いいじゃん 特製ウォータープルーフ ステッカーパック（10枚入）",
+        "priceStr": "¥1,000（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "PCやスマホケースに貼れる耐水・耐候仕様のインディータイトルステッカーセット。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://iijanshop.jp/",
+    "goodsBonus": "インディーゲーム愛に溢れるオリジナルグッズストア「いいじゃん（IIJAN SHOP）」！個性豊かなインディータイトルの公式グッズが大集結！"
   },
   {
     "id": "booth-16714",
@@ -32687,12 +33221,39 @@
     "url": "https://ayame.works/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "ayame-item-1",
+        "name": "アヤメ 和風ゲーミングフルグラフィック法被（ハッピ）",
+        "priceStr": "会場特価 ¥7,500（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "サイバーパンクな和風モチーフが鮮やかにプリントされた、イベントや配信で映える本格法被。"
+      },
+      {
+        "id": "ayame-item-2",
+        "name": "和柄×ゲーミングマウスパッド「月下桜乱」XXLサイズ",
+        "priceStr": "¥4,200（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "伝統的な和の美意識とスムーズなマウスコントロールを両立させた特大デスクマット。"
+      },
+      {
+        "id": "ayame-item-3",
+        "name": "アヤメ 組紐ストラップ付き メタルアクリルキーホルダー",
+        "priceStr": "¥1,400（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "日本の伝統工芸「組紐」を取り入れた上品なゲーミングアクセサリー。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://ayame.works/",
+    "goodsBonus": "和風×ゲーミングカルチャーを提案する「アヤメ（AYAME）」！美麗な和柄デザインを施した法被やゲーミング雑貨を直販！"
   },
   {
     "id": "booth-16660",
@@ -34419,12 +34980,39 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "area35-item-1",
+        "name": "『TINY METAL』オリジナルサウンドトラック CD 2枚組",
+        "priceStr": "¥3,500（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "心躍るミリタリー戦略サウンドを完全収録した特製ブックレット付きオリジナルサウンドトラック。"
+      },
+      {
+        "id": "area35-item-2",
+        "name": "『TINY METAL』アーミーエンブレム 刺繍キャップ＆パッチ",
+        "priceStr": "¥4,800（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "作中の軍隊章をリアルに再現したミリタリーテイスト溢れるオフィシャルキャップ。"
+      },
+      {
+        "id": "area35-item-3",
+        "name": "AREA 35 クリエイターズ アートブック",
+        "priceStr": "¥2,500（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "未公開の設定資料やユニットデザイン画を網羅したTGS会場限定のアートブック。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 0.0,
     "mapY": 0.0,
     "mapWidth": 0.0,
-    "mapHeight": 0.0
+    "mapHeight": 0.0,
+    "goodsUrl": "https://area35.co.jp/",
+    "goodsBonus": "戦略シミュレーション『タイニーメタル（TINY METAL）』シリーズの開発スタジオAREA 35ブース！公式グッズ＆サントラを限定販売！"
   },
   {
     "id": "booth-16647",
@@ -34447,12 +35035,47 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "starforged-item-1",
+        "name": "Warhammer 40,000 インペリアル・アクィラ 純銀製シルバーリング",
+        "priceStr": "¥16,500（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "帝国のアクィラ紋章を精緻な彫刻で表現したスターリングシルバー（SV925）製の高級リング。"
+      },
+      {
+        "id": "starforged-item-2",
+        "name": "スペースマリーン チャプター記章 メタルピンバッジ コレクション",
+        "priceStr": "各¥2,200（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "ウルトラマリーン、ブラッドエンジェル等の紋章を重厚な亜鉛合金とエナメルで再現したピンズ。"
+      },
+      {
+        "id": "starforged-item-3",
+        "name": "純真鍮製 ピュリティ・シール ブックマーク＆メタルダイスセット",
+        "priceStr": "¥4,950（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "羊皮紙の祈祷文と赤い封蝋を忠実に再現した真鍮製しおりとヘビーメタル製6面ダイス。"
+      },
+      {
+        "id": "starforged-item-4",
+        "name": "オルク（Ork）ダッカ・ダッカ メタルボトルオープナー（栓抜き）",
+        "priceStr": "¥2,800（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "無骨で頑丈なオルクの美学が詰まった実用的な真鍮製ボトルオープナー。TGS会場限定販売！"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 248.1,
     "mapY": 631.7,
     "mapWidth": 17.8,
-    "mapHeight": 10.5
+    "mapHeight": 10.5,
+    "goodsUrl": "https://starforged.com/",
+    "goodsBonus": "『Warhammer 40,000（ウォーハンマー40K）』Games Workshop公式ライセンスの最高峰メタルジュエリーブランド！圧倒的な重厚感と細密ディテール！"
   },
   {
     "id": "booth-16067",
@@ -34475,12 +35098,55 @@
     "url": "https://www.ask-corp.jp/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "ask-item-1",
+        "name": "Fnatic 2026 公式プロジャージ（選手着用モデル）",
+        "priceStr": "会場特別価格 ¥9,900（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "Fnaticの選手が公式戦で着用する吸汗速乾性に優れた最新プロ公式ユニフォーム。"
+      },
+      {
+        "id": "ask-item-2",
+        "name": "Team Liquid オフィシャル ヘビーウェイトフーディー",
+        "priceStr": "¥11,000（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "世界最高峰チームLiquidのアイコニックなロゴが胸元に刺繍された高品質パーカー。"
+      },
+      {
+        "id": "ask-item-3",
+        "name": "Alliance チームロゴ フラットブリムキャップ＆Tシャツセット",
+        "priceStr": "¥6,800（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "Allianceの象徴的なグリーンAロゴがあしらわれたアパレルセット。"
+      },
+      {
+        "id": "ask-item-4",
+        "name": "Virtus.pro シグネチャー ベアロゴTシャツ",
+        "priceStr": "¥4,500（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "伝統あるポーラーベアロゴを前面にプリントしたインパクト抜群のオフィシャルTシャツ。"
+      },
+      {
+        "id": "ask-item-5",
+        "name": "Fnatic Gear DASH / FOCUS Pro ゲーミングマウスパッド",
+        "priceStr": "¥4,950（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "プロの激しいマウス操作に応える高密度ステッチ加工のeスポーツ仕様マウスパッド。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 199.8,
     "mapY": 666.2,
     "mapWidth": 18.2,
-    "mapHeight": 32.9
+    "mapHeight": 32.9,
+    "goodsUrl": "https://www.ask-corp.jp/",
+    "goodsBonus": "ASK取り扱い世界のトップeスポーツ4大チーム（Alliance / Fnatic / Team Liquid / Virtus.pro）の公式アパレル・ギアが大集結！期間中ゲスト選手来場！"
   },
   {
     "id": "booth-16225",
@@ -34503,12 +35169,39 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "toypla-item-1",
+        "name": "『東方Project』TGS限定描き下ろし B2ダブルスエードタペストリー",
+        "priceStr": "¥3,500（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "人気イラストレーターによる博麗霊夢＆霧雨魔理沙の華やかな描き下ろしタペストリー。"
+      },
+      {
+        "id": "toypla-item-2",
+        "name": "『東方Project』ビッグアクリルスタンド（全6種）",
+        "priceStr": "各¥1,980（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "全高約18cmの存在感ある特大アクリルフィギュアスタンド。"
+      },
+      {
+        "id": "toypla-item-3",
+        "name": "公式ライセンス フルカラー ラバープレイマット",
+        "priceStr": "¥3,300（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "美麗イラストがデスク一面に広がる、触り心地滑らかなマルチプレイマット。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 218.0,
     "mapY": 666.2,
     "mapWidth": 18.2,
-    "mapHeight": 32.9
+    "mapHeight": 32.9,
+    "goodsUrl": "https://toypla.com/",
+    "goodsBonus": "『東方Project』や人気バーチャルライバー公式グッズを多数手掛けるトイプラ（TOYPLA）！描き下ろしイラストを使用した限定品が満載！"
   },
   {
     "id": "booth-16064",
@@ -34677,12 +35370,47 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "ensky-item-1",
+        "name": "「NEW UFO CATCHER」筐体アクリルスタンド",
+        "priceStr": "¥1,500（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "ゲームセンターでおなじみセガ往年の名機「NEW UFO CATCHER」のTGS会場限定アクリルスタンド！"
+      },
+      {
+        "id": "ensky-item-2",
+        "name": "「NEW UFO CATCHER」じゃらじゃらキーホルダー",
+        "priceStr": "¥1,500（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "アームや景品カプセルパーツが揺れるレトロ可愛い会場限定キーホルダー。"
+      },
+      {
+        "id": "ensky-item-3",
+        "name": "「ソニック・ザ・ヘッジホッグ」TGS先行Tシャツ（2種）",
+        "priceStr": "会場限定価格 各¥3,500（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "ソニックの疾走感をストリートテイストに落とし込んだ会場先行販売Tシャツ。"
+      },
+      {
+        "id": "ensky-item-4",
+        "name": "『カービィのエアライダー』×「NEW ERA」コラボキャップ 9TWENTY BLACK",
+        "priceStr": "¥5,280（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "NEW ERAの定番クラシックモデル9TWENTYにエアライダーの刺繍を施した先行コラボキャップ。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 199.8,
     "mapY": 723.3,
     "mapWidth": 15.1,
-    "mapHeight": 33.1
+    "mapHeight": 33.1,
+    "goodsUrl": "https://www.enskyshop.com/",
+    "goodsBonus": "「NEW UFO CATCHER」筐体アクリルスタンドなど、TGS会場限定・先行販売グッズが盛りだくさん！"
   },
   {
     "id": "booth-16306",
@@ -34769,12 +35497,39 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "medialink-item-1",
+        "name": "人気VTuber コラボレーション オーロラアクリルスタンド",
+        "priceStr": "¥1,800（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "見る角度によって光彩が変わるオーロラ加工アクリル仕様のTGS先行アクリルスタンド。"
+      },
+      {
+        "id": "medialink-item-2",
+        "name": "ストリーマー公認 タイポグラフィ ビッグシルエットロンT",
+        "priceStr": "¥5,000（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "トレンドを取り入れたオーバーサイズ長袖Tシャツ。デイリーコーデに馴染む洗練デザイン。"
+      },
+      {
+        "id": "medialink-item-3",
+        "name": "トレーディング ホログラム缶バッジ（全8種）",
+        "priceStr": "¥550（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "キラキラと輝くホログラム加工が施されたTGS会場限定の缶バッジコレクション。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 238.6,
     "mapY": 723.3,
     "mapWidth": 15.1,
-    "mapHeight": 33.1
+    "mapHeight": 33.1,
+    "goodsUrl": "https://medialink.co.jp/",
+    "goodsBonus": "人気VTuber・ストリーマー・アニメの公式グッズ企画制作を手掛けるメディアリンクブース！TGS限定アクリルや記念アパレルを販売！"
   },
   {
     "id": "booth-16978",
@@ -34797,12 +35552,39 @@
     "url": "",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "rakuten-item-1",
+        "name": "TGS出展記念 注目新作ゲームソフト＋限定オリジナル特典セット",
+        "priceStr": "定価販売（楽天ポイント最大10倍）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "発売前の期待作や話題作を会場で予約・購入すると、楽天ブックス限定アクリルキーホルダーが付属！"
+      },
+      {
+        "id": "rakuten-item-2",
+        "name": "お買いものパンダ ゲーミングデザイン ぬいぐるみキーチェーン",
+        "priceStr": "¥1,650（税込）",
+        "isExclusive": true,
+        "isPreSale": false,
+        "description": "ヘッドセットを装着した「お買いものパンダ」のTGS2026会場限定スペシャルぬいぐるみ！"
+      },
+      {
+        "id": "rakuten-item-3",
+        "name": "楽天ゲームズ オリジナル マイクロファイバークロス＆マウスパッドセット",
+        "priceStr": "¥1,200（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "スクリーンのお手入れに便利な高密度クロスと携帯用薄型マウスパッドの実用セット。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 255.9,
     "mapY": 723.3,
     "mapWidth": 15.1,
-    "mapHeight": 33.1
+    "mapHeight": 33.1,
+    "goodsUrl": "https://books.rakuten.co.jp/",
+    "goodsBonus": "楽天ブックス×楽天ゲームの特設物販ブース！ブース内商品購入で「楽天ブックス特製ショッパー」をプレゼント！楽天ポイント付与＆会場限定クーポン配布！"
   },
   {
     "id": "booth-16173",
@@ -34953,12 +35735,47 @@
     "url": "https://algernonproduct.co.jp/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "algernon-item-1",
+        "name": "『どこでもいっしょ』カレンダー2027（TGS先行販売）",
+        "priceStr": "TGS限定特別価格 ¥1,800（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "トロたちの四季折々の愛らしいイラストを収録した2027年版カレンダー。会場先行＆特別価格！"
+      },
+      {
+        "id": "algernon-item-2",
+        "name": "『勝利の女神：NIKKE』ビッグアクリルスタンド＆ホログラム缶バッジ",
+        "priceStr": "会場特別価格 ¥2,000（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "人気ニケたちの豪華描き下ろしビジュアルを使用した特大アクリルスタンド。"
+      },
+      {
+        "id": "algernon-item-3",
+        "name": "『ダンガンロンパ』シリーズ 重厚アクリルブロック",
+        "priceStr": "¥3,300（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "厚さ20mmの重厚なアクリルに美麗アートを封じ込めたプレミアムインテリアアイテム。"
+      },
+      {
+        "id": "algernon-item-4",
+        "name": "ゲームタイトル ドットキャラ メタルチャームコレクション",
+        "priceStr": "¥880（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "レトロなドット絵でデザインされたダイキャスト製メタルチャーム（ブラインド仕様）。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 241.4,
     "mapY": 780.6,
     "mapWidth": 15.7,
-    "mapHeight": 19.2
+    "mapHeight": 19.2,
+    "goodsUrl": "https://algernonproduct.co.jp/",
+    "goodsBonus": "「あるじゃんマーケット in TGS2026」出張オープン！会場限定の特別価格商品を多数ご用意。"
   },
   {
     "id": "booth-16270",
@@ -34981,12 +35798,47 @@
     "url": "https://futaroku.gg/",
     "games": [],
     "novelties": [],
-    "shopItems": [],
+    "shopItems": [
+      {
+        "id": "riot-item-1",
+        "name": "VALORANT × FUTAROKU オリジナルエージェントTシャツ",
+        "priceStr": "会場価格 ¥4,800（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "FUTAROKU限定描き下ろしグラフィックを採用したVALORANT公式コラボTシャツ。"
+      },
+      {
+        "id": "riot-item-2",
+        "name": "VALORANT × FUTAROKU めじるしチャームコレクション（ランダム全10種）",
+        "priceStr": "¥800（税込）",
+        "isExclusive": false,
+        "isPreSale": true,
+        "description": "傘やペットボトル、ケーブルに付けられる可愛いミニチャーム。TGS2026にて初披露！"
+      },
+      {
+        "id": "riot-item-3",
+        "name": "League of Legends 公式コレクターズスタチュー",
+        "priceStr": "¥12,500（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "チャンピオンの精巧な造形と質感を忠実に再現したRiot Games公式プレミアムスタチュー。"
+      },
+      {
+        "id": "riot-item-4",
+        "name": "TFT リトルレジェンド もちもちぬいぐるみ",
+        "priceStr": "¥3,500（税込）",
+        "isExclusive": false,
+        "isPreSale": false,
+        "description": "チームファイト タクティクス（TFT）の人気リトルレジェンドが触り心地抜群のぬいぐるみに。"
+      }
+    ],
     "hasStageEvent": false,
     "mapX": 259.1,
     "mapY": 780.6,
     "mapWidth": 13.0,
-    "mapHeight": 19.2
+    "mapHeight": 19.2,
+    "goodsUrl": "https://futaroku.gg/",
+    "goodsBonus": "会場支払いは【完全キャッシュレス決済のみ】となります。Riot Store Japan公式グッズやTGS初披露コラボグッズを多数ラインナップ！"
   },
   {
     "id": "booth-16170",
