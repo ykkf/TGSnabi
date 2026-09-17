@@ -281,7 +281,7 @@
         "description": "【キングスレイド リバース】★Tシャツ眼鏡拭きクリアファイルアクリルキーホルダーアクリルスタンド(SNS抽選)",
         "iconType": "tshirt",
         "type": "clearfile",
-        "imageUrl": "./images/novelties/badge_clearfile.svg"
+        "imageUrl": "./images/novelties/nov_68_95cc220782fd.jpg"
       }
     ],
     "shopItems": [],
@@ -2131,7 +2131,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_igiindiega_1_871f177b.png"
       }
     ],
     "shopItems": [],
@@ -3095,7 +3095,7 @@
         "description": "【シティコネクション】じゃじゃ丸百鬼夜行：うちわ・おめん（フォトスポット）",
         "iconType": "poster",
         "type": "fan",
-        "imageUrl": "./images/novelties/badge_fan.svg"
+        "imageUrl": "./images/novelties/city_jajamaru_fan.jpg"
       },
       {
         "id": "booth-66-notion-95",
@@ -3106,7 +3106,7 @@
         "description": "【シティコネクション】野球格闘リーグマン：キラシール",
         "iconType": "sticker",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/city_leagueman_sticker.jpg"
       },
       {
         "id": "booth-66-notion-96",
@@ -3117,7 +3117,37 @@
         "description": "【シティコネクション】ジャレコレファミコン編：キラステッカー",
         "iconType": "sticker",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/city_shatterhand_sticker.jpg"
+      },
+      {
+        "id": "nov-booth-16182-3561f2",
+        "name": "じゃじゃ丸ミニうちわ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/city_jajamaru_fan.jpg"
+      },
+      {
+        "id": "nov-booth-16182-3a11c2",
+        "name": "じゃじゃ丸お面",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/city_jajamaru_mask.jpg"
+      },
+      {
+        "id": "nov-booth-16182-9bba06",
+        "name": "野球（リーグマン）：キラシール",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/city_leagueman_sticker.jpg"
+      },
+      {
+        "id": "nov-booth-16182-46b74f",
+        "name": "シャッターハンド：キラステッカー",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/city_shatterhand_sticker.jpg"
+      },
+      {
+        "id": "nov-booth-16182-391a13",
+        "name": "むちむちポーク オリジナルステッカー",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/city_muchipin_sticker.webp"
       }
     ],
     "shopItems": [],
@@ -3181,7 +3211,7 @@
         "name": "『Dark and Darker』特製アクリルキーホルダー＆ステッカー",
         "condition": "『Dark and Darker』試遊体験・ブース来場特典",
         "type": "acryl",
-        "imageUrl": "./images/novelties/badge_acryl.svg"
+        "imageUrl": "./images/novelties/gw_wizardryva_1_2dd96ec3.png"
       }
     ],
     "shopItems": [],
@@ -3607,7 +3637,7 @@
         "isLimited": true,
         "description": "【ワンオアエイト】ステッカー",
         "iconType": "sticker",
-        "imageUrl": "./images/novelties/nov_92_35705ba9c440.jpg",
+        "imageUrl": "./images/novelties/gw_gw_1_554187bb.png",
         "type": "sticker"
       },
       {
@@ -3620,6 +3650,12 @@
         "iconType": "other",
         "imageUrl": "./images/novelties/nov_125_f740f4f0ac45.jpg",
         "type": "card"
+      },
+      {
+        "id": "nov-booth-16207-1d3db2",
+        "name": "プラチナファンクラブ会員証＆スティックペンライト",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/gw_gw_2_0b696106.png"
       }
     ],
     "shopItems": [],
@@ -3675,7 +3711,7 @@
         "description": "【イザナギゲームズ】AKIBA LOST：ガラポン抽選",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_2bb94867.png"
       }
     ],
     "shopItems": [],
@@ -3743,7 +3779,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_02ea359f.png"
       }
     ],
     "shopItems": [],
@@ -4208,7 +4244,19 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/nov_138_d9ba319a0df7.jpg"
+      },
+      {
+        "id": "nov-booth-16338-d06e60",
+        "name": "カタログ（配布）アクキー（条件）キラステッカー（SNS）",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_139_e53d4fda068d.jpg"
+      },
+      {
+        "id": "nov-booth-16338-d06e60",
+        "name": "カタログ（配布）アクキー（条件）キラステッカー（SNS）",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_140_aaaa11a2fc17.jpg"
       }
     ],
     "shopItems": [],
@@ -4584,7 +4632,7 @@
         "description": "【ネットマーブル】うちわ（配布）",
         "iconType": "poster",
         "type": "fan",
-        "imageUrl": "./images/novelties/badge_fan.svg"
+        "imageUrl": "./images/novelties/nov_66_5f105ada9b3e.jpg"
       },
       {
         "id": "booth-106-notion-165",
@@ -4595,7 +4643,7 @@
         "description": "【ネットマーブル】紙製サンバイザー（来場特典）",
         "iconType": "poster",
         "type": "fan",
-        "imageUrl": "./images/novelties/badge_fan.svg"
+        "imageUrl": "./images/novelties/nov_67_165f1284a3a2.jpg"
       },
       {
         "id": "booth-106-notion-166",
@@ -4606,7 +4654,7 @@
         "description": "【ネットマーブル】マウスパッド・エコバッグ・缶バッジ（会場抽選）",
         "iconType": "bag",
         "type": "shopper",
-        "imageUrl": "./images/novelties/badge_shopper.svg"
+        "imageUrl": "./images/novelties/nov_68_95cc220782fd.jpg"
       },
       {
         "id": "booth-106-notion-168",
@@ -4617,7 +4665,7 @@
         "description": "【ネットマーブル】ポーチ（会場で判明）",
         "iconType": "bag",
         "type": "shopper",
-        "imageUrl": "./images/novelties/badge_shopper.svg"
+        "imageUrl": "./images/novelties/nov_66_5f105ada9b3e.jpg"
       },
       {
         "id": "booth-106-notion-169",
@@ -4628,7 +4676,7 @@
         "description": "【ネットマーブル】ステッカー（X投稿）マウスパッド（イベント）",
         "iconType": "sticker",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/nov_67_165f1284a3a2.jpg"
       },
       {
         "id": "booth-106-notion-172",
@@ -4639,7 +4687,7 @@
         "description": "【ネットマーブル】ステッカー（配布）クリアカード（Xフォロー）",
         "iconType": "sticker",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/nov_68_95cc220782fd.jpg"
       },
       {
         "id": "booth-106-notion-173",
@@ -4650,7 +4698,7 @@
         "description": "【ネットマーブル】フィルムロール（投稿）",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/nov_66_5f105ada9b3e.jpg"
       },
       {
         "id": "booth-106-notion-174",
@@ -4661,7 +4709,7 @@
         "description": "【ネットマーブル】クッション・アクスタ・キーホルダー（くじ）",
         "iconType": "badge",
         "type": "acryl",
-        "imageUrl": "./images/novelties/badge_acryl.svg"
+        "imageUrl": "./images/novelties/nov_67_165f1284a3a2.jpg"
       },
       {
         "id": "nov-notion-13-a349c5",
@@ -4670,7 +4718,7 @@
         "condition": "公式SNSフォロー / 条件達成",
         "iconType": "poster",
         "type": "fan",
-        "imageUrl": "./images/novelties/badge_fan.svg"
+        "imageUrl": "./images/novelties/nov_68_95cc220782fd.jpg"
       }
     ],
     "shopItems": [],
@@ -4993,7 +5041,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_ef405124.png"
       },
       {
         "id": "booth-76-notion-100",
@@ -5004,7 +5052,7 @@
         "description": "【スマイルゲート】MIRESI：クリアバッグ",
         "iconType": "bag",
         "type": "shopper",
-        "imageUrl": "./images/novelties/badge_shopper.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_ef405124.png"
       },
       {
         "id": "booth-76-notion-101",
@@ -5015,7 +5063,7 @@
         "description": "【スマイルゲート】デッドアカウント：缶バッジ",
         "iconType": "badge",
         "type": "canbadge",
-        "imageUrl": "./images/novelties/badge_canbadge.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_ef405124.png"
       },
       {
         "id": "booth-76-notion-186",
@@ -5026,7 +5074,7 @@
         "description": "【スマイルゲート】MIRESI：うちわ（来場）缶バッジ（事前登録）ステッカー（SNS）キーホルダー（両方）ガチャ（両方）",
         "iconType": "sticker",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_ef405124.png"
       },
       {
         "id": "booth-76-notion-187",
@@ -5037,7 +5085,7 @@
         "description": "【スマイルゲート】デッドアカウント：うちわ（来場）缶バッジ（試遊）ステッカー（事前登録SNS）ガチャ（全達成）",
         "iconType": "sticker",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_ef405124.png"
       }
     ],
     "shopItems": [],
@@ -6195,7 +6243,7 @@
         "description": "【DMM】★Tシャツ・DMMグッズ（事前登録抽選）",
         "iconType": "tshirt",
         "type": "tshirt",
-        "imageUrl": "./images/novelties/badge_tshirt.svg"
+        "imageUrl": "./images/novelties/dmm_booth_gacha.webp"
       },
       {
         "id": "booth-769-notion-189",
@@ -6206,7 +6254,7 @@
         "description": "【DMM】★ぱずぎり：ステッカー、バルーン（事前登録）うちわ（配布）",
         "iconType": "sticker",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/dmm_pazugiri.webp"
       },
       {
         "id": "booth-769-notion-190",
@@ -6217,7 +6265,7 @@
         "description": "【DMM】ガールズガーデン：お面（来場）アクキー（搭乗体験）",
         "iconType": "poster",
         "type": "acryl",
-        "imageUrl": "./images/novelties/badge_acryl.svg"
+        "imageUrl": "./images/novelties/dmm_girls_garden.webp"
       },
       {
         "id": "booth-769-notion-191",
@@ -6228,7 +6276,7 @@
         "description": "【DMM】Muv-Luv: Tactics：ステッカー（体験）",
         "iconType": "sticker",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/dmm_muvluv_tactics.webp"
       },
       {
         "id": "booth-769-notion-192",
@@ -6239,7 +6287,7 @@
         "description": "【DMM】恋姫対戦：ポストカード（試遊）",
         "iconType": "card",
         "type": "card",
-        "imageUrl": "./images/novelties/badge_card.svg"
+        "imageUrl": "./images/novelties/dmm_koihime.webp"
       },
       {
         "id": "booth-769-notion-193",
@@ -6250,7 +6298,7 @@
         "description": "【DMM】ドットアビス：うちわ（配布）エナドリ・名刺（体験）",
         "iconType": "poster",
         "type": "card",
-        "imageUrl": "./images/novelties/badge_card.svg"
+        "imageUrl": "./images/novelties/dmm_dot_abyss.webp"
       },
       {
         "id": "nov-notion-8-083836",
@@ -6298,7 +6346,44 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [],
+    "novelties": [
+      {
+        "id": "nov-booth-17363-717ee3",
+        "name": "★Tシャツ・DMMグッズ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/dmm_booth_gacha.webp"
+      },
+      {
+        "id": "nov-booth-17363-f43047",
+        "name": "★ぱずぎり：ステッカー、バルーンうちわ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/dmm_pazugiri.webp"
+      },
+      {
+        "id": "nov-booth-17363-7154b1",
+        "name": "ガールズガーデン：お面アクキー",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/dmm_girls_garden.webp"
+      },
+      {
+        "id": "nov-booth-17363-3ad724",
+        "name": "Muv-Luv: Tactics：ステッカー",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/dmm_muvluv_tactics.webp"
+      },
+      {
+        "id": "nov-booth-17363-b89337",
+        "name": "恋姫対戦：ポストカード",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/dmm_koihime.webp"
+      },
+      {
+        "id": "nov-booth-17363-831c75",
+        "name": "ドットアビス：うちわエナドリ・名刺",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/dmm_dot_abyss.webp"
+      }
+    ],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 683.0,
@@ -6401,7 +6486,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_11b195a7.jpg"
       }
     ],
     "shopItems": [],
@@ -6685,7 +6770,31 @@
         "name": "『真・三國無双 ORIGINS』特製エンブレム缶バッジ",
         "condition": "『真・三國無双 ORIGINS』試遊体験",
         "type": "canbadge",
-        "imageUrl": "./images/novelties/badge_canbadge.svg"
+        "imageUrl": "./images/novelties/nov_85_eae8a15619f0.jpg"
+      },
+      {
+        "id": "nov-booth-16021-0f1860",
+        "name": "WO LONG 2：レンチキュラーバッジ・高難易度クリアでTシャツ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_83_92352e924e50.jpg"
+      },
+      {
+        "id": "nov-booth-16021-acc4f9",
+        "name": "進撃の巨人３：フィルムしおり",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_84_2e03118c8a66.jpg"
+      },
+      {
+        "id": "nov-booth-16021-2ed33a",
+        "name": "カリアのアトリエ：カード２種（ブース体験含む）",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_86_0353d5e27e56.jpg"
+      },
+      {
+        "id": "nov-booth-16021-2ed33a",
+        "name": "カリアのアトリエ：カード２種（ブース体験含む）",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_87_a78e7adf7a62.jpg"
       }
     ],
     "shopItems": [
@@ -7032,14 +7141,32 @@
         "name": "『ドラゴンクエストIII HD-2D』特製スライムうちわ",
         "condition": "『ドラゴンクエストIII』試遊体験・ブース来場",
         "type": "fan",
-        "imageUrl": "./images/novelties/badge_fan.svg"
+        "imageUrl": "./images/novelties/nov_57_398f208f733f.jpg"
       },
       {
         "id": "sqex-nov-saga",
         "name": "『サガ エメラルド ビヨンド』特製クリアポストカード",
         "condition": "サガシリーズコーナー来場・試遊体験",
         "type": "card",
-        "imageUrl": "./images/novelties/badge_card.svg"
+        "imageUrl": "./images/novelties/nov_58_c59c1302a66e.jpg"
+      },
+      {
+        "id": "nov-booth-16034-63d8db",
+        "name": "■DQM4：ステッカー、トートバッグ（グリーティング",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_59_ca0a9275f2a2.jpg"
+      },
+      {
+        "id": "nov-booth-16034-63d8db",
+        "name": "■DQM4：ステッカー、トートバッグ（グリーティング",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_60_63b054af799f.jpg"
+      },
+      {
+        "id": "nov-booth-16034-2a7a9b",
+        "name": "ロマサガ３：保冷剤なのだ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_61_d5e2495ebbae.jpg"
       }
     ],
     "shopItems": [
@@ -7300,7 +7427,31 @@
         "name": "『Fate/EXTRA Record』特製クリアファイル＆ポストカード",
         "condition": "『Fate/EXTRA Record』試遊体験",
         "type": "clearfile",
-        "imageUrl": "./images/novelties/badge_clearfile.svg"
+        "imageUrl": "./images/novelties/aniplex_fate_sticker_saber.jpg"
+      },
+      {
+        "id": "nov-booth-16765-f6eefa",
+        "name": "『Fate/EXTRA Record』ダイカットステッカー（全4種）",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/aniplex_fate_sticker_archer.jpg"
+      },
+      {
+        "id": "nov-booth-16765-f4fa27",
+        "name": "『Fate/EXTRA Record』特製両面大型ショッパー",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/aniplex_fate_shopper.png"
+      },
+      {
+        "id": "nov-booth-16765-9b4b0f",
+        "name": "『鬼滅の刃 ヒノカミ血風譚』特製お面＆ステッカー",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/aniplex_kimetsu_omen.jpg"
+      },
+      {
+        "id": "nov-booth-16765-4866fc",
+        "name": "『MELTY BLOOD: TYPE LUMINA』特製ステッカー",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/aniplex_meltyblood.jpg"
       }
     ],
     "shopItems": [],
@@ -8082,28 +8233,28 @@
         "name": "『ペルソナ４ リバイバル』主人公なりきり紙メガネ",
         "condition": "セガ／アトラスブース来場特典＆フォトスポット記念",
         "type": "fan",
-        "imageUrl": "./images/novelties/badge_fan.svg"
+        "imageUrl": "./images/novelties/nov_3_51fcf7a64aaf.jpg"
       },
       {
         "id": "sega-nov-sonic",
         "name": "ソニック・ザ・ヘッジホッグ オリジナルアクリルキーホルダー",
         "condition": "セガアカウント新規登録またはログイン画面提示",
         "type": "keyholder",
-        "imageUrl": "./images/novelties/badge_keyholder.svg"
+        "imageUrl": "./images/novelties/nov_16_4b174d52df21.jpg"
       },
       {
         "id": "sega-nov-stranger",
         "name": "『STRANGER OF PARADISE』特製うちわクリアカード",
         "condition": "ブース来場・配布特典",
         "type": "fan",
-        "imageUrl": "./images/novelties/badge_fan.svg"
+        "imageUrl": "./images/novelties/nov_4_04ef94bd9af3.jpg"
       },
       {
         "id": "sega-nov-crazytaxi",
         "name": "『クレイジータクシー』特製ステッカー＆サンバイザー",
         "condition": "『クレイジータクシー』試遊体験・来場特典",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/nov_5_9ca44cad0edd.jpg"
       },
       {
         "id": "sega-p4-bag",
@@ -8158,7 +8309,7 @@
         "description": "SEGA Accountのマイページ画面をスタッフに提示するとプレゼント！",
         "iconType": "other",
         "type": "keyholder",
-        "imageUrl": "./images/novelties/badge_keyholder.svg"
+        "imageUrl": "./images/novelties/nov_6_c07b967767c5.jpg"
       },
       {
         "id": "nov-notion-7-29e40b",
@@ -8221,7 +8372,7 @@
         "condition": "試遊体験",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/nov_7_755745500091.jpg"
       },
       {
         "id": "nov-notion-14-360356",
@@ -8434,7 +8585,25 @@
         "name": "『イナズマイレブン 英雄たちのヴィクトリーロード』特製応援フラッグ",
         "condition": "『イナズマイレブン』試遊体験・ステージ観覧",
         "type": "fan",
-        "imageUrl": "./images/novelties/badge_fan.svg"
+        "imageUrl": "./images/novelties/nov_62_ac5491feacd5.jpg"
+      },
+      {
+        "id": "nov-booth-16037-276cf4",
+        "name": "デカポリス:ピンバッジセット",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_63_faf6bb2198a1.jpg"
+      },
+      {
+        "id": "nov-booth-16037-7ce658",
+        "name": "レイトン:マウスパッド",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_64_19965b647cc9.jpg"
+      },
+      {
+        "id": "nov-booth-16037-402e80",
+        "name": "スナックワールド:バンダナ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_65_d9e93bc55349.jpg"
       }
     ],
     "shopItems": [],
@@ -8474,7 +8643,31 @@
         "description": "【ポケットペア】パルワールド３Dシール（条件多数・物販購入など）",
         "iconType": "sticker",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/pal_okocho_soul_card.png"
+      },
+      {
+        "id": "nov-booth-16020-c2e8e1",
+        "name": "着ぐるみツッパニャンのPRカード",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/pal_tsuppanyan_pr_card.png"
+      },
+      {
+        "id": "nov-booth-16020-24b274",
+        "name": "着ぐるみオコチョのPRソウルカード",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/pal_okocho_soul_card.png"
+      },
+      {
+        "id": "nov-booth-16020-4075b7",
+        "name": "オコチョショッパーバッグ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/pal_okocho_shopper.png"
+      },
+      {
+        "id": "nov-booth-16020-8a0265",
+        "name": "パルワールド限定ステッカー（全20種ランダム）",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/pal_tgs_visual.jpg"
       }
     ],
     "shopItems": [
@@ -8542,7 +8735,13 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_02ea359f.png"
+      },
+      {
+        "id": "nov-booth-16718-b296d7",
+        "name": "アイ・オー・データ特製ノベルティ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/gw_gw_1_02ea359f.png"
       }
     ],
     "shopItems": [],
@@ -8705,14 +8904,14 @@
         "name": "Slashzero 特製オリジナルネックゲイター",
         "condition": "Slashzero試遊体験特典",
         "type": "tshirt",
-        "imageUrl": "./images/novelties/badge_tshirt.svg"
+        "imageUrl": "./images/novelties/gw_4gamernet_1_2d5630b8.jpg"
       },
       {
         "id": "4gamer-nov-sticker",
         "name": "Slashzero 公式ロゴステッカー",
         "condition": "公式SNSフォロー＆リポスト特典",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/gw_4gamernet_1_2d5630b8.jpg"
       }
     ],
     "shopItems": [],
@@ -9286,7 +9485,7 @@
         "name": "『都市伝説解体センター』特製クリアファイル（千葉県警コラボ）",
         "condition": "警察連携ブースおよび集英社ゲームズブースにて各日400枚限定配布",
         "type": "clearfile",
-        "imageUrl": "./images/novelties/nov_gw_c2d00644ca51.png"
+        "imageUrl": "./images/novelties/gw_gw_1_c2d00644.png"
       },
       {
         "id": "booth-67-notion-69",
@@ -9597,7 +9796,7 @@
         "description": "最新TCGで実際に使える限定PRカード！",
         "iconType": "card",
         "type": "card",
-        "imageUrl": "./images/novelties/badge_card.svg"
+        "imageUrl": "./images/novelties/nov_52_4ec3b817055e.jpg"
       },
       {
         "id": "bne-ace8-gift",
@@ -9608,7 +9807,7 @@
         "description": "予約証明提示で先着プレゼント！",
         "iconType": "badge",
         "type": "canbadge",
-        "imageUrl": "./images/novelties/badge_canbadge.svg"
+        "imageUrl": "./images/novelties/nov_53_df70373d5847.jpg"
       },
       {
         "id": "booth-590-notion-259",
@@ -9653,6 +9852,24 @@
         "iconType": "badge",
         "imageUrl": "./images/novelties/nov_174_7802e2138db5.jpg",
         "type": "acryl"
+      },
+      {
+        "id": "nov-booth-16027-c650aa",
+        "name": "ブリーチ：ステッカー",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_54_97e0360d9433.jpg"
+      },
+      {
+        "id": "nov-booth-16027-c76e46",
+        "name": "エスコン：ステッカー",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_55_c687dc6228c6.jpg"
+      },
+      {
+        "id": "nov-booth-16027-1aa2b2",
+        "name": "ガンダムローグオービット：カード２種",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_56_8478cef61dba.jpg"
       }
     ],
     "shopItems": [
@@ -10038,7 +10255,7 @@
         "description": "遊戯王TAG FORCEの記念トークンカード！",
         "iconType": "card",
         "type": "card",
-        "imageUrl": "./images/novelties/badge_card.svg"
+        "imageUrl": "./images/novelties/nov_51_d03eda356609.jpg"
       },
       {
         "id": "konami-yugioh-sticker",
@@ -10049,7 +10266,7 @@
         "description": "デュエルアカデミア特製ステッカー！",
         "iconType": "sticker",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/nov_40_e9987ee7502c.jpg"
       },
       {
         "id": "konami-sora-book",
@@ -10060,7 +10277,7 @@
         "description": "冊子と缶バッジをプレゼント！",
         "iconType": "badge",
         "type": "canbadge",
-        "imageUrl": "./images/novelties/badge_canbadge.svg"
+        "imageUrl": "./images/novelties/nov_49_15e3508fcf0a.jpg"
       },
       {
         "id": "konami-gensui-water",
@@ -10071,7 +10288,7 @@
         "description": "主人公の里の銘水と特製ステッカーセット！",
         "iconType": "other",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/nov_43_29c736d9fa29.jpg"
       },
       {
         "id": "konami-future-seal",
@@ -10159,7 +10376,7 @@
         "description": "【KONAMI】コットン：消しゴム",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/nov_44_addb7a5d7d8a.jpg"
       },
       {
         "id": "booth-582-notion-37",
@@ -10247,7 +10464,7 @@
         "description": "【KONAMI】キャッスルバニア：ショッパー（配布）",
         "iconType": "bag",
         "type": "shopper",
-        "imageUrl": "./images/novelties/badge_shopper.svg"
+        "imageUrl": "./images/novelties/nov_38_294207077389.jpg"
       },
       {
         "id": "booth-582-notion-151",
@@ -10258,7 +10475,7 @@
         "description": "【KONAMI】幻想水滸伝：取説（配布）幻水・ステッカー（Xフォローなど）",
         "iconType": "sticker",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/nov_46_6d5459507196.jpg"
       },
       {
         "id": "booth-582-notion-152",
@@ -10269,7 +10486,7 @@
         "description": "【KONAMI】デジタル表示器：特急券風カード（配布）",
         "iconType": "card",
         "type": "card",
-        "imageUrl": "./images/novelties/badge_card.svg"
+        "imageUrl": "./images/novelties/nov_45_b1e9c44d6d42.jpg"
       },
       {
         "id": "booth-582-notion-153",
@@ -10280,7 +10497,7 @@
         "description": "【KONAMI】十三座戦記：ステッカー（Xフォロー）",
         "iconType": "sticker",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/nov_39_cdb04bc0648f.jpg"
       },
       {
         "id": "booth-582-notion-154",
@@ -10291,7 +10508,7 @@
         "description": "【KONAMI】project ZIRICON：カード（ウィッシュリスト）",
         "iconType": "card",
         "type": "card",
-        "imageUrl": "./images/novelties/badge_card.svg"
+        "imageUrl": "./images/novelties/nov_48_7b777b6597a2.jpg"
       },
       {
         "id": "booth-582-notion-263",
@@ -10303,6 +10520,18 @@
         "iconType": "tshirt",
         "imageUrl": "./images/novelties/nov_175_24e4b5a40d4b.jpg",
         "type": "tshirt"
+      },
+      {
+        "id": "nov-booth-16032-6815ba",
+        "name": "サイレントヒル：特製リストバンド",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_41_fe70180e4a1c.jpg"
+      },
+      {
+        "id": "nov-booth-16032-28cfb2",
+        "name": "サイレントヒル：限定Tシャツ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_175_24e4b5a40d4b.jpg"
       }
     ],
     "shopItems": [
@@ -10748,7 +10977,7 @@
         "description": "【インティクリエイツ】蒼き雷霆：缶バッジ",
         "iconType": "badge",
         "type": "canbadge",
-        "imageUrl": "./images/novelties/badge_canbadge.svg"
+        "imageUrl": "./images/novelties/nov_131_ad7185b9eee1.jpg"
       },
       {
         "id": "booth-14-notion-215",
@@ -10798,7 +11027,14 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [],
+    "novelties": [
+      {
+        "id": "nov-booth-16022-773eb8",
+        "name": "ニンジャラ　バルーン",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_91_2627fc2c9194.jpg"
+      }
+    ],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 292.3,
@@ -11190,7 +11426,7 @@
         "description": "【ハピネット】Lost Museum -カイガミ追想譚-：クリアファイル（配布）クリアしおり（SNS）",
         "iconType": "poster",
         "type": "clearfile",
-        "imageUrl": "./images/novelties/badge_clearfile.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_4b6bea83.png"
       },
       {
         "id": "booth-785-notion-185",
@@ -11201,7 +11437,13 @@
         "description": "【ハピネット】Tokyo Storys：ビジュアルシート（配布）ホログラムチケット（ウィッシュリスト）",
         "iconType": "card",
         "type": "clearfile",
-        "imageUrl": "./images/novelties/badge_clearfile.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_4b6bea83.png"
+      },
+      {
+        "id": "nov-booth-16036-913d80",
+        "name": "『ほの暮しの庭』特製ポストカード",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/gw_gw_1_4b6bea83.png"
       }
     ],
     "shopItems": [],
@@ -11306,14 +11548,14 @@
         "name": "『Marvel's Wolverine』特製メタリックステッカーセット",
         "condition": "『Marvel's Wolverine』シアター観覧・試遊体験",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/nov_1_9336140bf599.jpg"
       },
       {
         "id": "sony-nov-astro",
         "name": "『アストロボット』ダイカット キャラクターステッカー",
         "condition": "『アストロボット』フォトスポット体験",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/nov_2_1323e1000701.jpg"
       }
     ],
     "shopItems": [],
@@ -11378,7 +11620,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_tokyomx_1_9bada9c2.jpeg"
       },
       {
         "id": "booth-6-notion-107",
@@ -11389,7 +11631,7 @@
         "description": "【アソビズム】オモチム：キャップ他（条件不明）",
         "iconType": "other",
         "type": "tshirt",
-        "imageUrl": "./images/novelties/badge_tshirt.svg"
+        "imageUrl": "./images/novelties/gw_tokyomx_1_9bada9c2.jpeg"
       }
     ],
     "shopItems": [],
@@ -11591,7 +11833,7 @@
         "description": "【ネクソン】マビノギ：冷感タオル",
         "iconType": "tshirt",
         "type": "towel",
-        "imageUrl": "./images/novelties/badge_towel.svg"
+        "imageUrl": "./images/novelties/nov_129_00917ae38d26.jpg"
       },
       {
         "id": "booth-104-notion-89",
@@ -11602,7 +11844,13 @@
         "description": "【ネクソン】ファレイドリア：冷感タオル、缶バッジ（SNSでも）",
         "iconType": "tshirt",
         "type": "canbadge",
-        "imageUrl": "./images/novelties/badge_canbadge.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_ef405124.png"
+      },
+      {
+        "id": "nov-booth-16026-e4b385",
+        "name": "ネクソン特製クリアファイル＆ステッカー",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/gw_gw_2_f1b8b41c.png"
       }
     ],
     "shopItems": [],
@@ -12069,7 +12317,7 @@
         "description": "【Red Dunes Games】当日発表（不明）",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_skootagame_1_685ad0e3.png"
       }
     ],
     "shopItems": [],
@@ -12621,7 +12869,7 @@
         "description": "【カプコン】プラグマタ：マイクロファイバータオル",
         "iconType": "tshirt",
         "type": "towel",
-        "imageUrl": "./images/novelties/badge_towel.svg"
+        "imageUrl": "./images/novelties/nov_21_831378b6fae7.jpg"
       },
       {
         "id": "booth-581-notion-23",
@@ -14978,7 +15226,13 @@
         "description": "【サンリオ】おめん（来場）",
         "iconType": "poster",
         "type": "fan",
-        "imageUrl": "./images/novelties/badge_fan.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_69948391.png"
+      },
+      {
+        "id": "nov-booth-16018-03f30b",
+        "name": "サンリオキャラクターズ特製ネックストラップ＆缶バッジ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/gw_gw_1_69948391.png"
       }
     ],
     "shopItems": [],
@@ -15071,8 +15325,14 @@
         "isLimited": true,
         "description": "【ジェットスタジオ】カグラデン：ステッカー・竹うちわ（Xウィッシュリスト）",
         "iconType": "sticker",
-        "imageUrl": "./images/novelties/nov_130_a751421204a4.jpg",
+        "imageUrl": "./images/novelties/gw_gw_1_f27dca7e.jpeg",
         "type": "sticker"
+      },
+      {
+        "id": "nov-booth-16352-a3a281",
+        "name": "竹うちわ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_130_a751421204a4.jpg"
       }
     ],
     "shopItems": [],
@@ -15410,7 +15670,20 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [],
+    "novelties": [
+      {
+        "id": "nov-booth-16050-c901eb",
+        "name": "アクリルチャーム・シールのガチャ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_115_1914a8030fc9.jpg"
+      },
+      {
+        "id": "nov-booth-16050-c901eb",
+        "name": "アクリルチャーム・シールのガチャ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_116_0241db37b92d.jpg"
+      }
+    ],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 145.0,
@@ -15438,7 +15711,20 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [],
+    "novelties": [
+      {
+        "id": "nov-booth-17165-c901eb",
+        "name": "アクリルチャーム・シールのガチャ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_115_1914a8030fc9.jpg"
+      },
+      {
+        "id": "nov-booth-17165-c901eb",
+        "name": "アクリルチャーム・シールのガチャ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_116_0241db37b92d.jpg"
+      }
+    ],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 145.0,
@@ -15466,7 +15752,20 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [],
+    "novelties": [
+      {
+        "id": "nov-booth-17166-c901eb",
+        "name": "アクリルチャーム・シールのガチャ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_115_1914a8030fc9.jpg"
+      },
+      {
+        "id": "nov-booth-17166-c901eb",
+        "name": "アクリルチャーム・シールのガチャ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_116_0241db37b92d.jpg"
+      }
+    ],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 145.0,
@@ -15504,7 +15803,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_igiindiega_2_a2eee8c0.png"
       }
     ],
     "shopItems": [],
@@ -17006,7 +17305,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_f7c8a262.png"
       }
     ],
     "shopItems": [],
@@ -17386,6 +17685,12 @@
         "iconType": "sticker",
         "imageUrl": "./images/novelties/nov_148_2efb323e412b.jpg",
         "type": "sticker"
+      },
+      {
+        "id": "nov-booth-16112-d68443",
+        "name": "FWGames特製リーフレット＆橙々さんステッカー",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/gw_gw_1_c4f9d68f.png"
       }
     ],
     "shopItems": [],
@@ -17443,7 +17748,20 @@
     "themeColor": "#e11d48",
     "url": "https://drecom-creators-studio.com/",
     "games": [],
-    "novelties": [],
+    "novelties": [
+      {
+        "id": "nov-booth-16686-12dcc0",
+        "name": "クリアカード",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_105_d19ada735308.jpg"
+      },
+      {
+        "id": "nov-booth-16686-9f8f32",
+        "name": "うちわ（X）",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_154_11707a2d1a1b.jpg"
+      }
+    ],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 145.5,
@@ -18457,7 +18775,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_igiindiega_1_871f177b.png"
       }
     ],
     "shopItems": [],
@@ -18626,7 +18944,7 @@
         "description": "【フリュー】クライムライト：カード、ステッカー（条件）",
         "iconType": "sticker",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/nov_103_994f1c8b4d60.jpg"
       }
     ],
     "shopItems": [],
@@ -18707,7 +19025,32 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [],
+    "novelties": [
+      {
+        "id": "nov-booth-17564-c8b934",
+        "name": "うちわ（配布）ステッカー（ウィッシュリスト）",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_155_b2806302700b.jpg"
+      },
+      {
+        "id": "nov-booth-17564-c8b934",
+        "name": "うちわ（配布）ステッカー（ウィッシュリスト）",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_156_08808234ff02.jpg"
+      },
+      {
+        "id": "nov-booth-17564-c8b934",
+        "name": "うちわ（配布）ステッカー（ウィッシュリスト）",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_157_5c3b674bd84b.jpg"
+      },
+      {
+        "id": "nov-booth-17564-fd41d2",
+        "name": "扇子",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_151_38a295a90fe7.jpg"
+      }
+    ],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 154.9,
@@ -18735,7 +19078,32 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [],
+    "novelties": [
+      {
+        "id": "nov-booth-17565-c8b934",
+        "name": "うちわ（配布）ステッカー（ウィッシュリスト）",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_155_b2806302700b.jpg"
+      },
+      {
+        "id": "nov-booth-17565-c8b934",
+        "name": "うちわ（配布）ステッカー（ウィッシュリスト）",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_156_08808234ff02.jpg"
+      },
+      {
+        "id": "nov-booth-17565-c8b934",
+        "name": "うちわ（配布）ステッカー（ウィッシュリスト）",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_157_5c3b674bd84b.jpg"
+      },
+      {
+        "id": "nov-booth-17565-fd41d2",
+        "name": "扇子",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_151_38a295a90fe7.jpg"
+      }
+    ],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 154.9,
@@ -18826,7 +19194,7 @@
         "description": "【パルコゲームズ】▲FINDING POLKA：ブックカバー（ウィッシュリスト）",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_room6_1_2c201b07.png"
       },
       {
         "id": "booth-409-notion-247",
@@ -18837,7 +19205,7 @@
         "description": "【パルコゲームズ】▲CONSTANCE：キーホルダー（ウィッシュリスト）",
         "iconType": "badge",
         "type": "keyholder",
-        "imageUrl": "./images/novelties/badge_keyholder.svg"
+        "imageUrl": "./images/novelties/gw_room6_1_2c201b07.png"
       },
       {
         "id": "booth-409-notion-248",
@@ -18848,7 +19216,7 @@
         "description": "【パルコゲームズ】▲DEPERSON：エコバッグ（ウィッシュリスト）",
         "iconType": "bag",
         "type": "shopper",
-        "imageUrl": "./images/novelties/badge_shopper.svg"
+        "imageUrl": "./images/novelties/gw_room6_1_2c201b07.png"
       }
     ],
     "shopItems": [],
@@ -20113,7 +20481,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_7df105f5.jpeg"
       }
     ],
     "shopItems": [],
@@ -20855,7 +21223,14 @@
     "themeColor": "#e11d48",
     "url": "https://toydium.co.jp/",
     "games": [],
-    "novelties": [],
+    "novelties": [
+      {
+        "id": "nov-booth-16253-0e3e30",
+        "name": "クリアファイル・マグネット・キーホルダー",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_101_e2e0be9d0fbf.jpg"
+      }
+    ],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 94.0,
@@ -21759,7 +22134,7 @@
         "description": "【グラビティゲームアライズ】アルタ：エコバッグ",
         "iconType": "bag",
         "type": "shopper",
-        "imageUrl": "./images/novelties/badge_shopper.svg"
+        "imageUrl": "./images/novelties/nov_42_388b97760358.jpg"
       },
       {
         "id": "booth-334-notion-121",
@@ -21770,7 +22145,7 @@
         "description": "【グラビティゲームアライズ】ジャレコアーケードコレクション：カード",
         "iconType": "card",
         "type": "card",
-        "imageUrl": "./images/novelties/badge_card.svg"
+        "imageUrl": "./images/novelties/nov_42_388b97760358.jpg"
       },
       {
         "id": "booth-334-notion-122",
@@ -21781,7 +22156,7 @@
         "description": "【グラビティゲームアライズ】みんなで空気読み。ワールド 韓国Ver.：アクキー",
         "iconType": "badge",
         "type": "acryl",
-        "imageUrl": "./images/novelties/badge_acryl.svg"
+        "imageUrl": "./images/novelties/nov_42_388b97760358.jpg"
       },
       {
         "id": "booth-334-notion-123",
@@ -21792,7 +22167,7 @@
         "description": "【グラビティゲームアライズ】LIGHTY ODYSSEY：クリアしおり",
         "iconType": "poster",
         "type": "clearfile",
-        "imageUrl": "./images/novelties/badge_clearfile.svg"
+        "imageUrl": "./images/novelties/nov_42_388b97760358.jpg"
       },
       {
         "id": "booth-334-notion-124",
@@ -21803,7 +22178,7 @@
         "description": "【グラビティゲームアライズ】ガルバテイン：ICカードステッカー",
         "iconType": "sticker",
         "type": "sticker",
-        "imageUrl": "./images/novelties/badge_sticker.svg"
+        "imageUrl": "./images/novelties/nov_42_388b97760358.jpg"
       },
       {
         "id": "booth-334-notion-242",
@@ -21814,7 +22189,7 @@
         "description": "【グラビティゲームアライズ】RAGNAROK CONSOLE PROJECT：缶バッジ（ウィッシュリスト・ディスコ）",
         "iconType": "badge",
         "type": "canbadge",
-        "imageUrl": "./images/novelties/badge_canbadge.svg"
+        "imageUrl": "./images/novelties/nov_42_388b97760358.jpg"
       }
     ],
     "shopItems": [],
@@ -21895,7 +22270,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_igiindiega_2_a2eee8c0.png"
       }
     ],
     "shopItems": [],
@@ -21935,7 +22310,7 @@
         "description": "【room6】狐ト蛙ノ旅:写真カード",
         "iconType": "card",
         "type": "card",
-        "imageUrl": "./images/novelties/badge_card.svg"
+        "imageUrl": "./images/novelties/gw_room6_1_2c201b07.png"
       }
     ],
     "shopItems": [],
@@ -22021,7 +22396,26 @@
     "themeColor": "#e11d48",
     "url": "",
     "games": [],
-    "novelties": [],
+    "novelties": [
+      {
+        "id": "nov-booth-16664-73fdb9",
+        "name": "雑誌（配布）",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_153_16bbdab5b0f8.jpg"
+      },
+      {
+        "id": "nov-booth-16664-f544bd",
+        "name": "ヒストリア特製おみくじ風カード",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/gw_gw_1_7df105f5.jpeg"
+      },
+      {
+        "id": "nov-booth-16664-a8ad69",
+        "name": "講談社ゲームラボマガジン（幸村誠先生描き下ろし64P）",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/gw_gw_1_8a4446d1.jpg"
+      }
+    ],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 112.4,
@@ -22913,7 +23307,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_igiindiega_1_871f177b.png"
       }
     ],
     "shopItems": [],
@@ -23105,6 +23499,12 @@
         "iconType": "other",
         "imageUrl": "./images/novelties/nov_c5432993170c.jpg",
         "type": "goods"
+      },
+      {
+        "id": "nov-booth-16869-507987",
+        "name": "サトネのコースター＆シオイのふくろ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/gw_gw_1_c7c4c4fd.JPG"
       }
     ],
     "shopItems": [],
@@ -26612,7 +27012,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "tshirt",
-        "imageUrl": "./images/novelties/badge_tshirt.svg"
+        "imageUrl": "./images/novelties/gw_skootagame_1_685ad0e3.png"
       }
     ],
     "shopItems": [],
@@ -29859,7 +30259,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_igiindiega_1_871f177b.png"
       }
     ],
     "shopItems": [],
@@ -30490,7 +30890,7 @@
         "description": "限定デザインのアクリルキーホルダー！",
         "iconType": "other",
         "type": "acryl",
-        "imageUrl": "./images/novelties/badge_acryl.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_ef405124.png"
       },
       {
         "id": "sg-shopper",
@@ -30501,7 +30901,7 @@
         "description": "豪華ステージやブース来場者にプレゼント！",
         "iconType": "bag",
         "type": "shopper",
-        "imageUrl": "./images/novelties/badge_shopper.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_ef405124.png"
       }
     ],
     "shopItems": [],
@@ -30708,7 +31108,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "sticker",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/nov_96_de7a2860a76f.jpg"
       }
     ],
     "shopItems": [
@@ -30866,7 +31266,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_8a4446d1.jpg"
       }
     ],
     "shopItems": [],
@@ -33334,7 +33734,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_gw_1_02ea359f.png"
       }
     ],
     "shopItems": [],
@@ -34176,7 +34576,20 @@
     "themeColor": "#e11d48",
     "url": "https://exearena.com",
     "games": [],
-    "novelties": [],
+    "novelties": [
+      {
+        "id": "nov-booth-16746-083836",
+        "name": "●メッシュエコバッグ・ステッカー",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_113_8b0326fd9e0f.jpg"
+      },
+      {
+        "id": "nov-booth-16746-165d6e",
+        "name": "スクイーズ（配布）",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_160_7baee6ff9f5c.jpg"
+      }
+    ],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 0.0,
@@ -34484,7 +34897,14 @@
     "themeColor": "#e11d48",
     "url": "https://onexplayer.com",
     "games": [],
-    "novelties": [],
+    "novelties": [
+      {
+        "id": "nov-booth-16986-fdf09e",
+        "name": "アクスタ",
+        "condition": "ブース来場・試遊・配布特典",
+        "imageUrl": "./images/novelties/nov_114_6ca30c44630b.jpg"
+      }
+    ],
     "shopItems": [],
     "hasStageEvent": false,
     "mapX": 157.0,
@@ -35214,7 +35634,7 @@
         "description": "ブースにて数量限定で配布。なくなり次第終了。",
         "iconType": "other",
         "type": "goods",
-        "imageUrl": "./images/novelties/badge_goods.svg"
+        "imageUrl": "./images/novelties/gw_vivion_1_c56dc637.jpeg"
       }
     ],
     "shopItems": [
@@ -37561,7 +37981,7 @@
         "description": "【バンナム】エスコン：ビニールショッパー（配布）",
         "iconType": "bag",
         "type": "shopper",
-        "imageUrl": "./images/novelties/badge_shopper.svg"
+        "imageUrl": "./images/novelties/nov_24_731f4d76cd3f.jpg"
       },
       {
         "id": "booth-787-notion-157",
@@ -37572,7 +37992,7 @@
         "description": "【バンナム】ブリーチ:新月型バルーン（配布）ピンバッジ（事前登録）",
         "iconType": "badge",
         "type": "canbadge",
-        "imageUrl": "./images/novelties/badge_canbadge.svg"
+        "imageUrl": "./images/novelties/nov_24_731f4d76cd3f.jpg"
       }
     ],
     "shopItems": [],
