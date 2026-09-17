@@ -24212,7 +24212,7 @@
     "name": "Insert Coin Japan",
     "nameEn": "Insert Coin Japan",
     "nameKana": "インサートコインジャパン",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -24240,7 +24240,7 @@
     "name": "マイニングベース",
     "nameEn": "Mining Base",
     "nameKana": "マイニングベース",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -24436,7 +24436,7 @@
     "name": "Fangamer",
     "nameEn": "Fangamer",
     "nameKana": "ファンゲーマー",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -24464,7 +24464,7 @@
     "name": "コーエーテクモゲームス",
     "nameEn": "KOEI TECMO GAMES",
     "nameKana": "コーエーテクモゲームス",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -24536,7 +24536,7 @@
     "name": "日経BP",
     "nameEn": "NikkeiBP",
     "nameKana": "ニッケイビーピー",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -24844,7 +24844,7 @@
     "name": "カプコン",
     "nameEn": "CAPCOM",
     "nameKana": "カプコン",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -24908,7 +24908,7 @@
     "name": "AI PikattoAnime",
     "nameEn": "AI PikattoAnime",
     "nameKana": "アイピカットアニメ",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -24936,7 +24936,7 @@
     "name": "BANDAI SPIRITS 30MINUTES LABEL",
     "nameEn": "BANDAI SPIRITS 30MINUTES LABEL",
     "nameKana": "バンダイスピリッツサーティミニッツレーベル",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -24964,7 +24964,7 @@
     "name": "アストロメダ",
     "nameEn": "Astromeda",
     "nameKana": "アストロメダ",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -24992,7 +24992,7 @@
     "name": "イエロー",
     "nameEn": "Yellow",
     "nameKana": "イエロー",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -25020,7 +25020,7 @@
     "name": "サイバーコネクトツー",
     "nameEn": "CyberConnect2",
     "nameKana": "サイバーコネクトツー",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -25104,7 +25104,7 @@
     "name": "GAMES GLORIOUS",
     "nameEn": "GAMES GLORIOUS",
     "nameKana": "ゲームスグロリアース",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -25132,7 +25132,7 @@
     "name": "BLACK BALLOON MARKET",
     "nameEn": "BLACK BALLOON MARKET",
     "nameKana": "ブラックバルーンマーケット",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -25160,7 +25160,7 @@
     "name": "SSS",
     "nameEn": "SSS",
     "nameKana": "エスエスエス",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -25860,7 +25860,7 @@
     "name": "ZETA DIVISION",
     "nameEn": "ZETA DIVISION",
     "nameKana": "ゼータディビジョン",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -25888,7 +25888,7 @@
     "name": "Pulsar Gaming Gears",
     "nameEn": "Pulsar Gaming Gears",
     "nameKana": "パルサーゲーミングギア",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -25916,7 +25916,7 @@
     "name": "スパイダーウェブス",
     "nameEn": "Spiderwebs",
     "nameKana": "スパイダーウェブス",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -26738,7 +26738,7 @@
     "name": "スクウェア・エニックス",
     "nameEn": "SQUARE ENIX",
     "nameKana": "スクウェア・エニックス",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -26826,7 +26826,7 @@
     "name": "羽田プロジェクト",
     "nameEn": "HanedaProject",
     "nameKana": "ハネダプロジェクト",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -26854,7 +26854,7 @@
     "name": "+1F",
     "nameEn": "+1F",
     "nameKana": "プラスワンフレーム",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 9,
@@ -32007,7 +32007,7 @@
     "name": "コスパ",
     "nameEn": "COSPA",
     "nameKana": "コスパ",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 10,
@@ -32595,7 +32595,7 @@
     "name": "GRAPHT",
     "nameEn": "GRAPHT",
     "nameKana": "グラフト",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 10,
@@ -32643,7 +32643,7 @@
     "name": "いいじゃん",
     "nameEn": "IIJAN",
     "nameKana": "イイジャン",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 10,
@@ -32671,7 +32671,7 @@
     "name": "アヤメ",
     "nameEn": "Ayame",
     "nameKana": "アヤメ",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 10,
@@ -34235,7 +34235,7 @@
     "name": "インフォレンズ",
     "nameEn": "InfoLens",
     "nameKana": "インフォレンズ",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34283,7 +34283,7 @@
     "name": "ポケットペア",
     "nameEn": "Pocketpair",
     "nameKana": "ポケットペア",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34339,7 +34339,7 @@
     "name": "セガ／アトラス",
     "nameEn": "SEGA/ATLUS",
     "nameKana": "セガアトラス",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34403,7 +34403,7 @@
     "name": "AREA 35",
     "nameEn": "AREA 35",
     "nameKana": "エリアサンジュウゴ",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34431,7 +34431,7 @@
     "name": "STARFORGED",
     "nameEn": "STARFORGED",
     "nameKana": "スターフォージド",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34459,7 +34459,7 @@
     "name": "Alliance＆ FnaticGear ＆ Team Liquid ＆ Virtus.pro (ASK)",
     "nameEn": "Alliance & FnaticGear & Team Liquid & Virtus.pro(ASK)",
     "nameKana": "アライアンスアンドフナティックギアアンドチームリキッドアンドバータスプロアスク",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34487,7 +34487,7 @@
     "name": "TOYPLA",
     "nameEn": "TOYPLA",
     "nameKana": "トイプラ",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34515,7 +34515,7 @@
     "name": "TORCH TORCH",
     "nameEn": "TORCH TORCH",
     "nameKana": "トーチトーチ",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34573,7 +34573,7 @@
     "name": "ゲームセンターCX",
     "nameEn": "GAMECENTER CX",
     "nameKana": "ゲームセンターシーエックス",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34621,7 +34621,7 @@
     "name": "vaultroom",
     "nameEn": "vaultroom",
     "nameKana": "ヴォルトルーム",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34661,7 +34661,7 @@
     "name": "エンスカイ",
     "nameEn": "Ensky",
     "nameKana": "エンスカイ",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34689,7 +34689,7 @@
     "name": "NHN JAPAN",
     "nameEn": "NHN JAPAN",
     "nameKana": "エヌエイチエヌジャパン",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34753,7 +34753,7 @@
     "name": "メディアリンク",
     "nameEn": "MediaLink",
     "nameKana": "メディアリンク",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34781,7 +34781,7 @@
     "name": "楽天グループ",
     "nameEn": "Rakuten Group",
     "nameKana": "ラクテングループ",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34809,7 +34809,7 @@
     "name": "バンダイナムコエンターテインメント",
     "nameEn": "Bandai Namco Entertainment",
     "nameKana": "バンダイナムコエンターテインメント",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34873,7 +34873,7 @@
     "name": "コナミデジタルエンタテインメント",
     "nameEn": "Konami Digital Entertainment",
     "nameKana": "コナミデジタルエンタテインメント",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34937,7 +34937,7 @@
     "name": "アルジャーノンプロダクト",
     "nameEn": "ALRERNONPRODUCT",
     "nameKana": "アルジャーノンプロダクト",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
@@ -34965,7 +34965,7 @@
     "name": "FUTAROKU/Riot Store Japan",
     "nameEn": "FUTAROKU/Riot Store Japan",
     "nameKana": "フタロクライオットストアジャパン",
-    "category": "general",
+    "category": "shop",
     "categoryLabel": "物販コーナー",
     "location": {
       "hall": 11,
